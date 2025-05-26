@@ -1,0 +1,53 @@
+2025-05-25 00:43:40,210 - INFO - Logging initialized at: d:\ProjectDatMin\scraper\logs\scraper_log_20250525_004340.log
+2025-05-25 00:43:40,210 - INFO - CSV file created at: d:\ProjectDatMin\scraper\data\tweets_20250525_004340.csv
+2025-05-25 00:43:40,211 - INFO - Starting scraping process
+2025-05-25 00:43:40,211 - INFO - Searching for: vaksin
+2025-05-25 00:43:40,212 - INFO - ====== WebDriver manager ======
+2025-05-25 00:43:40,973 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-25 00:43:41,230 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-25 00:43:41,518 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-25 00:43:42,185 - INFO - WebDriver version 137.0.7151.40 selected
+2025-05-25 00:43:42,189 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/137.0.7151.40/win32/chromedriver-win32.zip
+2025-05-25 00:43:42,189 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/137.0.7151.40/win32/chromedriver-win32.zip
+2025-05-25 00:43:42,521 - INFO - Driver downloading response is 200
+2025-05-25 00:43:45,075 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-25 00:43:46,609 - INFO - Driver has been saved in cache [C:\Users\arkan\.wdm\drivers\chromedriver\win64\137.0.7151.40]
+2025-05-25 00:43:48,934 - INFO - WebDriver initialized successfully
+2025-05-25 00:43:48,934 - INFO - Attempting to login to Twitter
+2025-05-25 00:44:02,030 - INFO - Detected unusual login activity check
+2025-05-25 00:46:36,440 - ERROR - Login failed: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0x776423+63459]
+	GetHandleVerifier [0x0x776464+63524]
+	(No symbol) [0x0x5a1083]
+	(No symbol) [0x0x5e980e]
+	(No symbol) [0x0x5e9bab]
+	(No symbol) [0x0x6325a2]
+	(No symbol) [0x0x60e564]
+	(No symbol) [0x0x62fd9a]
+	(No symbol) [0x0x60e316]
+	(No symbol) [0x0x5dd640]
+	(No symbol) [0x0x5de4b4]
+	GetHandleVerifier [0x0x9d7f63+2560803]
+	GetHandleVerifier [0x0x9d33a2+2541410]
+	GetHandleVerifier [0x0x79c60a+219594]
+	GetHandleVerifier [0x0x78d2b8+157304]
+	GetHandleVerifier [0x0x79389d+183389]
+	GetHandleVerifier [0x0x77e388+96072]
+	GetHandleVerifier [0x0x77e530+96496]
+	GetHandleVerifier [0x0x76925a+9754]
+	BaseThreadInitThunk [0x0x7667fcc9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x77ae82ae+286]
+	RtlGetAppContainerNamedObjectPath [0x0x77ae827e+238]
+
+2025-05-25 00:46:36,442 - ERROR - Cannot proceed without login
+2025-05-25 00:46:38,786 - WARNING - Failed to scrape keyword: vaksin
+2025-05-25 00:46:38,786 - INFO - Waiting 6.5 seconds before next keyword...
+2025-05-25 00:46:45,245 - INFO - Searching for: vaksin covid
+2025-05-25 00:46:45,246 - INFO - ====== WebDriver manager ======
+2025-05-25 00:46:45,973 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-25 00:46:46,263 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-25 00:46:46,561 - INFO - Driver [C:\Users\arkan\.wdm\drivers\chromedriver\win64\137.0.7151.40\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-25 00:46:48,038 - INFO - WebDriver initialized successfully
+2025-05-25 00:46:48,038 - INFO - Attempting to login to Twitter
+2025-05-25 00:47:14,681 - INFO - Detected unusual login activity check

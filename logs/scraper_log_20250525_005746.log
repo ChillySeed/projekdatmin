@@ -1,0 +1,6 @@
+2025-05-25 00:57:46,206 - INFO - Logging initialized at: d:\ProjectDatMin\scraper\logs\scraper_log_20250525_005746.log
+2025-05-25 00:57:46,210 - INFO - CSV file created at: d:\ProjectDatMin\scraper\data\tweets_20250525_005746.csv
+2025-05-25 00:57:46,211 - INFO - Starting scraping process
+2025-05-25 00:57:46,211 - INFO - Searching for: vaksin
+2025-05-25 00:57:46,211 - INFO - ====== WebDriver manager ======
+2025-05-25 00:57:46,899 - INFO - Get LATEST chromedriver version for google-chrome

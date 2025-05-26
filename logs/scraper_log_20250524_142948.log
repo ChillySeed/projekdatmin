@@ -1,0 +1,2657 @@
+2025-05-24 14:29:48,128 - INFO - Logging initialized at: d:\ProjectDatMin\scraper\logs\scraper_log_20250524_142948.log
+2025-05-24 14:29:48,129 - INFO - CSV file created at: d:\ProjectDatMin\scraper\data\tweets_20250524_142948.csv
+2025-05-24 14:29:48,130 - INFO - Starting scraping process
+2025-05-24 14:29:48,130 - INFO - Searching for: vaksin
+2025-05-24 14:29:48,130 - INFO - ====== WebDriver manager ======
+2025-05-24 14:29:48,857 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-24 14:29:49,048 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-24 14:29:49,298 - INFO - Driver [C:\Users\arkan\.wdm\drivers\chromedriver\win64\137.0.7151.40\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-24 14:29:50,365 - INFO - WebDriver initialized successfully
+2025-05-24 14:29:50,365 - INFO - Attempting to login to Twitter
+2025-05-24 14:30:14,496 - INFO - Successfully logged in to Twitter
+2025-05-24 14:30:24,551 - INFO - Saved tweet from @KangManto123
+2025-05-24 14:30:24,625 - INFO - Saved tweet from @namasayalaut
+2025-05-24 14:30:24,694 - INFO - Saved tweet from @_______la_ye
+2025-05-24 14:30:24,751 - INFO - Saved tweet from @NyaiNeneng
+2025-05-24 14:30:24,811 - INFO - Saved tweet from @TurnBackHoax
+2025-05-24 14:30:24,871 - INFO - Saved tweet from @calomagang
+2025-05-24 14:30:24,927 - INFO - Saved tweet from @dyanaputrin
+2025-05-24 14:30:24,994 - INFO - Saved tweet from @GasMedsos
+2025-05-24 14:30:29,300 - INFO - Saved tweet from @unicelounge
+2025-05-24 14:30:29,358 - INFO - Saved tweet from @hanan052020
+2025-05-24 14:30:29,416 - INFO - Saved tweet from @youdzurioust
+2025-05-24 14:30:29,483 - INFO - Saved tweet from @isengajabikin_
+2025-05-24 14:30:29,540 - INFO - Saved tweet from @unicelounge
+2025-05-24 14:30:29,613 - INFO - Saved tweet from @MariaAlkaff_
+2025-05-24 14:30:29,679 - INFO - Saved tweet from @MariaAlkaff_
+2025-05-24 14:30:29,736 - INFO - Saved tweet from @DS_yantie
+2025-05-24 14:30:33,471 - INFO - Saved tweet from @info_libraja
+2025-05-24 14:30:33,533 - INFO - Saved tweet from @valiisaa
+2025-05-24 14:30:33,607 - INFO - Saved tweet from @Yattie2023
+2025-05-24 14:30:33,682 - INFO - Saved tweet from @unicelounge
+2025-05-24 14:30:33,752 - INFO - Saved tweet from @NenkMonica
+2025-05-24 14:30:33,809 - INFO - Saved tweet from @kochengfs
+2025-05-24 14:30:33,866 - INFO - Saved tweet from @toe_giman
+2025-05-24 14:30:33,924 - INFO - Saved tweet from @unicelounge
+2025-05-24 14:30:33,988 - INFO - Saved tweet from @9891ri
+2025-05-24 14:30:38,879 - INFO - Saved tweet from @yaniarsim
+2025-05-24 14:30:38,938 - INFO - Saved tweet from @Azulaaaaaaaz
+2025-05-24 14:30:39,002 - INFO - Saved tweet from @wansrosadi
+2025-05-24 14:30:39,059 - INFO - Saved tweet from @ch4o5Myth
+2025-05-24 14:30:39,115 - INFO - Saved tweet from @ArjayaDirja
+2025-05-24 14:30:39,183 - INFO - Saved tweet from @tb_siswadi
+2025-05-24 14:30:39,243 - INFO - Saved tweet from @sapirebuz
+2025-05-24 14:30:39,300 - INFO - Saved tweet from @WagimanDeep212_
+2025-05-24 14:30:44,388 - INFO - Saved tweet from @MariaAlkaff_
+2025-05-24 14:30:44,468 - INFO - Saved tweet from @unicelounge
+2025-05-24 14:30:44,550 - INFO - Saved tweet from @amareguzel
+2025-05-24 14:30:44,633 - INFO - Saved tweet from @unicelounge
+2025-05-24 14:30:44,738 - INFO - Saved tweet from @TedInvestigasi
+2025-05-24 14:30:44,813 - INFO - Saved tweet from @inganggita
+2025-05-24 14:30:44,891 - INFO - Saved tweet from @ayamaselimadu
+2025-05-24 14:30:44,961 - INFO - Saved tweet from @blue_berets7
+2025-05-24 14:30:45,196 - INFO - Saved tweet from @emaksinga
+2025-05-24 14:30:45,325 - INFO - Saved tweet from @wijaja
+2025-05-24 14:30:45,415 - INFO - Saved tweet from @MiraninonLita
+2025-05-24 14:30:49,506 - INFO - Saved tweet from @namasayalaut
+2025-05-24 14:30:49,634 - INFO - Saved tweet from @tempodotco
+2025-05-24 14:30:49,745 - INFO - Saved tweet from @PartaiSocmed
+2025-05-24 14:30:49,831 - INFO - Saved tweet from @Nicho_Silalahi
+2025-05-24 14:30:49,931 - INFO - Saved tweet from @OrterMald
+2025-05-24 14:30:50,055 - INFO - Saved tweet from @faizkrisnadi
+2025-05-24 14:30:50,055 - INFO - Taking 30 second break after 50 requests
+2025-05-24 14:31:20,125 - INFO - Saved tweet from @blue_berets7
+2025-05-24 14:31:20,182 - INFO - Saved tweet from @PartaiSocmed
+2025-05-24 14:31:20,240 - INFO - Saved tweet from @Boediantar4
+2025-05-24 14:31:20,296 - INFO - Saved tweet from @PartaiSocmed
+2025-05-24 14:31:23,631 - INFO - Saved tweet from @vyo_koo
+2025-05-24 14:31:23,729 - INFO - Saved tweet from @SumandoGaek
+2025-05-24 14:31:23,824 - INFO - Saved tweet from @LockandLockJaw
+2025-05-24 14:31:23,923 - INFO - Saved tweet from @skdeptic
+2025-05-24 14:31:24,035 - INFO - Saved tweet from @BuletinTV3
+2025-05-24 14:31:24,114 - INFO - Saved tweet from @yogi_febri93
+2025-05-24 14:31:24,190 - INFO - Saved tweet from @sbyfess
+2025-05-24 14:31:24,272 - INFO - Saved tweet from @patillele4364
+2025-05-24 14:31:24,355 - INFO - Saved tweet from @TedInvestigasi
+2025-05-24 14:31:24,422 - INFO - Saved tweet from @krezi_vaksin
+2025-05-24 14:31:24,491 - INFO - Saved tweet from @KATADATAcoid
+2025-05-24 14:31:27,794 - INFO - Saved tweet from @KemenkesRI
+2025-05-24 14:31:27,881 - INFO - Saved tweet from @tvOneNews
+2025-05-24 14:31:27,961 - INFO - Saved tweet from @librazoo
+2025-05-24 14:31:28,080 - INFO - Saved tweet from @wonglanang05
+2025-05-24 14:31:28,209 - INFO - Saved tweet from @shintaeffendi
+2025-05-24 14:31:28,318 - INFO - Saved tweet from @yellowflovver
+2025-05-24 14:31:28,406 - INFO - Saved tweet from @malakaf46
+2025-05-24 14:31:28,515 - INFO - Saved tweet from @StopTBIndonesia
+2025-05-24 14:31:28,657 - INFO - Saved tweet from @prabowogibran2
+2025-05-24 14:31:28,785 - INFO - Saved tweet from @ArtaN7707
+2025-05-24 14:31:33,425 - INFO - Saved tweet from @SumandoGaek
+2025-05-24 14:31:33,500 - INFO - Saved tweet from @TheRingOfPowers
+2025-05-24 14:31:33,591 - INFO - Saved tweet from @puputrossi
+2025-05-24 14:31:33,674 - INFO - Saved tweet from @iTwitRealShit
+2025-05-24 14:31:33,734 - INFO - Saved tweet from @tempodotco
+2025-05-24 14:31:33,795 - INFO - Saved tweet from @SumandoGaek
+2025-05-24 14:31:33,861 - INFO - Saved tweet from @AirinDatangLagi
+2025-05-24 14:31:33,942 - INFO - Saved tweet from @itsmedod_
+2025-05-24 14:31:34,072 - INFO - Saved tweet from @BebySoSweet
+2025-05-24 14:31:34,161 - INFO - Saved tweet from @slurxxx
+2025-05-24 14:31:38,471 - INFO - Saved tweet from @NenkMonica
+2025-05-24 14:31:38,558 - INFO - Saved tweet from @yaniarsim
+2025-05-24 14:31:38,645 - INFO - Saved tweet from @abyts_
+2025-05-24 14:31:38,718 - INFO - Saved tweet from @geloraco
+2025-05-24 14:31:38,779 - INFO - Saved tweet from @Pulse_twt
+2025-05-24 14:31:38,848 - INFO - Saved tweet from @aintlea_
+2025-05-24 14:31:38,919 - INFO - Saved tweet from @greyffindrr
+2025-05-24 14:31:38,985 - INFO - Saved tweet from @nenglaela93
+2025-05-24 14:31:39,068 - INFO - Saved tweet from @hariqosatria
+2025-05-24 14:31:43,267 - INFO - Saved tweet from @hariqosatria
+2025-05-24 14:31:43,370 - INFO - Saved tweet from @FawaaZen
+2025-05-24 14:31:43,440 - INFO - Saved tweet from @WagimanDeep212_
+2025-05-24 14:31:43,503 - INFO - Saved tweet from @pureblood_4ever
+2025-05-24 14:31:43,567 - INFO - Saved tweet from @ethadisaputra
+2025-05-24 14:31:43,630 - INFO - Saved tweet from @cacaamerica2
+2025-05-24 14:31:43,630 - INFO - Taking 30 second break after 50 requests
+2025-05-24 14:32:13,834 - INFO - Saved tweet from @PartaiSocmed
+2025-05-24 14:32:13,834 - INFO - Autosave checkpoint - 101 tweets collected so far
+2025-05-24 14:32:13,835 - INFO - Autosave completed
+2025-05-24 14:32:14,065 - INFO - Saved tweet from @PartaiSocmed
+2025-05-24 14:32:14,266 - INFO - Saved tweet from @blue_berets7
+2025-05-24 14:32:14,447 - INFO - Saved tweet from @PartaiSocmed
+2025-05-24 14:32:14,576 - INFO - Saved tweet from @RDeear44535
+2025-05-24 14:32:14,694 - INFO - Saved tweet from @itsayeeshaa
+2025-05-24 14:32:19,651 - INFO - Saved tweet from @cacaamerica2
+2025-05-24 14:32:19,829 - INFO - Saved tweet from @PartaiSocmed
+2025-05-24 14:32:20,027 - INFO - Saved tweet from @PartaiSocmed
+2025-05-24 14:32:20,209 - INFO - Saved tweet from @blue_berets7
+2025-05-24 14:32:20,450 - INFO - Saved tweet from @PartaiSocmed
+2025-05-24 14:32:20,631 - INFO - Saved tweet from @RDeear44535
+2025-05-24 14:32:21,020 - INFO - Saved tweet from @itsayeeshaa
+2025-05-24 14:32:21,351 - INFO - Saved tweet from @TedInvestigasi
+2025-05-24 14:32:21,533 - INFO - Saved tweet from @PapaOyen89
+2025-05-24 14:32:21,695 - INFO - Saved tweet from @KKMPutrajaya
+2025-05-24 14:32:21,841 - INFO - Saved tweet from @esadhx
+2025-05-24 14:32:21,958 - INFO - Saved tweet from @anna_journeyy
+2025-05-24 14:32:22,109 - INFO - Saved tweet from @Ach_rizal1
+2025-05-24 14:32:22,284 - INFO - Saved tweet from @redfabreee
+2025-05-24 14:32:22,439 - INFO - Saved tweet from @Jim_Lee_77
+2025-05-24 14:32:27,172 - INFO - Saved tweet from @PapaOyen89
+2025-05-24 14:32:27,399 - INFO - Saved tweet from @KKMPutrajaya
+2025-05-24 14:32:27,501 - INFO - Saved tweet from @esadhx
+2025-05-24 14:32:27,597 - INFO - Saved tweet from @anna_journeyy
+2025-05-24 14:32:27,680 - INFO - Saved tweet from @Ach_rizal1
+2025-05-24 14:32:27,754 - INFO - Saved tweet from @redfabreee
+2025-05-24 14:32:27,829 - INFO - Saved tweet from @Jim_Lee_77
+2025-05-24 14:32:27,908 - INFO - Saved tweet from @9891ri
+2025-05-24 14:32:27,987 - INFO - Saved tweet from @tempodotco
+2025-05-24 14:32:28,072 - INFO - Saved tweet from @gooenn
+2025-05-24 14:32:28,195 - INFO - Saved tweet from @davenitions
+2025-05-24 14:32:28,340 - INFO - Saved tweet from @INDONESIAPERKS4
+2025-05-24 14:32:32,677 - INFO - Saved tweet from @redfabreee
+2025-05-24 14:32:32,779 - INFO - Saved tweet from @Jim_Lee_77
+2025-05-24 14:32:32,872 - INFO - Saved tweet from @9891ri
+2025-05-24 14:32:32,982 - INFO - Saved tweet from @tempodotco
+2025-05-24 14:32:33,079 - INFO - Saved tweet from @gooenn
+2025-05-24 14:32:33,170 - INFO - Saved tweet from @davenitions
+2025-05-24 14:32:33,267 - INFO - Saved tweet from @INDONESIAPERKS4
+2025-05-24 14:32:33,464 - INFO - Saved tweet from @chyzy_21
+2025-05-24 14:32:33,582 - INFO - Saved tweet from @bonapasogit24
+2025-05-24 14:32:33,692 - INFO - Saved tweet from @M3di4Upd4t3
+2025-05-24 14:32:33,786 - INFO - Saved tweet from @Ary_PrasKe2
+2025-05-24 14:32:38,529 - INFO - Saved tweet from @INDONESIAPERKS4
+2025-05-24 14:32:38,704 - INFO - Saved tweet from @chyzy_21
+2025-05-24 14:32:38,860 - INFO - Saved tweet from @bonapasogit24
+2025-05-24 14:32:39,012 - INFO - Saved tweet from @M3di4Upd4t3
+2025-05-24 14:32:39,141 - INFO - Saved tweet from @Ary_PrasKe2
+2025-05-24 14:32:39,277 - INFO - Saved tweet from @9891ri
+2025-05-24 14:32:39,278 - INFO - Taking 30 second break after 50 requests
+2025-05-24 14:33:09,389 - INFO - Saved tweet from @iniaslinndr
+2025-05-24 14:33:09,496 - INFO - Saved tweet from @firdaadilla
+2025-05-24 14:33:09,589 - INFO - Saved tweet from @regar_op0sisi
+2025-05-24 14:33:14,798 - INFO - Saved tweet from @Ary_PrasKe2
+2025-05-24 14:33:14,894 - INFO - Saved tweet from @9891ri
+2025-05-24 14:33:14,985 - INFO - Saved tweet from @iniaslinndr
+2025-05-24 14:33:15,078 - INFO - Saved tweet from @firdaadilla
+2025-05-24 14:33:15,172 - INFO - Saved tweet from @regar_op0sisi
+2025-05-24 14:33:15,269 - INFO - Saved tweet from @PartaiSocmed
+2025-05-24 14:33:15,376 - INFO - Saved tweet from @PartaiSocmed
+2025-05-24 14:33:15,479 - INFO - Saved tweet from @tempodotco
+2025-05-24 14:33:15,571 - INFO - Saved tweet from @geloraco
+2025-05-24 14:33:19,976 - INFO - Saved tweet from @iniaslinndr
+2025-05-24 14:33:20,030 - INFO - Saved tweet from @firdaadilla
+2025-05-24 14:33:20,083 - INFO - Saved tweet from @regar_op0sisi
+2025-05-24 14:33:20,158 - INFO - Saved tweet from @PartaiSocmed
+2025-05-24 14:33:20,240 - INFO - Saved tweet from @PartaiSocmed
+2025-05-24 14:33:20,318 - INFO - Saved tweet from @tempodotco
+2025-05-24 14:33:20,393 - INFO - Saved tweet from @geloraco
+2025-05-24 14:33:20,709 - INFO - Saved tweet from @TedInvestigasi
+2025-05-24 14:33:20,781 - INFO - Saved tweet from @hatebymom
+2025-05-24 14:33:20,852 - INFO - Saved tweet from @mieayamiya
+2025-05-24 14:33:24,655 - INFO - Saved tweet from @tempodotco
+2025-05-24 14:33:24,707 - INFO - Saved tweet from @geloraco
+2025-05-24 14:33:24,759 - INFO - Saved tweet from @TedInvestigasi
+2025-05-24 14:33:24,812 - INFO - Saved tweet from @hatebymom
+2025-05-24 14:33:24,866 - INFO - Saved tweet from @mieayamiya
+2025-05-24 14:33:24,919 - INFO - Saved tweet from @yaudahgeh
+2025-05-24 14:33:24,972 - INFO - Saved tweet from @TheCurut007
+2025-05-24 14:33:25,026 - INFO - Saved tweet from @Heraloebss
+2025-05-24 14:33:25,087 - INFO - Saved tweet from @JSTrikukuh
+2025-05-24 14:33:28,626 - INFO - Saved tweet from @hatebymom
+2025-05-24 14:33:28,676 - INFO - Saved tweet from @mieayamiya
+2025-05-24 14:33:28,727 - INFO - Saved tweet from @yaudahgeh
+2025-05-24 14:33:28,777 - INFO - Saved tweet from @TheCurut007
+2025-05-24 14:33:28,827 - INFO - Saved tweet from @Heraloebss
+2025-05-24 14:33:28,884 - INFO - Saved tweet from @JSTrikukuh
+2025-05-24 14:33:28,887 - INFO - No new tweets loaded after scroll (attempt 1/5)
+2025-05-24 14:33:33,943 - INFO - Saved tweet from @hatebymom
+2025-05-24 14:33:34,000 - INFO - Saved tweet from @mieayamiya
+2025-05-24 14:33:34,060 - INFO - Saved tweet from @yaudahgeh
+2025-05-24 14:33:34,111 - INFO - Saved tweet from @TheCurut007
+2025-05-24 14:33:34,161 - INFO - Saved tweet from @Heraloebss
+2025-05-24 14:33:34,214 - INFO - Saved tweet from @JSTrikukuh
+2025-05-24 14:33:34,217 - INFO - No new tweets loaded after scroll (attempt 2/5)
+2025-05-24 14:33:38,611 - INFO - Saved tweet from @hatebymom
+2025-05-24 14:33:38,663 - INFO - Saved tweet from @mieayamiya
+2025-05-24 14:33:38,714 - INFO - Saved tweet from @yaudahgeh
+2025-05-24 14:33:38,764 - INFO - Saved tweet from @TheCurut007
+2025-05-24 14:33:38,839 - INFO - Saved tweet from @Heraloebss
+2025-05-24 14:33:38,925 - INFO - Saved tweet from @JSTrikukuh
+2025-05-24 14:33:38,930 - INFO - No new tweets loaded after scroll (attempt 3/5)
+2025-05-24 14:33:43,797 - INFO - Saved tweet from @hatebymom
+2025-05-24 14:33:43,797 - INFO - Taking 30 second break after 50 requests
+2025-05-24 14:34:13,805 - INFO - No new tweets loaded after scroll (attempt 4/5)
+2025-05-24 14:34:16,311 - INFO - Waiting 5.6 seconds before next keyword...
+2025-05-24 14:34:21,870 - INFO - Searching for: vaksin covid
+2025-05-24 14:34:21,870 - INFO - ====== WebDriver manager ======
+2025-05-24 14:34:23,360 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-24 14:34:23,522 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-24 14:34:23,649 - INFO - Driver [C:\Users\arkan\.wdm\drivers\chromedriver\win64\137.0.7151.40\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-24 14:34:25,851 - INFO - WebDriver initialized successfully
+2025-05-24 14:34:25,851 - INFO - Attempting to login to Twitter
+2025-05-24 14:34:53,211 - INFO - Successfully logged in to Twitter
+2025-05-24 14:35:03,000 - INFO - Saved tweet from @jogja_base
+2025-05-24 14:35:03,001 - INFO - Autosave checkpoint - 201 tweets collected so far
+2025-05-24 14:35:03,001 - INFO - Autosave completed
+2025-05-24 14:35:03,060 - INFO - Saved tweet from @blue_berets7
+2025-05-24 14:35:03,118 - INFO - Saved tweet from @faizkrisnadi
+2025-05-24 14:35:03,184 - INFO - Saved tweet from @xsugiantox
+2025-05-24 14:35:03,245 - INFO - Saved tweet from @introvexrt
+2025-05-24 14:35:03,306 - INFO - Saved tweet from @picwi0
+2025-05-24 14:35:03,367 - INFO - Saved tweet from @Fathorz_sii15
+2025-05-24 14:35:03,432 - INFO - Saved tweet from @tragicmickk
+2025-05-24 14:35:03,495 - INFO - Saved tweet from @dongyage
+2025-05-24 14:35:03,558 - INFO - Saved tweet from @BuletinTV3
+2025-05-24 14:35:03,629 - INFO - Saved tweet from @tokonya_nyx
+2025-05-24 14:35:03,697 - INFO - Saved tweet from @radarmadiunweb
+2025-05-24 14:35:08,229 - INFO - Saved tweet from @kyphrodite
+2025-05-24 14:35:08,290 - INFO - Saved tweet from @mirrramenn
+2025-05-24 14:35:08,355 - INFO - Saved tweet from @clkrdhu
+2025-05-24 14:35:08,417 - INFO - Saved tweet from @audendron
+2025-05-24 14:35:08,479 - INFO - Saved tweet from @TedInvestigasi
+2025-05-24 14:35:08,540 - INFO - Saved tweet from @TedInvestigasi
+2025-05-24 14:35:08,604 - INFO - Saved tweet from @Vikry72350632
+2025-05-24 14:35:08,664 - INFO - Saved tweet from @SinauNrimo
+2025-05-24 14:35:08,723 - INFO - Saved tweet from @AlexandraNg1991
+2025-05-24 14:35:08,786 - INFO - Saved tweet from @ngesty92
+2025-05-24 14:35:08,855 - INFO - Saved tweet from @hariankompas
+2025-05-24 14:35:08,953 - INFO - Saved tweet from @JackVardan
+2025-05-24 14:35:09,022 - INFO - Saved tweet from @valiisaa
+2025-05-24 14:35:09,088 - INFO - Saved tweet from @ajartwiterran
+2025-05-24 14:35:09,149 - INFO - Saved tweet from @yukopangestu
+2025-05-24 14:35:13,910 - INFO - Saved tweet from @blue_berets7
+2025-05-24 14:35:13,971 - INFO - Saved tweet from @vaga123459
+2025-05-24 14:35:14,032 - INFO - Saved tweet from @tweet_iban
+2025-05-24 14:35:14,093 - INFO - Saved tweet from @kopididid
+2025-05-24 14:35:14,157 - INFO - Saved tweet from @Xura2505
+2025-05-24 14:35:14,231 - INFO - Saved tweet from @pappup181224
+2025-05-24 14:35:14,300 - INFO - Saved tweet from @wickedlywildd
+2025-05-24 14:35:14,361 - INFO - Saved tweet from @grok
+2025-05-24 14:35:14,424 - INFO - Saved tweet from @TedInvestigasi
+2025-05-24 14:35:14,486 - INFO - Saved tweet from @hanan052020
+2025-05-24 14:35:14,545 - INFO - Saved tweet from @Daniess_73
+2025-05-24 14:35:14,605 - INFO - Saved tweet from @NoireDiva_
+2025-05-24 14:35:19,093 - INFO - Saved tweet from @TedInvestigasi
+2025-05-24 14:35:19,164 - INFO - Saved tweet from @hanan052020
+2025-05-24 14:35:19,225 - INFO - Saved tweet from @Daniess_73
+2025-05-24 14:35:19,293 - INFO - Saved tweet from @NoireDiva_
+2025-05-24 14:35:19,357 - INFO - Saved tweet from @hastapurnomo
+2025-05-24 14:35:19,421 - INFO - Saved tweet from @min9yume
+2025-05-24 14:35:19,484 - INFO - Saved tweet from @jungoogie19
+2025-05-24 14:35:19,545 - INFO - Saved tweet from @TedInvestigasi
+2025-05-24 14:35:19,604 - INFO - Saved tweet from @rudeski83
+2025-05-24 14:35:19,664 - INFO - Saved tweet from @edoth76
+2025-05-24 14:35:19,725 - INFO - Saved tweet from @Seek_truth963
+2025-05-24 14:35:19,725 - INFO - Taking 30 second break after 50 requests
+2025-05-24 14:35:49,794 - INFO - Saved tweet from @mulanbilqis
+2025-05-24 14:35:49,855 - INFO - Saved tweet from @TedInvestigasi
+2025-05-24 14:35:53,232 - INFO - Saved tweet from @MasFurqon15
+2025-05-24 14:35:53,303 - INFO - Saved tweet from @masihkecil
+2025-05-24 14:35:53,380 - INFO - Saved tweet from @ismailrumpa
+2025-05-24 14:35:53,954 - INFO - Saved tweet from @PartaiSocmed
+2025-05-24 14:35:54,037 - INFO - Saved tweet from @pinkieggs
+2025-05-24 14:35:54,098 - INFO - Saved tweet from @kelakuankuy
+2025-05-24 14:35:54,165 - INFO - Saved tweet from @sidhanty
+2025-05-24 14:35:54,227 - INFO - Saved tweet from @justpurpleworld
+2025-05-24 14:35:54,290 - INFO - Saved tweet from @turqlily
+2025-05-24 14:35:54,351 - INFO - Saved tweet from @merabyaby
+2025-05-24 14:35:54,424 - INFO - Saved tweet from @Saimsib
+2025-05-24 14:35:57,578 - INFO - Saved tweet from @honggeondong
+2025-05-24 14:35:57,645 - INFO - Saved tweet from @unicelounge
+2025-05-24 14:35:57,702 - INFO - Saved tweet from @grok
+2025-05-24 14:35:57,762 - INFO - Saved tweet from @grok
+2025-05-24 14:35:57,822 - INFO - Saved tweet from @grok
+2025-05-24 14:35:57,890 - INFO - Saved tweet from @Nemesis_34N
+2025-05-24 14:35:57,958 - INFO - Saved tweet from @UJmanik264
+2025-05-24 14:35:58,022 - INFO - Saved tweet from @Dennaaja_
+2025-05-24 14:35:58,089 - INFO - Saved tweet from @Muslim_AntiPKI9
+2025-05-24 14:35:58,152 - INFO - Saved tweet from @winchancoo
+2025-05-24 14:35:58,215 - INFO - Saved tweet from @symnd_
+2025-05-24 14:35:58,277 - INFO - Saved tweet from @UJmanik264
+2025-05-24 14:35:58,338 - INFO - Saved tweet from @re_Sagha
+2025-05-24 14:35:58,409 - INFO - Saved tweet from @UJmanik264
+2025-05-24 14:36:02,678 - INFO - Saved tweet from @UJmanik264
+2025-05-24 14:36:02,730 - INFO - Saved tweet from @grok
+2025-05-24 14:36:02,784 - INFO - Saved tweet from @grok
+2025-05-24 14:36:02,835 - INFO - Saved tweet from @PartaiSocmed
+2025-05-24 14:36:02,889 - INFO - Saved tweet from @Leewdoongwook
+2025-05-24 14:36:03,003 - INFO - Saved tweet from @wjhvrs
+2025-05-24 14:36:03,055 - INFO - Saved tweet from @PartaiSocmed
+2025-05-24 14:36:03,109 - INFO - Saved tweet from @arinaristia
+2025-05-24 14:36:07,643 - INFO - Saved tweet from @UJmanik264
+2025-05-24 14:36:07,698 - INFO - Saved tweet from @grok
+2025-05-24 14:36:07,751 - INFO - Saved tweet from @grok
+2025-05-24 14:36:07,802 - INFO - Saved tweet from @PartaiSocmed
+2025-05-24 14:36:07,854 - INFO - Saved tweet from @Leewdoongwook
+2025-05-24 14:36:07,910 - INFO - Saved tweet from @wjhvrs
+2025-05-24 14:36:07,981 - INFO - Saved tweet from @PartaiSocmed
+2025-05-24 14:36:08,047 - INFO - Saved tweet from @arinaristia
+2025-05-24 14:36:08,050 - INFO - No new tweets loaded after scroll (attempt 1/5)
+2025-05-24 14:36:12,087 - INFO - Saved tweet from @UJmanik264
+2025-05-24 14:36:12,140 - INFO - Saved tweet from @grok
+2025-05-24 14:36:12,192 - INFO - Saved tweet from @grok
+2025-05-24 14:36:12,243 - INFO - Saved tweet from @PartaiSocmed
+2025-05-24 14:36:12,295 - INFO - Saved tweet from @Leewdoongwook
+2025-05-24 14:36:12,348 - INFO - Saved tweet from @wjhvrs
+2025-05-24 14:36:12,400 - INFO - Saved tweet from @PartaiSocmed
+2025-05-24 14:36:12,400 - INFO - Taking 30 second break after 50 requests
+2025-05-24 14:36:42,466 - INFO - Saved tweet from @arinaristia
+2025-05-24 14:36:42,469 - INFO - No new tweets loaded after scroll (attempt 2/5)
+2025-05-24 14:36:47,410 - INFO - Saved tweet from @UJmanik264
+2025-05-24 14:36:47,462 - INFO - Saved tweet from @grok
+2025-05-24 14:36:47,515 - INFO - Saved tweet from @grok
+2025-05-24 14:36:47,568 - INFO - Saved tweet from @PartaiSocmed
+2025-05-24 14:36:47,619 - INFO - Saved tweet from @Leewdoongwook
+2025-05-24 14:36:47,671 - INFO - Saved tweet from @wjhvrs
+2025-05-24 14:36:47,722 - INFO - Saved tweet from @PartaiSocmed
+2025-05-24 14:36:47,774 - INFO - Saved tweet from @arinaristia
+2025-05-24 14:36:47,777 - INFO - No new tweets loaded after scroll (attempt 3/5)
+2025-05-24 14:36:52,176 - INFO - Saved tweet from @UJmanik264
+2025-05-24 14:36:52,230 - INFO - Saved tweet from @grok
+2025-05-24 14:36:52,282 - INFO - Saved tweet from @grok
+2025-05-24 14:36:52,333 - INFO - Saved tweet from @PartaiSocmed
+2025-05-24 14:36:52,426 - INFO - Saved tweet from @Leewdoongwook
+2025-05-24 14:36:52,477 - INFO - Saved tweet from @wjhvrs
+2025-05-24 14:36:52,528 - INFO - Saved tweet from @PartaiSocmed
+2025-05-24 14:36:52,580 - INFO - Saved tweet from @arinaristia
+2025-05-24 14:36:52,583 - INFO - No new tweets loaded after scroll (attempt 4/5)
+2025-05-24 14:36:56,410 - INFO - Saved tweet from @UJmanik264
+2025-05-24 14:36:56,463 - INFO - Saved tweet from @grok
+2025-05-24 14:36:56,515 - INFO - Saved tweet from @grok
+2025-05-24 14:36:56,567 - INFO - Saved tweet from @PartaiSocmed
+2025-05-24 14:36:56,621 - INFO - Saved tweet from @Leewdoongwook
+2025-05-24 14:36:56,672 - INFO - Saved tweet from @wjhvrs
+2025-05-24 14:36:56,722 - INFO - Saved tweet from @PartaiSocmed
+2025-05-24 14:36:56,775 - INFO - Saved tweet from @arinaristia
+2025-05-24 14:36:56,778 - INFO - No new tweets loaded after scroll (attempt 5/5)
+2025-05-24 14:36:59,312 - INFO - Waiting 7.0 seconds before next keyword...
+2025-05-24 14:37:06,271 - INFO - Searching for: enggak vaksin
+2025-05-24 14:37:06,271 - INFO - ====== WebDriver manager ======
+2025-05-24 14:37:06,939 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-24 14:37:07,138 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-24 14:37:07,334 - INFO - Driver [C:\Users\arkan\.wdm\drivers\chromedriver\win64\137.0.7151.40\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-24 14:37:08,407 - INFO - WebDriver initialized successfully
+2025-05-24 14:37:08,407 - INFO - Attempting to login to Twitter
+2025-05-24 14:37:32,086 - INFO - Successfully logged in to Twitter
+2025-05-24 14:37:41,625 - INFO - Saved tweet from @ododanodi
+2025-05-24 14:37:41,625 - INFO - Autosave checkpoint - 326 tweets collected so far
+2025-05-24 14:37:41,625 - INFO - Autosave completed
+2025-05-24 14:37:41,680 - INFO - Saved tweet from @hildaikka_
+2025-05-24 14:37:41,808 - INFO - Saved tweet from @bungatidurrr
+2025-05-24 14:37:41,869 - INFO - Saved tweet from @dodfern
+2025-05-24 14:37:41,959 - INFO - Saved tweet from @nidhiasofi
+2025-05-24 14:37:42,036 - INFO - Saved tweet from @decpride
+2025-05-24 14:37:42,116 - INFO - Saved tweet from @DVierda
+2025-05-24 14:37:42,200 - INFO - Saved tweet from @Itje157
+2025-05-24 14:37:42,269 - INFO - Saved tweet from @PahamRadikal
+2025-05-24 14:37:46,166 - INFO - Saved tweet from @ododanodi
+2025-05-24 14:37:46,219 - INFO - Saved tweet from @hildaikka_
+2025-05-24 14:37:46,270 - INFO - Saved tweet from @bungatidurrr
+2025-05-24 14:37:46,323 - INFO - Saved tweet from @dodfern
+2025-05-24 14:37:46,381 - INFO - Saved tweet from @nidhiasofi
+2025-05-24 14:37:46,438 - INFO - Saved tweet from @decpride
+2025-05-24 14:37:46,492 - INFO - Saved tweet from @DVierda
+2025-05-24 14:37:46,547 - INFO - Saved tweet from @Itje157
+2025-05-24 14:37:46,601 - INFO - Saved tweet from @PahamRadikal
+2025-05-24 14:37:46,604 - INFO - No new tweets loaded after scroll (attempt 1/5)
+2025-05-24 14:37:50,694 - INFO - Saved tweet from @ododanodi
+2025-05-24 14:37:50,750 - INFO - Saved tweet from @hildaikka_
+2025-05-24 14:37:50,803 - INFO - Saved tweet from @bungatidurrr
+2025-05-24 14:37:50,855 - INFO - Saved tweet from @dodfern
+2025-05-24 14:37:50,910 - INFO - Saved tweet from @nidhiasofi
+2025-05-24 14:37:50,965 - INFO - Saved tweet from @decpride
+2025-05-24 14:37:51,021 - INFO - Saved tweet from @DVierda
+2025-05-24 14:37:51,021 - INFO - Taking 30 second break after 50 requests
+2025-05-24 14:38:21,092 - INFO - Saved tweet from @Itje157
+2025-05-24 14:38:21,145 - INFO - Saved tweet from @PahamRadikal
+2025-05-24 14:38:21,148 - INFO - No new tweets loaded after scroll (attempt 2/5)
+2025-05-24 14:38:24,489 - INFO - Saved tweet from @ododanodi
+2025-05-24 14:38:24,543 - INFO - Saved tweet from @hildaikka_
+2025-05-24 14:38:24,596 - INFO - Saved tweet from @bungatidurrr
+2025-05-24 14:38:24,650 - INFO - Saved tweet from @dodfern
+2025-05-24 14:38:24,738 - INFO - Saved tweet from @nidhiasofi
+2025-05-24 14:38:24,791 - INFO - Saved tweet from @decpride
+2025-05-24 14:38:24,847 - INFO - Saved tweet from @DVierda
+2025-05-24 14:38:24,906 - INFO - Saved tweet from @Itje157
+2025-05-24 14:38:24,970 - INFO - Saved tweet from @PahamRadikal
+2025-05-24 14:38:24,974 - INFO - No new tweets loaded after scroll (attempt 3/5)
+2025-05-24 14:38:28,199 - INFO - Saved tweet from @ododanodi
+2025-05-24 14:38:28,252 - INFO - Saved tweet from @hildaikka_
+2025-05-24 14:38:28,304 - INFO - Saved tweet from @bungatidurrr
+2025-05-24 14:38:28,356 - INFO - Saved tweet from @dodfern
+2025-05-24 14:38:28,410 - INFO - Saved tweet from @nidhiasofi
+2025-05-24 14:38:28,462 - INFO - Saved tweet from @decpride
+2025-05-24 14:38:28,515 - INFO - Saved tweet from @DVierda
+2025-05-24 14:38:28,572 - INFO - Saved tweet from @Itje157
+2025-05-24 14:38:28,625 - INFO - Saved tweet from @PahamRadikal
+2025-05-24 14:38:28,627 - INFO - No new tweets loaded after scroll (attempt 4/5)
+2025-05-24 14:38:32,478 - INFO - Saved tweet from @ododanodi
+2025-05-24 14:38:32,532 - INFO - Saved tweet from @hildaikka_
+2025-05-24 14:38:32,622 - INFO - Saved tweet from @bungatidurrr
+2025-05-24 14:38:32,693 - INFO - Saved tweet from @dodfern
+2025-05-24 14:38:32,745 - INFO - Saved tweet from @nidhiasofi
+2025-05-24 14:38:32,798 - INFO - Saved tweet from @decpride
+2025-05-24 14:38:32,854 - INFO - Saved tweet from @DVierda
+2025-05-24 14:38:32,907 - INFO - Saved tweet from @Itje157
+2025-05-24 14:38:32,962 - INFO - Saved tweet from @PahamRadikal
+2025-05-24 14:38:32,965 - INFO - No new tweets loaded after scroll (attempt 5/5)
+2025-05-24 14:38:35,396 - INFO - Waiting 8.7 seconds before next keyword...
+2025-05-24 14:38:44,072 - INFO - Searching for: takut vaksin
+2025-05-24 14:38:44,073 - INFO - ====== WebDriver manager ======
+2025-05-24 14:38:44,762 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-24 14:38:45,068 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-24 14:38:45,261 - INFO - Driver [C:\Users\arkan\.wdm\drivers\chromedriver\win64\137.0.7151.40\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-24 14:38:46,357 - INFO - WebDriver initialized successfully
+2025-05-24 14:38:46,358 - INFO - Attempting to login to Twitter
+2025-05-24 14:39:10,489 - INFO - Successfully logged in to Twitter
+2025-05-24 14:39:21,041 - INFO - Saved tweet from @NarasiNewsroom
+2025-05-24 14:39:21,107 - INFO - Saved tweet from @kailashmahija
+2025-05-24 14:39:21,172 - INFO - Saved tweet from @puputrossi
+2025-05-24 14:39:21,240 - INFO - Saved tweet from @dean_z12
+2025-05-24 14:39:21,313 - INFO - Saved tweet from @MiraninonLita
+2025-05-24 14:39:21,383 - INFO - Saved tweet from @zakisuhaidi710
+2025-05-24 14:39:21,453 - INFO - Saved tweet from @iloveyoum073
+2025-05-24 14:39:21,532 - INFO - Saved tweet from @DjolaFix
+2025-05-24 14:39:25,444 - INFO - Saved tweet from @NarasiNewsroom
+2025-05-24 14:39:25,500 - INFO - Saved tweet from @kailashmahija
+2025-05-24 14:39:25,562 - INFO - Saved tweet from @puputrossi
+2025-05-24 14:39:25,620 - INFO - Saved tweet from @dean_z12
+2025-05-24 14:39:25,757 - INFO - Saved tweet from @MiraninonLita
+2025-05-24 14:39:25,822 - INFO - Saved tweet from @zakisuhaidi710
+2025-05-24 14:39:25,882 - INFO - Saved tweet from @iloveyoum073
+2025-05-24 14:39:25,945 - INFO - Saved tweet from @DjolaFix
+2025-05-24 14:39:25,948 - INFO - No new tweets loaded after scroll (attempt 1/5)
+2025-05-24 14:39:30,960 - INFO - Saved tweet from @NarasiNewsroom
+2025-05-24 14:39:31,014 - INFO - Saved tweet from @kailashmahija
+2025-05-24 14:39:31,077 - INFO - Saved tweet from @puputrossi
+2025-05-24 14:39:31,137 - INFO - Saved tweet from @dean_z12
+2025-05-24 14:39:31,199 - INFO - Saved tweet from @MiraninonLita
+2025-05-24 14:39:31,199 - INFO - Taking 30 second break after 50 requests
+2025-05-24 14:40:01,262 - INFO - Saved tweet from @zakisuhaidi710
+2025-05-24 14:40:01,262 - INFO - Autosave checkpoint - 401 tweets collected so far
+2025-05-24 14:40:01,262 - INFO - Autosave completed
+2025-05-24 14:40:01,316 - INFO - Saved tweet from @iloveyoum073
+2025-05-24 14:40:01,372 - INFO - Saved tweet from @DjolaFix
+2025-05-24 14:40:01,375 - INFO - No new tweets loaded after scroll (attempt 2/5)
+2025-05-24 14:40:06,002 - INFO - Saved tweet from @NarasiNewsroom
+2025-05-24 14:40:06,054 - INFO - Saved tweet from @kailashmahija
+2025-05-24 14:40:06,108 - INFO - Saved tweet from @puputrossi
+2025-05-24 14:40:06,160 - INFO - Saved tweet from @dean_z12
+2025-05-24 14:40:06,214 - INFO - Saved tweet from @MiraninonLita
+2025-05-24 14:40:06,268 - INFO - Saved tweet from @zakisuhaidi710
+2025-05-24 14:40:06,321 - INFO - Saved tweet from @iloveyoum073
+2025-05-24 14:40:06,376 - INFO - Saved tweet from @DjolaFix
+2025-05-24 14:40:06,379 - INFO - No new tweets loaded after scroll (attempt 3/5)
+2025-05-24 14:40:10,610 - INFO - Saved tweet from @NarasiNewsroom
+2025-05-24 14:40:10,694 - INFO - Saved tweet from @kailashmahija
+2025-05-24 14:40:10,748 - INFO - Saved tweet from @puputrossi
+2025-05-24 14:40:10,800 - INFO - Saved tweet from @dean_z12
+2025-05-24 14:40:10,854 - INFO - Saved tweet from @MiraninonLita
+2025-05-24 14:40:10,910 - INFO - Saved tweet from @zakisuhaidi710
+2025-05-24 14:40:10,970 - INFO - Saved tweet from @iloveyoum073
+2025-05-24 14:40:11,025 - INFO - Saved tweet from @DjolaFix
+2025-05-24 14:40:11,027 - INFO - No new tweets loaded after scroll (attempt 4/5)
+2025-05-24 14:40:15,911 - INFO - Saved tweet from @NarasiNewsroom
+2025-05-24 14:40:15,965 - INFO - Saved tweet from @kailashmahija
+2025-05-24 14:40:16,022 - INFO - Saved tweet from @puputrossi
+2025-05-24 14:40:16,082 - INFO - Saved tweet from @dean_z12
+2025-05-24 14:40:16,135 - INFO - Saved tweet from @MiraninonLita
+2025-05-24 14:40:16,186 - INFO - Saved tweet from @zakisuhaidi710
+2025-05-24 14:40:16,278 - INFO - Saved tweet from @iloveyoum073
+2025-05-24 14:40:16,331 - INFO - Saved tweet from @DjolaFix
+2025-05-24 14:40:16,334 - INFO - No new tweets loaded after scroll (attempt 5/5)
+2025-05-24 14:40:18,777 - INFO - Waiting 7.6 seconds before next keyword...
+2025-05-24 14:40:26,402 - INFO - Searching for: efek vaksin
+2025-05-24 14:40:26,403 - INFO - ====== WebDriver manager ======
+2025-05-24 14:40:27,112 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-24 14:40:27,267 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-24 14:40:27,438 - INFO - Driver [C:\Users\arkan\.wdm\drivers\chromedriver\win64\137.0.7151.40\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-24 14:40:28,647 - INFO - WebDriver initialized successfully
+2025-05-24 14:40:28,647 - INFO - Attempting to login to Twitter
+2025-05-24 14:40:49,751 - INFO - Successfully logged in to Twitter
+2025-05-24 14:41:00,544 - INFO - Saved tweet from @blue_berets7
+2025-05-24 14:41:00,600 - INFO - Saved tweet from @pinkieggs
+2025-05-24 14:41:00,659 - INFO - Saved tweet from @Srik4ndiMuslim2
+2025-05-24 14:41:00,737 - INFO - Saved tweet from @odetterosella
+2025-05-24 14:41:00,820 - INFO - Saved tweet from @Finie_Asif
+2025-05-24 14:41:00,905 - INFO - Saved tweet from @kelakuankuy
+2025-05-24 14:41:00,985 - INFO - Saved tweet from @ocilachiato
+2025-05-24 14:41:01,062 - INFO - Saved tweet from @kecebongkali_40
+2025-05-24 14:41:01,137 - INFO - Saved tweet from @turqlily
+2025-05-24 14:41:01,213 - INFO - Saved tweet from @ThatSun510
+2025-05-24 14:41:01,299 - INFO - Saved tweet from @nenglaela93
+2025-05-24 14:41:04,864 - INFO - Saved tweet from @ArtaN7707
+2025-05-24 14:41:04,923 - INFO - Saved tweet from @emaksinga
+2025-05-24 14:41:04,981 - INFO - Saved tweet from @tragicmickk
+2025-05-24 14:41:05,053 - INFO - Saved tweet from @tmharu29
+2025-05-24 14:41:05,119 - INFO - Saved tweet from @clkrdhu
+2025-05-24 14:41:05,190 - INFO - Saved tweet from @bosenbingits
+2025-05-24 14:41:05,251 - INFO - Saved tweet from @kochengfs
+2025-05-24 14:41:05,311 - INFO - Saved tweet from @penempaan
+2025-05-24 14:41:05,373 - INFO - Saved tweet from @tempodotco
+2025-05-24 14:41:05,440 - INFO - Saved tweet from @switzaly
+2025-05-24 14:41:05,506 - INFO - Saved tweet from @stayingprivates
+2025-05-24 14:41:05,568 - INFO - Saved tweet from @arkadewaa
+2025-05-24 14:41:05,568 - INFO - Taking 30 second break after 50 requests
+2025-05-24 14:41:35,635 - INFO - Saved tweet from @NodusPurkinje
+2025-05-24 14:41:35,697 - INFO - Saved tweet from @norisligo
+2025-05-24 14:41:35,751 - INFO - Saved tweet from @hanan052020
+2025-05-24 14:41:35,805 - INFO - Saved tweet from @detikcom
+2025-05-24 14:41:39,739 - INFO - Saved tweet from @heybogosipeo
+2025-05-24 14:41:39,808 - INFO - Saved tweet from @areesthya
+2025-05-24 14:41:39,875 - INFO - Saved tweet from @blue_berets7
+2025-05-24 14:41:39,946 - INFO - Saved tweet from @TedInvestigasi
+2025-05-24 14:41:40,013 - INFO - Saved tweet from @yo2thok
+2025-05-24 14:41:40,079 - INFO - Saved tweet from @Timo_stef
+2025-05-24 14:41:40,146 - INFO - Saved tweet from @BKT48Bella
+2025-05-24 14:41:40,216 - INFO - Saved tweet from @faridzdzdz
+2025-05-24 14:41:40,283 - INFO - Saved tweet from @dyo_uchi
+2025-05-24 14:41:40,351 - INFO - Saved tweet from @coachaddie_off
+2025-05-24 14:41:40,418 - INFO - Saved tweet from @woleswoosh
+2025-05-24 14:41:40,498 - INFO - Saved tweet from @babyvanillaaa
+2025-05-24 14:41:40,585 - INFO - Saved tweet from @arJannatan
+2025-05-24 14:41:40,668 - INFO - Saved tweet from @grok
+2025-05-24 14:41:40,750 - INFO - Saved tweet from @vantasticbeast
+2025-05-24 14:41:40,829 - INFO - Saved tweet from @dallaverty
+2025-05-24 14:41:40,905 - INFO - Saved tweet from @zulaikhanur149
+2025-05-24 14:41:40,978 - INFO - Saved tweet from @bonapasogit24
+2025-05-24 14:41:45,597 - INFO - Saved tweet from @Mosomrapuchom
+2025-05-24 14:41:45,659 - INFO - Saved tweet from @grok
+2025-05-24 14:41:45,723 - INFO - Saved tweet from @grok
+2025-05-24 14:41:45,818 - INFO - Saved tweet from @anotherneiii
+2025-05-24 14:41:45,901 - INFO - Saved tweet from @detikHealth
+2025-05-24 14:41:45,995 - INFO - Saved tweet from @handoyo0912
+2025-05-24 14:41:46,088 - INFO - Saved tweet from @BKT48Bella
+2025-05-24 14:41:46,176 - INFO - Saved tweet from @SINDOnews
+2025-05-24 14:41:46,249 - INFO - Saved tweet from @doyanm4m
+2025-05-24 14:41:46,332 - INFO - Saved tweet from @nisrinarfh
+2025-05-24 14:41:46,412 - INFO - Saved tweet from @Fa5871Faisal
+2025-05-24 14:41:46,488 - INFO - Saved tweet from @miyawmiyow
+2025-05-24 14:41:46,572 - INFO - Saved tweet from @cnyod
+2025-05-24 14:41:46,776 - INFO - Saved tweet from @Itsyummies
+2025-05-24 14:41:46,863 - INFO - Saved tweet from @ArtaN7707
+2025-05-24 14:41:51,055 - INFO - Saved tweet from @RatnaPuspi16942
+2025-05-24 14:41:51,111 - INFO - Saved tweet from @edoth76
+2025-05-24 14:41:51,165 - INFO - Saved tweet from @PartaiSocmed
+2025-05-24 14:41:51,222 - INFO - Saved tweet from @leeninys
+2025-05-24 14:41:51,278 - INFO - Saved tweet from @yudaherdanto
+2025-05-24 14:41:51,350 - INFO - Saved tweet from @grok
+2025-05-24 14:41:51,417 - INFO - Saved tweet from @kogoromilenial
+2025-05-24 14:41:51,474 - INFO - Saved tweet from @HumorJonTampan
+2025-05-24 14:41:51,532 - INFO - Saved tweet from @Nicho_Silalahi
+2025-05-24 14:41:51,590 - INFO - Saved tweet from @poppo2908
+2025-05-24 14:41:51,648 - INFO - Saved tweet from @df_agus
+2025-05-24 14:41:51,708 - INFO - Saved tweet from @sonderlilac
+2025-05-24 14:41:51,771 - INFO - Saved tweet from @SSENTAIBOYHERO
+2025-05-24 14:41:51,772 - INFO - Taking 30 second break after 50 requests
+2025-05-24 14:42:21,841 - INFO - Saved tweet from @yanuardliwang
+2025-05-24 14:42:21,841 - INFO - Autosave checkpoint - 501 tweets collected so far
+2025-05-24 14:42:21,841 - INFO - Autosave completed
+2025-05-24 14:42:21,897 - INFO - Saved tweet from @bungamr
+2025-05-24 14:42:21,952 - INFO - Saved tweet from @RalineBae2223
+2025-05-24 14:42:22,007 - INFO - Saved tweet from @askDika
+2025-05-24 14:42:25,611 - INFO - Saved tweet from @chewbaaacca
+2025-05-24 14:42:25,667 - INFO - Saved tweet from @maisikrit
+2025-05-24 14:42:25,721 - INFO - Saved tweet from @Blooming_Meadow
+2025-05-24 14:42:25,776 - INFO - Saved tweet from @pohongila
+2025-05-24 14:42:25,834 - INFO - Saved tweet from @shirosbby
+2025-05-24 14:42:25,891 - INFO - Saved tweet from @indonesiago_id
+2025-05-24 14:42:25,946 - INFO - Saved tweet from @itsyourbrown
+2025-05-24 14:42:26,000 - INFO - Saved tweet from @NusantaraJaya26
+2025-05-24 14:42:26,056 - INFO - Saved tweet from @slutsayur
+2025-05-24 14:42:26,112 - INFO - Saved tweet from @InfoPublikIP
+2025-05-24 14:42:26,181 - INFO - Saved tweet from @detikHealth
+2025-05-24 14:42:26,248 - INFO - Saved tweet from @reyricho
+2025-05-24 14:42:26,311 - INFO - Saved tweet from @m4s4g03s
+2025-05-24 14:42:26,380 - INFO - Saved tweet from @areesthya
+2025-05-24 14:42:26,438 - INFO - Saved tweet from @WiniYlita
+2025-05-24 14:42:26,498 - INFO - Saved tweet from @rinkelbelle
+2025-05-24 14:42:31,229 - INFO - Saved tweet from @detikHealth
+2025-05-24 14:42:31,327 - INFO - Saved tweet from @reyricho
+2025-05-24 14:42:31,396 - INFO - Saved tweet from @m4s4g03s
+2025-05-24 14:42:31,459 - INFO - Saved tweet from @areesthya
+2025-05-24 14:42:31,528 - INFO - Saved tweet from @WiniYlita
+2025-05-24 14:42:31,591 - INFO - Saved tweet from @rinkelbelle
+2025-05-24 14:42:31,657 - INFO - Saved tweet from @mangjuh41
+2025-05-24 14:42:31,721 - INFO - Saved tweet from @haibundacom
+2025-05-24 14:42:31,856 - INFO - Saved tweet from @arspraeparandi
+2025-05-24 14:42:31,924 - INFO - Saved tweet from @erlinaburhan
+2025-05-24 14:42:31,984 - INFO - Saved tweet from @L_minWOOharu
+2025-05-24 14:42:32,041 - INFO - Saved tweet from @iFairylove
+2025-05-24 14:42:32,104 - INFO - Saved tweet from @BinWaqqash70821
+2025-05-24 14:42:32,164 - INFO - Saved tweet from @daddyyuki
+2025-05-24 14:42:32,224 - INFO - Saved tweet from @saerozi63
+2025-05-24 14:42:32,292 - INFO - Saved tweet from @whooppsic
+2025-05-24 14:42:32,354 - INFO - Saved tweet from @Enggina_
+2025-05-24 14:42:32,413 - INFO - Saved tweet from @dodokovic
+2025-05-24 14:42:32,470 - INFO - Saved tweet from @nurfajar_banser
+2025-05-24 14:42:35,653 - INFO - Saved tweet from @dodokovic
+2025-05-24 14:42:35,715 - INFO - Saved tweet from @nurfajar_banser
+2025-05-24 14:42:35,776 - INFO - Saved tweet from @ManAman19485401
+2025-05-24 14:42:35,859 - INFO - Saved tweet from @Forawhile_ss
+2025-05-24 14:42:35,922 - INFO - Saved tweet from @dazzlinghaze_u
+2025-05-24 14:42:35,987 - INFO - Saved tweet from @riri_rhi
+2025-05-24 14:42:36,056 - INFO - Saved tweet from @m1sztLetiss
+2025-05-24 14:42:36,119 - INFO - Saved tweet from @detikcom
+2025-05-24 14:42:36,185 - INFO - Saved tweet from @putrindahpr
+2025-05-24 14:42:36,247 - INFO - Saved tweet from @handoyo0912
+2025-05-24 14:42:36,317 - INFO - Saved tweet from @yanuardliwang
+2025-05-24 14:42:36,318 - INFO - Taking 30 second break after 50 requests
+2025-05-24 14:43:06,391 - INFO - Saved tweet from @HadiNugrohoCoyy
+2025-05-24 14:43:06,453 - INFO - Saved tweet from @ayunabylladiah
+2025-05-24 14:43:06,515 - INFO - Saved tweet from @SSENTAIBOYHERO
+2025-05-24 14:43:09,651 - INFO - Saved tweet from @detikcom
+2025-05-24 14:43:09,731 - INFO - Saved tweet from @putrindahpr
+2025-05-24 14:43:09,800 - INFO - Saved tweet from @handoyo0912
+2025-05-24 14:43:09,866 - INFO - Saved tweet from @yanuardliwang
+2025-05-24 14:43:09,932 - INFO - Saved tweet from @HadiNugrohoCoyy
+2025-05-24 14:43:09,997 - INFO - Saved tweet from @ayunabylladiah
+2025-05-24 14:43:10,063 - INFO - Saved tweet from @SSENTAIBOYHERO
+2025-05-24 14:43:10,130 - INFO - Saved tweet from @MiraninonLita
+2025-05-24 14:43:10,195 - INFO - Saved tweet from @detikHealth
+2025-05-24 14:43:10,262 - INFO - Saved tweet from @liaakm
+2025-05-24 14:43:10,330 - INFO - Saved tweet from @mas__iko
+2025-05-24 14:43:10,398 - INFO - Saved tweet from @grok
+2025-05-24 14:43:10,462 - INFO - Saved tweet from @haibundacom
+2025-05-24 14:43:10,528 - INFO - Saved tweet from @yourbae112_
+2025-05-24 14:43:10,593 - INFO - Saved tweet from @herman__joseph
+2025-05-24 14:43:14,866 - INFO - Saved tweet from @detikHealth
+2025-05-24 14:43:14,928 - INFO - Saved tweet from @liaakm
+2025-05-24 14:43:15,056 - INFO - Saved tweet from @mas__iko
+2025-05-24 14:43:15,119 - INFO - Saved tweet from @grok
+2025-05-24 14:43:15,180 - INFO - Saved tweet from @haibundacom
+2025-05-24 14:43:15,247 - INFO - Saved tweet from @yourbae112_
+2025-05-24 14:43:15,309 - INFO - Saved tweet from @herman__joseph
+2025-05-24 14:43:15,313 - INFO - No new tweets loaded after scroll (attempt 1/5)
+2025-05-24 14:43:20,011 - INFO - Saved tweet from @detikHealth
+2025-05-24 14:43:20,064 - INFO - Saved tweet from @liaakm
+2025-05-24 14:43:20,117 - INFO - Saved tweet from @mas__iko
+2025-05-24 14:43:20,170 - INFO - Saved tweet from @grok
+2025-05-24 14:43:20,224 - INFO - Saved tweet from @haibundacom
+2025-05-24 14:43:20,275 - INFO - Saved tweet from @yourbae112_
+2025-05-24 14:43:20,328 - INFO - Saved tweet from @herman__joseph
+2025-05-24 14:43:20,331 - INFO - No new tweets loaded after scroll (attempt 2/5)
+2025-05-24 14:43:24,041 - INFO - Saved tweet from @detikHealth
+2025-05-24 14:43:24,095 - INFO - Saved tweet from @liaakm
+2025-05-24 14:43:24,149 - INFO - Saved tweet from @mas__iko
+2025-05-24 14:43:24,202 - INFO - Saved tweet from @grok
+2025-05-24 14:43:24,255 - INFO - Saved tweet from @haibundacom
+2025-05-24 14:43:24,307 - INFO - Saved tweet from @yourbae112_
+2025-05-24 14:43:24,360 - INFO - Saved tweet from @herman__joseph
+2025-05-24 14:43:24,364 - INFO - No new tweets loaded after scroll (attempt 3/5)
+2025-05-24 14:43:28,411 - INFO - Saved tweet from @detikHealth
+2025-05-24 14:43:28,472 - INFO - Saved tweet from @liaakm
+2025-05-24 14:43:28,535 - INFO - Saved tweet from @mas__iko
+2025-05-24 14:43:28,595 - INFO - Saved tweet from @grok
+2025-05-24 14:43:28,660 - INFO - Saved tweet from @haibundacom
+2025-05-24 14:43:28,779 - INFO - Saved tweet from @yourbae112_
+2025-05-24 14:43:28,845 - INFO - Saved tweet from @herman__joseph
+2025-05-24 14:43:28,848 - INFO - No new tweets loaded after scroll (attempt 4/5)
+2025-05-24 14:43:32,302 - INFO - Saved tweet from @detikHealth
+2025-05-24 14:43:32,356 - INFO - Saved tweet from @liaakm
+2025-05-24 14:43:32,410 - INFO - Saved tweet from @mas__iko
+2025-05-24 14:43:32,466 - INFO - Saved tweet from @grok
+2025-05-24 14:43:32,466 - INFO - Taking 30 second break after 50 requests
+2025-05-24 14:44:02,531 - INFO - Saved tweet from @haibundacom
+2025-05-24 14:44:02,584 - INFO - Saved tweet from @yourbae112_
+2025-05-24 14:44:02,636 - INFO - Saved tweet from @herman__joseph
+2025-05-24 14:44:02,639 - INFO - No new tweets loaded after scroll (attempt 5/5)
+2025-05-24 14:44:05,114 - INFO - Waiting 8.8 seconds before next keyword...
+2025-05-24 14:44:13,960 - INFO - Searching for: vaksinasi
+2025-05-24 14:44:13,961 - INFO - ====== WebDriver manager ======
+2025-05-24 14:44:14,658 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-24 14:44:14,806 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-24 14:44:14,953 - INFO - Driver [C:\Users\arkan\.wdm\drivers\chromedriver\win64\137.0.7151.40\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-24 14:44:16,036 - INFO - WebDriver initialized successfully
+2025-05-24 14:44:16,037 - INFO - Attempting to login to Twitter
+2025-05-24 14:44:38,392 - INFO - Successfully logged in to Twitter
+2025-05-24 14:44:48,996 - INFO - Saved tweet from @namasayalaut
+2025-05-24 14:44:48,996 - INFO - Autosave checkpoint - 604 tweets collected so far
+2025-05-24 14:44:48,996 - INFO - Autosave completed
+2025-05-24 14:44:49,060 - INFO - Saved tweet from @yo2thok
+2025-05-24 14:44:49,126 - INFO - Saved tweet from @NenkMonica
+2025-05-24 14:44:49,190 - INFO - Saved tweet from @daddyyuki
+2025-05-24 14:44:49,246 - INFO - Saved tweet from @BarantinRI
+2025-05-24 14:44:49,305 - INFO - Saved tweet from @slickdrums
+2025-05-24 14:44:53,186 - INFO - Saved tweet from @NenkMonica
+2025-05-24 14:44:53,247 - INFO - Saved tweet from @daddyyuki
+2025-05-24 14:44:53,311 - INFO - Saved tweet from @BarantinRI
+2025-05-24 14:44:53,387 - INFO - Saved tweet from @slickdrums
+2025-05-24 14:44:53,392 - INFO - No new tweets loaded after scroll (attempt 1/5)
+2025-05-24 14:44:57,172 - INFO - Saved tweet from @NenkMonica
+2025-05-24 14:44:57,232 - INFO - Saved tweet from @daddyyuki
+2025-05-24 14:44:57,296 - INFO - Saved tweet from @BarantinRI
+2025-05-24 14:44:57,354 - INFO - Saved tweet from @slickdrums
+2025-05-24 14:44:57,357 - INFO - No new tweets loaded after scroll (attempt 2/5)
+2025-05-24 14:45:01,006 - INFO - Saved tweet from @NenkMonica
+2025-05-24 14:45:01,067 - INFO - Saved tweet from @daddyyuki
+2025-05-24 14:45:01,147 - INFO - Saved tweet from @BarantinRI
+2025-05-24 14:45:01,313 - INFO - Saved tweet from @slickdrums
+2025-05-24 14:45:01,316 - INFO - No new tweets loaded after scroll (attempt 3/5)
+2025-05-24 14:45:04,696 - INFO - Saved tweet from @NenkMonica
+2025-05-24 14:45:04,759 - INFO - Saved tweet from @daddyyuki
+2025-05-24 14:45:04,824 - INFO - Saved tweet from @BarantinRI
+2025-05-24 14:45:04,886 - INFO - Saved tweet from @slickdrums
+2025-05-24 14:45:04,889 - INFO - No new tweets loaded after scroll (attempt 4/5)
+2025-05-24 14:45:09,036 - INFO - Saved tweet from @NenkMonica
+2025-05-24 14:45:09,095 - INFO - Saved tweet from @daddyyuki
+2025-05-24 14:45:09,169 - INFO - Saved tweet from @BarantinRI
+2025-05-24 14:45:09,276 - INFO - Saved tweet from @slickdrums
+2025-05-24 14:45:09,281 - INFO - No new tweets loaded after scroll (attempt 5/5)
+2025-05-24 14:45:11,671 - INFO - Waiting 6.8 seconds before next keyword...
+2025-05-24 14:45:18,503 - INFO - Searching for: anti vaksin
+2025-05-24 14:45:18,504 - INFO - ====== WebDriver manager ======
+2025-05-24 14:45:19,185 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-24 14:45:19,330 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-24 14:45:19,478 - INFO - Driver [C:\Users\arkan\.wdm\drivers\chromedriver\win64\137.0.7151.40\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-24 14:45:20,636 - INFO - WebDriver initialized successfully
+2025-05-24 14:45:20,636 - INFO - Attempting to login to Twitter
+2025-05-24 14:45:42,363 - INFO - Successfully logged in to Twitter
+2025-05-24 14:45:52,033 - INFO - Saved tweet from @helloitsvira
+2025-05-24 14:45:52,109 - INFO - Saved tweet from @jametistic
+2025-05-24 14:45:52,193 - INFO - Saved tweet from @tanyakanrl
+2025-05-24 14:45:52,279 - INFO - Saved tweet from @imyourvirgo_
+2025-05-24 14:45:52,376 - INFO - Saved tweet from @ChronoNEKO95
+2025-05-24 14:45:52,469 - INFO - Saved tweet from @Yattie2023
+2025-05-24 14:45:52,552 - INFO - Saved tweet from @drpriono1
+2025-05-24 14:45:52,629 - INFO - Saved tweet from @RayaLegawa
+2025-05-24 14:45:52,709 - INFO - Saved tweet from @valiisaa
+2025-05-24 14:45:52,791 - INFO - Saved tweet from @RAKemal
+2025-05-24 14:45:56,491 - INFO - Saved tweet from @Vante1126
+2025-05-24 14:45:56,549 - INFO - Saved tweet from @xyz07629305
+2025-05-24 14:45:56,615 - INFO - Saved tweet from @MartaArdy
+2025-05-24 14:45:56,669 - INFO - Saved tweet from @hawimawmly
+2025-05-24 14:45:56,729 - INFO - Saved tweet from @waruboy
+2025-05-24 14:45:56,786 - INFO - Saved tweet from @PartaiSocmed
+2025-05-24 14:45:56,850 - INFO - Saved tweet from @HeyIndonesian
+2025-05-24 14:45:56,920 - INFO - Saved tweet from @joyyzoldyck
+2025-05-24 14:45:56,983 - INFO - Saved tweet from @grok
+2025-05-24 14:45:57,044 - INFO - Saved tweet from @ensiklopelia
+2025-05-24 14:45:57,103 - INFO - Saved tweet from @itsam23
+2025-05-24 14:45:57,104 - INFO - Taking 30 second break after 50 requests
+2025-05-24 14:46:27,173 - INFO - Saved tweet from @hellowmarseu
+2025-05-24 14:46:27,233 - INFO - Saved tweet from @sunshinetwae
+2025-05-24 14:46:27,287 - INFO - Saved tweet from @bara_sigur
+2025-05-24 14:46:27,340 - INFO - Saved tweet from @udahduadelapan
+2025-05-24 14:46:27,394 - INFO - Saved tweet from @PartaiSocmed
+2025-05-24 14:46:30,871 - INFO - Saved tweet from @littlesemongko
+2025-05-24 14:46:30,928 - INFO - Saved tweet from @adepedia
+2025-05-24 14:46:30,983 - INFO - Saved tweet from @KNRNIsntHere
+2025-05-24 14:46:31,039 - INFO - Saved tweet from @grok
+2025-05-24 14:46:31,094 - INFO - Saved tweet from @Vivittts
+2025-05-24 14:46:31,148 - INFO - Saved tweet from @DeviWisely
+2025-05-24 14:46:31,205 - INFO - Saved tweet from @klaru9_
+2025-05-24 14:46:31,296 - INFO - Saved tweet from @Penghuluikan
+2025-05-24 14:46:31,377 - INFO - Saved tweet from @lucentbeam12
+2025-05-24 14:46:31,433 - INFO - Saved tweet from @dean_z12
+2025-05-24 14:46:31,501 - INFO - Saved tweet from @gooenn
+2025-05-24 14:46:31,578 - INFO - Saved tweet from @worchestersire
+2025-05-24 14:46:31,640 - INFO - Saved tweet from @tagarabak
+2025-05-24 14:46:31,696 - INFO - Saved tweet from @litaelyn
+2025-05-24 14:46:36,177 - INFO - Saved tweet from @litaelyn
+2025-05-24 14:46:36,233 - INFO - Saved tweet from @whendarkness_
+2025-05-24 14:46:36,285 - INFO - Saved tweet from @MariaAlkaff_
+2025-05-24 14:46:36,337 - INFO - Saved tweet from @ch4o5Myth
+2025-05-24 14:46:36,388 - INFO - Saved tweet from @404rfound
+2025-05-24 14:46:36,439 - INFO - Saved tweet from @Ichavarma_
+2025-05-24 14:46:36,492 - INFO - Saved tweet from @Muslim_AntiPKI9
+2025-05-24 14:46:36,549 - INFO - Saved tweet from @nawhcas21769
+2025-05-24 14:46:39,849 - INFO - Saved tweet from @litaelyn
+2025-05-24 14:46:39,900 - INFO - Saved tweet from @whendarkness_
+2025-05-24 14:46:39,952 - INFO - Saved tweet from @MariaAlkaff_
+2025-05-24 14:46:40,004 - INFO - Saved tweet from @ch4o5Myth
+2025-05-24 14:46:40,057 - INFO - Saved tweet from @404rfound
+2025-05-24 14:46:40,110 - INFO - Saved tweet from @Ichavarma_
+2025-05-24 14:46:40,220 - INFO - Saved tweet from @Muslim_AntiPKI9
+2025-05-24 14:46:40,276 - INFO - Saved tweet from @nawhcas21769
+2025-05-24 14:46:40,279 - INFO - No new tweets loaded after scroll (attempt 1/5)
+2025-05-24 14:46:43,707 - INFO - Saved tweet from @litaelyn
+2025-05-24 14:46:43,758 - INFO - Saved tweet from @whendarkness_
+2025-05-24 14:46:43,810 - INFO - Saved tweet from @MariaAlkaff_
+2025-05-24 14:46:43,863 - INFO - Saved tweet from @ch4o5Myth
+2025-05-24 14:46:43,914 - INFO - Saved tweet from @404rfound
+2025-05-24 14:46:43,968 - INFO - Saved tweet from @Ichavarma_
+2025-05-24 14:46:44,019 - INFO - Saved tweet from @Muslim_AntiPKI9
+2025-05-24 14:46:44,071 - INFO - Saved tweet from @nawhcas21769
+2025-05-24 14:46:44,074 - INFO - No new tweets loaded after scroll (attempt 2/5)
+2025-05-24 14:46:49,115 - INFO - Saved tweet from @litaelyn
+2025-05-24 14:46:49,115 - INFO - Autosave checkpoint - 694 tweets collected so far
+2025-05-24 14:46:49,115 - INFO - Autosave completed
+2025-05-24 14:46:49,167 - INFO - Saved tweet from @whendarkness_
+2025-05-24 14:46:49,218 - INFO - Saved tweet from @MariaAlkaff_
+2025-05-24 14:46:49,270 - INFO - Saved tweet from @ch4o5Myth
+2025-05-24 14:46:49,330 - INFO - Saved tweet from @404rfound
+2025-05-24 14:46:49,389 - INFO - Saved tweet from @Ichavarma_
+2025-05-24 14:46:49,443 - INFO - Saved tweet from @Muslim_AntiPKI9
+2025-05-24 14:46:49,443 - INFO - Taking 30 second break after 50 requests
+2025-05-24 14:47:19,510 - INFO - Saved tweet from @nawhcas21769
+2025-05-24 14:47:19,513 - INFO - No new tweets loaded after scroll (attempt 3/5)
+2025-05-24 14:47:23,627 - INFO - Saved tweet from @litaelyn
+2025-05-24 14:47:23,685 - INFO - Saved tweet from @whendarkness_
+2025-05-24 14:47:23,737 - INFO - Saved tweet from @MariaAlkaff_
+2025-05-24 14:47:23,789 - INFO - Saved tweet from @ch4o5Myth
+2025-05-24 14:47:23,840 - INFO - Saved tweet from @404rfound
+2025-05-24 14:47:23,895 - INFO - Saved tweet from @Ichavarma_
+2025-05-24 14:47:23,946 - INFO - Saved tweet from @Muslim_AntiPKI9
+2025-05-24 14:47:24,035 - INFO - Saved tweet from @nawhcas21769
+2025-05-24 14:47:24,039 - INFO - No new tweets loaded after scroll (attempt 4/5)
+2025-05-24 14:47:27,483 - INFO - Saved tweet from @litaelyn
+2025-05-24 14:47:27,535 - INFO - Saved tweet from @whendarkness_
+2025-05-24 14:47:27,585 - INFO - Saved tweet from @MariaAlkaff_
+2025-05-24 14:47:27,638 - INFO - Saved tweet from @ch4o5Myth
+2025-05-24 14:47:27,697 - INFO - Saved tweet from @404rfound
+2025-05-24 14:47:27,756 - INFO - Saved tweet from @Ichavarma_
+2025-05-24 14:47:27,808 - INFO - Saved tweet from @Muslim_AntiPKI9
+2025-05-24 14:47:27,861 - INFO - Saved tweet from @nawhcas21769
+2025-05-24 14:47:27,864 - INFO - No new tweets loaded after scroll (attempt 5/5)
+2025-05-24 14:47:30,287 - INFO - Waiting 8.5 seconds before next keyword...
+2025-05-24 14:47:38,808 - INFO - Searching for: ragu vaksin
+2025-05-24 14:47:38,809 - INFO - ====== WebDriver manager ======
+2025-05-24 14:47:39,462 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-24 14:47:39,775 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-24 14:47:40,017 - INFO - Driver [C:\Users\arkan\.wdm\drivers\chromedriver\win64\137.0.7151.40\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-24 14:47:41,180 - INFO - WebDriver initialized successfully
+2025-05-24 14:47:41,181 - INFO - Attempting to login to Twitter
+2025-05-24 14:48:02,095 - INFO - Successfully logged in to Twitter
+2025-05-24 14:48:11,943 - INFO - Saved tweet from @surabayazoo
+2025-05-24 14:48:11,998 - INFO - Saved tweet from @_Banyoe
+2025-05-24 14:48:12,058 - INFO - Saved tweet from @ustadchen
+2025-05-24 14:48:12,115 - INFO - Saved tweet from @mettmettjamet
+2025-05-24 14:48:12,169 - INFO - Saved tweet from @aistaqiemsy
+2025-05-24 14:48:12,225 - INFO - Saved tweet from @Ngabila
+2025-05-24 14:48:16,623 - INFO - Saved tweet from @_Banyoe
+2025-05-24 14:48:16,683 - INFO - Saved tweet from @ustadchen
+2025-05-24 14:48:16,788 - INFO - Saved tweet from @mettmettjamet
+2025-05-24 14:48:16,850 - INFO - Saved tweet from @aistaqiemsy
+2025-05-24 14:48:16,923 - INFO - Saved tweet from @Ngabila
+2025-05-24 14:48:16,928 - INFO - No new tweets loaded after scroll (attempt 1/5)
+2025-05-24 14:48:20,553 - INFO - Saved tweet from @_Banyoe
+2025-05-24 14:48:20,609 - INFO - Saved tweet from @ustadchen
+2025-05-24 14:48:20,662 - INFO - Saved tweet from @mettmettjamet
+2025-05-24 14:48:20,718 - INFO - Saved tweet from @aistaqiemsy
+2025-05-24 14:48:20,771 - INFO - Saved tweet from @Ngabila
+2025-05-24 14:48:20,774 - INFO - No new tweets loaded after scroll (attempt 2/5)
+2025-05-24 14:48:24,844 - INFO - Saved tweet from @_Banyoe
+2025-05-24 14:48:24,902 - INFO - Saved tweet from @ustadchen
+2025-05-24 14:48:25,010 - INFO - Saved tweet from @mettmettjamet
+2025-05-24 14:48:25,078 - INFO - Saved tweet from @aistaqiemsy
+2025-05-24 14:48:25,140 - INFO - Saved tweet from @Ngabila
+2025-05-24 14:48:25,144 - INFO - No new tweets loaded after scroll (attempt 3/5)
+2025-05-24 14:48:28,466 - INFO - Saved tweet from @_Banyoe
+2025-05-24 14:48:28,529 - INFO - Saved tweet from @ustadchen
+2025-05-24 14:48:28,589 - INFO - Saved tweet from @mettmettjamet
+2025-05-24 14:48:28,650 - INFO - Saved tweet from @aistaqiemsy
+2025-05-24 14:48:28,709 - INFO - Saved tweet from @Ngabila
+2025-05-24 14:48:28,713 - INFO - No new tweets loaded after scroll (attempt 4/5)
+2025-05-24 14:48:33,413 - INFO - Saved tweet from @_Banyoe
+2025-05-24 14:48:33,471 - INFO - Saved tweet from @ustadchen
+2025-05-24 14:48:33,531 - INFO - Saved tweet from @mettmettjamet
+2025-05-24 14:48:33,592 - INFO - Saved tweet from @aistaqiemsy
+2025-05-24 14:48:33,651 - INFO - Saved tweet from @Ngabila
+2025-05-24 14:48:33,655 - INFO - No new tweets loaded after scroll (attempt 5/5)
+2025-05-24 14:48:36,085 - INFO - Waiting 7.2 seconds before next keyword...
+2025-05-24 14:48:43,266 - INFO - Searching for: vaccine hesitancy
+2025-05-24 14:48:43,267 - INFO - ====== WebDriver manager ======
+2025-05-24 14:48:43,926 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-24 14:48:44,083 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-24 14:48:44,248 - INFO - Driver [C:\Users\arkan\.wdm\drivers\chromedriver\win64\137.0.7151.40\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-24 14:48:45,312 - INFO - WebDriver initialized successfully
+2025-05-24 14:48:45,312 - INFO - Attempting to login to Twitter
+2025-05-24 14:49:06,448 - INFO - Successfully logged in to Twitter
+2025-05-24 14:49:17,642 - INFO - Saved tweet from @rijal_faiz
+2025-05-24 14:49:17,642 - INFO - Autosave checkpoint - 749 tweets collected so far
+2025-05-24 14:49:17,643 - INFO - Autosave completed
+2025-05-24 14:49:17,699 - INFO - Saved tweet from @rijal_faiz
+2025-05-24 14:49:17,699 - INFO - Taking 30 second break after 50 requests
+2025-05-24 14:49:47,764 - INFO - Saved tweet from @und_cuckoosnest
+2025-05-24 14:49:47,820 - INFO - Saved tweet from @adijain31
+2025-05-24 14:49:47,871 - INFO - Saved tweet from @arvkevin
+2025-05-24 14:49:47,925 - INFO - Saved tweet from @Dodmani123
+2025-05-24 14:49:47,978 - INFO - Saved tweet from @sweettoothrebel
+2025-05-24 14:49:48,036 - INFO - Saved tweet from @Adv_ERAT
+2025-05-24 14:49:48,086 - INFO - Saved tweet from @ophdarmologist
+2025-05-24 14:49:51,650 - INFO - Saved tweet from @und_cuckoosnest
+2025-05-24 14:49:51,703 - INFO - Saved tweet from @adijain31
+2025-05-24 14:49:51,753 - INFO - Saved tweet from @arvkevin
+2025-05-24 14:49:51,805 - INFO - Saved tweet from @Dodmani123
+2025-05-24 14:49:51,855 - INFO - Saved tweet from @sweettoothrebel
+2025-05-24 14:49:51,947 - INFO - Saved tweet from @Adv_ERAT
+2025-05-24 14:49:52,000 - INFO - Saved tweet from @ophdarmologist
+2025-05-24 14:49:52,003 - INFO - No new tweets loaded after scroll (attempt 1/5)
+2025-05-24 14:49:55,598 - INFO - Saved tweet from @und_cuckoosnest
+2025-05-24 14:49:55,651 - INFO - Saved tweet from @adijain31
+2025-05-24 14:49:55,701 - INFO - Saved tweet from @arvkevin
+2025-05-24 14:49:55,751 - INFO - Saved tweet from @Dodmani123
+2025-05-24 14:49:55,801 - INFO - Saved tweet from @sweettoothrebel
+2025-05-24 14:49:55,856 - INFO - Saved tweet from @Adv_ERAT
+2025-05-24 14:49:55,906 - INFO - Saved tweet from @ophdarmologist
+2025-05-24 14:49:55,909 - INFO - No new tweets loaded after scroll (attempt 2/5)
+2025-05-24 14:50:00,215 - INFO - Saved tweet from @und_cuckoosnest
+2025-05-24 14:50:00,267 - INFO - Saved tweet from @adijain31
+2025-05-24 14:50:00,317 - INFO - Saved tweet from @arvkevin
+2025-05-24 14:50:00,370 - INFO - Saved tweet from @Dodmani123
+2025-05-24 14:50:00,422 - INFO - Saved tweet from @sweettoothrebel
+2025-05-24 14:50:00,476 - INFO - Saved tweet from @Adv_ERAT
+2025-05-24 14:50:00,558 - INFO - Saved tweet from @ophdarmologist
+2025-05-24 14:50:00,561 - INFO - No new tweets loaded after scroll (attempt 3/5)
+2025-05-24 14:50:05,453 - INFO - Saved tweet from @und_cuckoosnest
+2025-05-24 14:50:05,507 - INFO - Saved tweet from @adijain31
+2025-05-24 14:50:05,565 - INFO - Saved tweet from @arvkevin
+2025-05-24 14:50:05,622 - INFO - Saved tweet from @Dodmani123
+2025-05-24 14:50:05,678 - INFO - Saved tweet from @sweettoothrebel
+2025-05-24 14:50:05,743 - INFO - Saved tweet from @Adv_ERAT
+2025-05-24 14:50:05,798 - INFO - Saved tweet from @ophdarmologist
+2025-05-24 14:50:05,801 - INFO - No new tweets loaded after scroll (attempt 4/5)
+2025-05-24 14:50:09,619 - INFO - Saved tweet from @und_cuckoosnest
+2025-05-24 14:50:09,671 - INFO - Saved tweet from @adijain31
+2025-05-24 14:50:09,722 - INFO - Saved tweet from @arvkevin
+2025-05-24 14:50:09,773 - INFO - Saved tweet from @Dodmani123
+2025-05-24 14:50:09,856 - INFO - Saved tweet from @sweettoothrebel
+2025-05-24 14:50:09,910 - INFO - Saved tweet from @Adv_ERAT
+2025-05-24 14:50:09,960 - INFO - Saved tweet from @ophdarmologist
+2025-05-24 14:50:09,963 - INFO - No new tweets loaded after scroll (attempt 5/5)
+2025-05-24 14:50:12,370 - INFO - Waiting 9.7 seconds before next keyword...
+2025-05-24 14:50:22,043 - INFO - Searching for: vaccine indonesia
+2025-05-24 14:50:22,044 - INFO - ====== WebDriver manager ======
+2025-05-24 14:50:22,698 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-24 14:50:22,844 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-24 14:50:22,973 - INFO - Driver [C:\Users\arkan\.wdm\drivers\chromedriver\win64\137.0.7151.40\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-24 14:50:24,012 - INFO - WebDriver initialized successfully
+2025-05-24 14:50:24,012 - INFO - Attempting to login to Twitter
+2025-05-24 14:50:45,327 - INFO - Successfully logged in to Twitter
+2025-05-24 14:50:54,943 - INFO - Saved tweet from @BPOM_RI
+2025-05-24 14:50:55,008 - INFO - Saved tweet from @elsaday__
+2025-05-24 14:50:55,082 - INFO - Saved tweet from @UNICEFIndonesia
+2025-05-24 14:50:55,155 - INFO - Saved tweet from @Jelli_cent
+2025-05-24 14:50:55,220 - INFO - Saved tweet from @__RismaWidiono_
+2025-05-24 14:50:55,291 - INFO - Saved tweet from @Penyair_Berdiri
+2025-05-24 14:50:55,376 - INFO - Saved tweet from @SoulOfIndonesia
+2025-05-24 14:50:55,461 - INFO - Saved tweet from @alandakariza
+2025-05-24 14:50:55,461 - INFO - Taking 30 second break after 50 requests
+2025-05-24 14:51:25,532 - INFO - Saved tweet from @RodriChen
+2025-05-24 14:51:25,533 - INFO - Autosave checkpoint - 801 tweets collected so far
+2025-05-24 14:51:25,533 - INFO - Autosave completed
+2025-05-24 14:51:25,597 - INFO - Saved tweet from @MiraninonLita
+2025-05-24 14:51:29,427 - INFO - Saved tweet from @Penyair_Berdiri
+2025-05-24 14:51:29,480 - INFO - Saved tweet from @SoulOfIndonesia
+2025-05-24 14:51:29,543 - INFO - Saved tweet from @alandakariza
+2025-05-24 14:51:29,606 - INFO - Saved tweet from @RodriChen
+2025-05-24 14:51:29,709 - INFO - Saved tweet from @MiraninonLita
+2025-05-24 14:51:29,814 - INFO - Saved tweet from @MiraninonLita
+2025-05-24 14:51:29,871 - INFO - Saved tweet from @VaccineGenocide
+2025-05-24 14:51:29,929 - INFO - Saved tweet from @VaccineGenocide
+2025-05-24 14:51:30,008 - INFO - Saved tweet from @doggudoggu
+2025-05-24 14:51:30,063 - INFO - Saved tweet from @VaccineGenocide
+2025-05-24 14:51:34,298 - INFO - Saved tweet from @TSugijana
+2025-05-24 14:51:34,352 - INFO - Saved tweet from @VaccineGenocide
+2025-05-24 14:51:34,406 - INFO - Saved tweet from @grok
+2025-05-24 14:51:34,520 - INFO - Saved tweet from @kompascom
+2025-05-24 14:51:34,585 - INFO - Saved tweet from @MariaTo47844586
+2025-05-24 14:51:34,645 - INFO - Saved tweet from @HalodocID
+2025-05-24 14:51:34,707 - INFO - Saved tweet from @uncle_gober324
+2025-05-24 14:51:34,764 - INFO - Saved tweet from @VaccineGenocide
+2025-05-24 14:51:34,823 - INFO - Saved tweet from @VaccineGenocide
+2025-05-24 14:51:34,885 - INFO - Saved tweet from @4_gp2024
+2025-05-24 14:51:38,294 - INFO - Saved tweet from @kpmunpad
+2025-05-24 14:51:38,349 - INFO - Saved tweet from @kompascom
+2025-05-24 14:51:38,403 - INFO - Saved tweet from @RobotJeffflio
+2025-05-24 14:51:38,457 - INFO - Saved tweet from @rannissapuspita
+2025-05-24 14:51:38,517 - INFO - Saved tweet from @unpad
+2025-05-24 14:51:38,584 - INFO - Saved tweet from @SoulOfIndonesia
+2025-05-24 14:51:38,638 - INFO - Saved tweet from @xxBTSugaxx
+2025-05-24 14:51:38,704 - INFO - Saved tweet from @detikHealth
+2025-05-24 14:51:38,776 - INFO - Saved tweet from @JiwaLowBatt20
+2025-05-24 14:51:38,854 - INFO - Saved tweet from @WHOIndonesia
+2025-05-24 14:51:38,910 - INFO - Saved tweet from @VaccineGenocide
+2025-05-24 14:51:38,966 - INFO - Saved tweet from @jmelive
+2025-05-24 14:51:42,099 - INFO - Saved tweet from @pncsyh
+2025-05-24 14:51:42,154 - INFO - Saved tweet from @MariaTo47844586
+2025-05-24 14:51:42,217 - INFO - Saved tweet from @MiraninonLita
+2025-05-24 14:51:42,270 - INFO - Saved tweet from @VaccineGenocide
+2025-05-24 14:51:42,323 - INFO - Saved tweet from @WHO_Polio
+2025-05-24 14:51:42,381 - INFO - Saved tweet from @VaccineGenocide
+2025-05-24 14:51:42,437 - INFO - Saved tweet from @MariaTo47844586
+2025-05-24 14:51:42,492 - INFO - Saved tweet from @haloindonesia88
+2025-05-24 14:51:42,547 - INFO - Saved tweet from @UNFPAIndonesia
+2025-05-24 14:51:42,600 - INFO - Saved tweet from @choliffahh
+2025-05-24 14:51:42,654 - INFO - Saved tweet from @livngn
+2025-05-24 14:51:42,719 - INFO - Saved tweet from @XHIndonesia
+2025-05-24 14:51:42,774 - INFO - Saved tweet from @MiraninonLita
+2025-05-24 14:51:47,010 - INFO - Saved tweet from @MiraninonLita
+2025-05-24 14:51:47,064 - INFO - Saved tweet from @jandakembang78
+2025-05-24 14:51:47,118 - INFO - Saved tweet from @IamPeterHuang
+2025-05-24 14:51:47,118 - INFO - Taking 30 second break after 50 requests
+2025-05-24 14:52:17,192 - INFO - Saved tweet from @WHO_Polio
+2025-05-24 14:52:17,249 - INFO - Saved tweet from @MiraninonLita
+2025-05-24 14:52:17,304 - INFO - Saved tweet from @dikanchut
+2025-05-24 14:52:17,359 - INFO - Saved tweet from @voidotid
+2025-05-24 14:52:17,416 - INFO - Saved tweet from @LPM_Manunggal
+2025-05-24 14:52:17,469 - INFO - Saved tweet from @aisyrummy__
+2025-05-24 14:52:17,531 - INFO - Saved tweet from @Oneject_idn
+2025-05-24 14:52:17,585 - INFO - Saved tweet from @ianxsllh
+2025-05-24 14:52:17,640 - INFO - Saved tweet from @ayayha
+2025-05-24 14:52:17,745 - INFO - Saved tweet from @VaccineGenocide
+2025-05-24 14:52:17,800 - INFO - Saved tweet from @_wafflepancake
+2025-05-24 14:52:17,860 - INFO - Saved tweet from @validnewsid
+2025-05-24 14:52:17,924 - INFO - Saved tweet from @NgoVacancy
+2025-05-24 14:52:17,986 - INFO - Saved tweet from @validnewsid
+2025-05-24 14:52:18,041 - INFO - Saved tweet from @bemkmfkm_unand
+2025-05-24 14:52:18,096 - INFO - Saved tweet from @rickasun09
+2025-05-24 14:52:18,149 - INFO - Saved tweet from @grok
+2025-05-24 14:52:21,911 - INFO - Saved tweet from @EarthAurora_
+2025-05-24 14:52:21,970 - INFO - Saved tweet from @grok
+2025-05-24 14:52:22,030 - INFO - Saved tweet from @VaccineGenocide
+2025-05-24 14:52:22,091 - INFO - Saved tweet from @SumandoGaek
+2025-05-24 14:52:22,154 - INFO - Saved tweet from @ekobnd
+2025-05-24 14:52:22,217 - INFO - Saved tweet from @YohanesMariono
+2025-05-24 14:52:22,296 - INFO - Saved tweet from @TommyAndr420
+2025-05-24 14:52:26,429 - INFO - Saved tweet from @SumandoGaek
+2025-05-24 14:52:26,482 - INFO - Saved tweet from @ekobnd
+2025-05-24 14:52:26,532 - INFO - Saved tweet from @YohanesMariono
+2025-05-24 14:52:26,597 - INFO - Saved tweet from @TommyAndr420
+2025-05-24 14:52:26,599 - INFO - No new tweets loaded after scroll (attempt 1/5)
+2025-05-24 14:52:31,224 - INFO - Saved tweet from @SumandoGaek
+2025-05-24 14:52:31,276 - INFO - Saved tweet from @ekobnd
+2025-05-24 14:52:31,331 - INFO - Saved tweet from @YohanesMariono
+2025-05-24 14:52:31,394 - INFO - Saved tweet from @TommyAndr420
+2025-05-24 14:52:31,397 - INFO - No new tweets loaded after scroll (attempt 2/5)
+2025-05-24 14:52:36,045 - INFO - Saved tweet from @SumandoGaek
+2025-05-24 14:52:36,098 - INFO - Saved tweet from @ekobnd
+2025-05-24 14:52:36,149 - INFO - Saved tweet from @YohanesMariono
+2025-05-24 14:52:36,213 - INFO - Saved tweet from @TommyAndr420
+2025-05-24 14:52:36,216 - INFO - No new tweets loaded after scroll (attempt 3/5)
+2025-05-24 14:52:39,608 - INFO - Saved tweet from @SumandoGaek
+2025-05-24 14:52:39,660 - INFO - Saved tweet from @ekobnd
+2025-05-24 14:52:39,712 - INFO - Saved tweet from @YohanesMariono
+2025-05-24 14:52:39,777 - INFO - Saved tweet from @TommyAndr420
+2025-05-24 14:52:39,780 - INFO - No new tweets loaded after scroll (attempt 4/5)
+2025-05-24 14:52:43,812 - INFO - Saved tweet from @SumandoGaek
+2025-05-24 14:52:43,904 - INFO - Saved tweet from @ekobnd
+2025-05-24 14:52:43,962 - INFO - Saved tweet from @YohanesMariono
+2025-05-24 14:52:44,032 - INFO - Saved tweet from @TommyAndr420
+2025-05-24 14:52:44,035 - INFO - No new tweets loaded after scroll (attempt 5/5)
+2025-05-24 14:52:46,471 - INFO - Waiting 5.2 seconds before next keyword...
+2025-05-24 14:52:51,669 - INFO - Searching for: vaksinasi
+2025-05-24 14:52:51,670 - INFO - ====== WebDriver manager ======
+2025-05-24 14:52:52,337 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-24 14:52:52,708 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-24 14:52:53,083 - INFO - Driver [C:\Users\arkan\.wdm\drivers\chromedriver\win64\137.0.7151.40\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-24 14:52:54,158 - INFO - WebDriver initialized successfully
+2025-05-24 14:52:54,159 - INFO - Attempting to login to Twitter
+2025-05-24 14:53:26,526 - INFO - Successfully logged in to Twitter
+2025-05-24 14:53:38,523 - INFO - Saved tweet from @slickdrums
+2025-05-24 14:53:38,523 - INFO - Autosave checkpoint - 895 tweets collected so far
+2025-05-24 14:53:38,523 - INFO - Autosave completed
+2025-05-24 14:53:38,587 - INFO - Saved tweet from @RekamDigital_
+2025-05-24 14:53:38,678 - INFO - Saved tweet from @catbriena
+2025-05-24 14:53:38,765 - INFO - Saved tweet from @PartaiSocmed
+2025-05-24 14:53:43,379 - INFO - Saved tweet from @valiisaa
+2025-05-24 14:53:43,445 - INFO - Saved tweet from @namasayalaut
+2025-05-24 14:53:43,446 - INFO - Taking 30 second break after 50 requests
+2025-05-24 14:54:13,514 - INFO - Saved tweet from @BaseAnakFK
+2025-05-24 14:54:13,577 - INFO - Saved tweet from @yo2thok
+2025-05-24 14:54:13,644 - INFO - Saved tweet from @daddyyuki
+2025-05-24 14:54:13,719 - INFO - Saved tweet from @NenkMonica
+2025-05-24 14:54:13,785 - INFO - Saved tweet from @sipalinglengah
+2025-05-24 14:54:13,854 - INFO - Saved tweet from @sipalinglengah
+2025-05-24 14:54:18,094 - INFO - Saved tweet from @VIVAcoid
+2025-05-24 14:54:18,153 - INFO - Saved tweet from @MurtadhaOne1
+2025-05-24 14:54:18,209 - INFO - Saved tweet from @PartaiSocmed
+2025-05-24 14:54:18,277 - INFO - Saved tweet from @OposisiCerdas
+2025-05-24 14:54:18,348 - INFO - Saved tweet from @hayazakitwt
+2025-05-24 14:54:18,444 - INFO - Saved tweet from @ditjen_pkh
+2025-05-24 14:54:18,516 - INFO - Saved tweet from @geloraco
+2025-05-24 14:54:18,583 - INFO - Saved tweet from @BarantinRI
+2025-05-24 14:54:18,647 - INFO - Saved tweet from @SSENTAIBOYHERO
+2025-05-24 14:54:18,706 - INFO - Saved tweet from @lilzarkasy
+2025-05-24 14:54:22,160 - INFO - Saved tweet from @choymarkochoy_
+2025-05-24 14:54:22,235 - INFO - Saved tweet from @marufins
+2025-05-24 14:54:22,302 - INFO - Saved tweet from @poppo2908
+2025-05-24 14:54:22,373 - INFO - Saved tweet from @detikcom
+2025-05-24 14:54:22,437 - INFO - Saved tweet from @soloposdotcom
+2025-05-24 14:54:22,516 - INFO - Saved tweet from @sexy_killer404
+2025-05-24 14:54:22,585 - INFO - Saved tweet from @kimiafarmaind
+2025-05-24 14:54:22,653 - INFO - Saved tweet from @FarouqSh
+2025-05-24 14:54:22,724 - INFO - Saved tweet from @ch4o5Myth
+2025-05-24 14:54:22,803 - INFO - Saved tweet from @ARoss89777394
+2025-05-24 14:54:22,899 - INFO - Saved tweet from @Bayouiraone1
+2025-05-24 14:54:22,998 - INFO - Saved tweet from @grok
+2025-05-24 14:54:23,093 - INFO - Saved tweet from @detikcom
+2025-05-24 14:54:27,284 - INFO - Saved tweet from @FarouqSh
+2025-05-24 14:54:27,351 - INFO - Saved tweet from @ch4o5Myth
+2025-05-24 14:54:27,436 - INFO - Saved tweet from @ARoss89777394
+2025-05-24 14:54:27,528 - INFO - Saved tweet from @Bayouiraone1
+2025-05-24 14:54:27,601 - INFO - Saved tweet from @grok
+2025-05-24 14:54:27,665 - INFO - Saved tweet from @detikcom
+2025-05-24 14:54:27,732 - INFO - Saved tweet from @taxed_lady
+2025-05-24 14:54:27,735 - INFO - No new tweets loaded after scroll (attempt 1/5)
+2025-05-24 14:54:31,852 - INFO - Saved tweet from @FarouqSh
+2025-05-24 14:54:31,918 - INFO - Saved tweet from @ch4o5Myth
+2025-05-24 14:54:31,981 - INFO - Saved tweet from @ARoss89777394
+2025-05-24 14:54:32,045 - INFO - Saved tweet from @Bayouiraone1
+2025-05-24 14:54:32,115 - INFO - Saved tweet from @grok
+2025-05-24 14:54:32,182 - INFO - Saved tweet from @detikcom
+2025-05-24 14:54:32,251 - INFO - Saved tweet from @taxed_lady
+2025-05-24 14:54:32,254 - INFO - No new tweets loaded after scroll (attempt 2/5)
+2025-05-24 14:54:37,023 - INFO - Saved tweet from @FarouqSh
+2025-05-24 14:54:37,087 - INFO - Saved tweet from @ch4o5Myth
+2025-05-24 14:54:37,153 - INFO - Saved tweet from @ARoss89777394
+2025-05-24 14:54:37,218 - INFO - Saved tweet from @Bayouiraone1
+2025-05-24 14:54:37,290 - INFO - Saved tweet from @grok
+2025-05-24 14:54:37,370 - INFO - Saved tweet from @detikcom
+2025-05-24 14:54:37,444 - INFO - Saved tweet from @taxed_lady
+2025-05-24 14:54:37,444 - INFO - Taking 30 second break after 50 requests
+2025-05-24 14:55:07,453 - INFO - No new tweets loaded after scroll (attempt 3/5)
+2025-05-24 14:55:12,413 - INFO - Saved tweet from @FarouqSh
+2025-05-24 14:55:12,483 - INFO - Saved tweet from @ch4o5Myth
+2025-05-24 14:55:12,559 - INFO - Saved tweet from @ARoss89777394
+2025-05-24 14:55:12,650 - INFO - Saved tweet from @Bayouiraone1
+2025-05-24 14:55:12,739 - INFO - Saved tweet from @grok
+2025-05-24 14:55:12,800 - INFO - Saved tweet from @detikcom
+2025-05-24 14:55:12,868 - INFO - Saved tweet from @taxed_lady
+2025-05-24 14:55:12,873 - INFO - No new tweets loaded after scroll (attempt 4/5)
+2025-05-24 14:55:17,833 - INFO - Saved tweet from @FarouqSh
+2025-05-24 14:55:17,898 - INFO - Saved tweet from @ch4o5Myth
+2025-05-24 14:55:17,960 - INFO - Saved tweet from @ARoss89777394
+2025-05-24 14:55:18,021 - INFO - Saved tweet from @Bayouiraone1
+2025-05-24 14:55:18,077 - INFO - Saved tweet from @grok
+2025-05-24 14:55:18,131 - INFO - Saved tweet from @detikcom
+2025-05-24 14:55:18,244 - INFO - Saved tweet from @taxed_lady
+2025-05-24 14:55:18,247 - INFO - No new tweets loaded after scroll (attempt 5/5)
+2025-05-24 14:55:20,830 - INFO - Waiting 6.4 seconds before next keyword...
+2025-05-24 14:55:27,247 - INFO - Searching for: vaksinasi COVID19
+2025-05-24 14:55:27,247 - INFO - ====== WebDriver manager ======
+2025-05-24 14:55:28,046 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-24 14:55:28,254 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-24 14:55:28,472 - INFO - Driver [C:\Users\arkan\.wdm\drivers\chromedriver\win64\137.0.7151.40\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-24 14:55:30,962 - INFO - WebDriver initialized successfully
+2025-05-24 14:55:30,963 - INFO - Attempting to login to Twitter
+2025-05-24 14:55:53,586 - INFO - Successfully logged in to Twitter
+2025-05-24 14:56:03,955 - INFO - Saved tweet from @IndonesiaBaikId
+2025-05-24 14:56:03,955 - INFO - Autosave checkpoint - 965 tweets collected so far
+2025-05-24 14:56:03,956 - INFO - Autosave completed
+2025-05-24 14:56:04,024 - INFO - Saved tweet from @JagaPancasila75
+2025-05-24 14:56:04,101 - INFO - Saved tweet from @JagaPancasila75
+2025-05-24 14:56:04,169 - INFO - Saved tweet from @JagaPancasila75
+2025-05-24 14:56:04,227 - INFO - Saved tweet from @PolsekMjg
+2025-05-24 14:56:08,093 - INFO - Saved tweet from @JagaPancasila75
+2025-05-24 14:56:08,155 - INFO - Saved tweet from @JagaPancasila75
+2025-05-24 14:56:08,218 - INFO - Saved tweet from @JagaPancasila75
+2025-05-24 14:56:08,285 - INFO - Saved tweet from @PolsekMjg
+2025-05-24 14:56:08,289 - INFO - No new tweets loaded after scroll (attempt 1/5)
+2025-05-24 14:56:12,395 - INFO - Saved tweet from @JagaPancasila75
+2025-05-24 14:56:12,458 - INFO - Saved tweet from @JagaPancasila75
+2025-05-24 14:56:12,526 - INFO - Saved tweet from @JagaPancasila75
+2025-05-24 14:56:12,584 - INFO - Saved tweet from @PolsekMjg
+2025-05-24 14:56:12,588 - INFO - No new tweets loaded after scroll (attempt 2/5)
+2025-05-24 14:56:16,536 - INFO - Saved tweet from @JagaPancasila75
+2025-05-24 14:56:16,598 - INFO - Saved tweet from @JagaPancasila75
+2025-05-24 14:56:16,662 - INFO - Saved tweet from @JagaPancasila75
+2025-05-24 14:56:16,717 - INFO - Saved tweet from @PolsekMjg
+2025-05-24 14:56:16,721 - INFO - No new tweets loaded after scroll (attempt 3/5)
+2025-05-24 14:56:20,177 - INFO - Saved tweet from @JagaPancasila75
+2025-05-24 14:56:20,240 - INFO - Saved tweet from @JagaPancasila75
+2025-05-24 14:56:20,303 - INFO - Saved tweet from @JagaPancasila75
+2025-05-24 14:56:20,359 - INFO - Saved tweet from @PolsekMjg
+2025-05-24 14:56:20,362 - INFO - No new tweets loaded after scroll (attempt 4/5)
+2025-05-24 14:56:24,101 - INFO - Saved tweet from @JagaPancasila75
+2025-05-24 14:56:24,175 - INFO - Saved tweet from @JagaPancasila75
+2025-05-24 14:56:24,235 - INFO - Saved tweet from @JagaPancasila75
+2025-05-24 14:56:24,292 - INFO - Saved tweet from @PolsekMjg
+2025-05-24 14:56:24,295 - INFO - No new tweets loaded after scroll (attempt 5/5)
+2025-05-24 14:56:26,595 - INFO - Waiting 5.1 seconds before next keyword...
+2025-05-24 14:56:31,656 - INFO - Searching for: vaksin COVID19
+2025-05-24 14:56:31,656 - INFO - ====== WebDriver manager ======
+2025-05-24 14:56:32,354 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-24 14:56:32,581 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-24 14:56:32,868 - INFO - Driver [C:\Users\arkan\.wdm\drivers\chromedriver\win64\137.0.7151.40\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-24 14:56:33,980 - INFO - WebDriver initialized successfully
+2025-05-24 14:56:33,980 - INFO - Attempting to login to Twitter
+2025-05-24 14:57:11,763 - INFO - Successfully logged in to Twitter
+2025-05-24 14:57:21,171 - INFO - Saved tweet from @ThatSun510
+2025-05-24 14:57:21,243 - INFO - Saved tweet from @detikHealth
+2025-05-24 14:57:21,307 - INFO - Saved tweet from @ThatSun510
+2025-05-24 14:57:21,379 - INFO - Saved tweet from @JaPenWPKL
+2025-05-24 14:57:21,444 - INFO - Saved tweet from @SSENTAIBOYHERO
+2025-05-24 14:57:21,513 - INFO - Saved tweet from @SSENTAIBOYHERO
+2025-05-24 14:57:21,576 - INFO - Saved tweet from @gustavssondhela
+2025-05-24 14:57:21,639 - INFO - Saved tweet from @SSENTAIBOYHERO
+2025-05-24 14:57:21,727 - INFO - Saved tweet from @kompascom
+2025-05-24 14:57:21,833 - INFO - Saved tweet from @Metro_TV
+2025-05-24 14:57:25,920 - INFO - Saved tweet from @BuletinTV3
+2025-05-24 14:57:25,921 - INFO - Taking 30 second break after 50 requests
+2025-05-24 14:57:55,994 - INFO - Saved tweet from @JaPenWPKL
+2025-05-24 14:57:56,066 - INFO - Saved tweet from @Harapan_Madani
+2025-05-24 14:57:56,133 - INFO - Saved tweet from @asumsico
+2025-05-24 14:57:56,196 - INFO - Saved tweet from @YashaOki
+2025-05-24 14:57:56,277 - INFO - Saved tweet from @MiraninonLita
+2025-05-24 14:57:56,355 - INFO - Saved tweet from @MiraninonLita
+2025-05-24 14:57:56,422 - INFO - Saved tweet from @SSENTAIBOYHERO
+2025-05-24 14:57:59,576 - INFO - Saved tweet from @MiraninonLita
+2025-05-24 14:57:59,642 - INFO - Saved tweet from @SSENTAIBOYHERO
+2025-05-24 14:57:59,708 - INFO - Saved tweet from @SSENTAIBOYHERO
+2025-05-24 14:57:59,770 - INFO - Saved tweet from @MiraninonLita
+2025-05-24 14:57:59,832 - INFO - Saved tweet from @shintaeffendi
+2025-05-24 14:57:59,900 - INFO - Saved tweet from @amareguzel
+2025-05-24 14:57:59,970 - INFO - Saved tweet from @QueenLingOrm
+2025-05-24 14:58:00,042 - INFO - Saved tweet from @gustavssondhela
+2025-05-24 14:58:00,109 - INFO - Saved tweet from @frierensaga
+2025-05-24 14:58:00,170 - INFO - Saved tweet from @SinarOnline
+2025-05-24 14:58:00,234 - INFO - Saved tweet from @PartaiSocmed
+2025-05-24 14:58:04,606 - INFO - Saved tweet from @501Awani
+2025-05-24 14:58:04,607 - INFO - Autosave checkpoint - 1019 tweets collected so far
+2025-05-24 14:58:04,607 - INFO - Autosave completed
+2025-05-24 14:58:04,683 - INFO - Saved tweet from @Metro_TV
+2025-05-24 14:58:04,759 - INFO - Saved tweet from @UMonline
+2025-05-24 14:58:04,850 - INFO - Saved tweet from @tempocekfakta
+2025-05-24 14:58:04,925 - INFO - Saved tweet from @Dr_ASinghR
+2025-05-24 14:58:04,987 - INFO - Saved tweet from @_aduhbuyung
+2025-05-24 14:58:05,060 - INFO - Saved tweet from @UMonline
+2025-05-24 14:58:05,120 - INFO - Saved tweet from @theservant301
+2025-05-24 14:58:05,219 - INFO - Saved tweet from @SSENTAIBOYHERO
+2025-05-24 14:58:09,709 - INFO - Saved tweet from @tempocekfakta
+2025-05-24 14:58:09,773 - INFO - Saved tweet from @Dr_ASinghR
+2025-05-24 14:58:09,843 - INFO - Saved tweet from @_aduhbuyung
+2025-05-24 14:58:09,918 - INFO - Saved tweet from @UMonline
+2025-05-24 14:58:09,986 - INFO - Saved tweet from @theservant301
+2025-05-24 14:58:10,080 - INFO - Saved tweet from @SSENTAIBOYHERO
+2025-05-24 14:58:10,084 - INFO - No new tweets loaded after scroll (attempt 1/5)
+2025-05-24 14:58:13,384 - INFO - Saved tweet from @tempocekfakta
+2025-05-24 14:58:13,475 - INFO - Saved tweet from @Dr_ASinghR
+2025-05-24 14:58:13,549 - INFO - Saved tweet from @_aduhbuyung
+2025-05-24 14:58:13,701 - INFO - Saved tweet from @UMonline
+2025-05-24 14:58:13,788 - INFO - Saved tweet from @theservant301
+2025-05-24 14:58:13,875 - INFO - Saved tweet from @SSENTAIBOYHERO
+2025-05-24 14:58:13,878 - INFO - No new tweets loaded after scroll (attempt 2/5)
+2025-05-24 14:58:17,701 - INFO - Saved tweet from @tempocekfakta
+2025-05-24 14:58:17,803 - INFO - Saved tweet from @Dr_ASinghR
+2025-05-24 14:58:17,912 - INFO - Saved tweet from @_aduhbuyung
+2025-05-24 14:58:18,024 - INFO - Saved tweet from @UMonline
+2025-05-24 14:58:18,111 - INFO - Saved tweet from @theservant301
+2025-05-24 14:58:18,286 - INFO - Saved tweet from @SSENTAIBOYHERO
+2025-05-24 14:58:18,290 - INFO - No new tweets loaded after scroll (attempt 3/5)
+2025-05-24 14:58:21,725 - INFO - Saved tweet from @tempocekfakta
+2025-05-24 14:58:21,804 - INFO - Saved tweet from @Dr_ASinghR
+2025-05-24 14:58:21,890 - INFO - Saved tweet from @_aduhbuyung
+2025-05-24 14:58:21,968 - INFO - Saved tweet from @UMonline
+2025-05-24 14:58:22,045 - INFO - Saved tweet from @theservant301
+2025-05-24 14:58:22,045 - INFO - Taking 30 second break after 50 requests
+2025-05-24 14:58:52,146 - INFO - Saved tweet from @SSENTAIBOYHERO
+2025-05-24 14:58:52,149 - INFO - No new tweets loaded after scroll (attempt 4/5)
+2025-05-24 14:58:56,921 - INFO - Saved tweet from @tempocekfakta
+2025-05-24 14:58:56,979 - INFO - Saved tweet from @Dr_ASinghR
+2025-05-24 14:58:57,036 - INFO - Saved tweet from @_aduhbuyung
+2025-05-24 14:58:57,134 - INFO - Saved tweet from @UMonline
+2025-05-24 14:58:57,190 - INFO - Saved tweet from @theservant301
+2025-05-24 14:58:57,270 - INFO - Saved tweet from @SSENTAIBOYHERO
+2025-05-24 14:58:57,273 - INFO - No new tweets loaded after scroll (attempt 5/5)
+2025-05-24 14:58:59,749 - INFO - Waiting 9.0 seconds before next keyword...
+2025-05-24 14:59:08,746 - INFO - Searching for: program vaksin
+2025-05-24 14:59:08,747 - INFO - ====== WebDriver manager ======
+2025-05-24 14:59:09,491 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-24 14:59:09,753 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-24 14:59:09,959 - INFO - Driver [C:\Users\arkan\.wdm\drivers\chromedriver\win64\137.0.7151.40\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-24 14:59:11,087 - INFO - WebDriver initialized successfully
+2025-05-24 14:59:11,088 - INFO - Attempting to login to Twitter
+2025-05-24 14:59:43,009 - INFO - Successfully logged in to Twitter
+2025-05-24 14:59:53,502 - INFO - Saved tweet from @katzen_jammer
+2025-05-24 14:59:53,560 - INFO - Saved tweet from @Pelaripalsu
+2025-05-24 14:59:53,617 - INFO - Saved tweet from @ptrbrmnty
+2025-05-24 14:59:53,683 - INFO - Saved tweet from @sdenta
+2025-05-24 14:59:53,755 - INFO - Saved tweet from @daddyyuki
+2025-05-24 14:59:53,815 - INFO - Saved tweet from @SeriDianawati
+2025-05-24 14:59:53,873 - INFO - Saved tweet from @Nemesis_34N
+2025-05-24 14:59:57,405 - INFO - Saved tweet from @DewaYasmin
+2025-05-24 14:59:57,462 - INFO - Saved tweet from @Putralaut_
+2025-05-24 14:59:57,519 - INFO - Saved tweet from @bima282828
+2025-05-24 14:59:57,577 - INFO - Saved tweet from @Delfina1901
+2025-05-24 14:59:57,646 - INFO - Saved tweet from @Anexartitianti
+2025-05-24 14:59:57,717 - INFO - Saved tweet from @cakradara20
+2025-05-24 14:59:57,802 - INFO - Saved tweet from @rickasun09
+2025-05-24 14:59:57,867 - INFO - Saved tweet from @YogaswaraWahyu
+2025-05-24 14:59:57,927 - INFO - Saved tweet from @magalitorre02
+2025-05-24 14:59:57,983 - INFO - Saved tweet from @MariaAlkaff_
+2025-05-24 14:59:58,041 - INFO - Saved tweet from @lutfan_mohamad
+2025-05-24 15:00:02,032 - INFO - Saved tweet from @DewaYasmin
+2025-05-24 15:00:02,090 - INFO - Saved tweet from @Putralaut_
+2025-05-24 15:00:02,154 - INFO - Saved tweet from @bima282828
+2025-05-24 15:00:02,219 - INFO - Saved tweet from @Delfina1901
+2025-05-24 15:00:02,280 - INFO - Saved tweet from @Anexartitianti
+2025-05-24 15:00:02,337 - INFO - Saved tweet from @cakradara20
+2025-05-24 15:00:02,397 - INFO - Saved tweet from @rickasun09
+2025-05-24 15:00:02,465 - INFO - Saved tweet from @YogaswaraWahyu
+2025-05-24 15:00:02,530 - INFO - Saved tweet from @magalitorre02
+2025-05-24 15:00:02,600 - INFO - Saved tweet from @MariaAlkaff_
+2025-05-24 15:00:02,675 - INFO - Saved tweet from @lutfan_mohamad
+2025-05-24 15:00:02,681 - INFO - No new tweets loaded after scroll (attempt 1/5)
+2025-05-24 15:00:06,328 - INFO - Saved tweet from @DewaYasmin
+2025-05-24 15:00:06,328 - INFO - Autosave checkpoint - 1087 tweets collected so far
+2025-05-24 15:00:06,329 - INFO - Autosave completed
+2025-05-24 15:00:06,386 - INFO - Saved tweet from @Putralaut_
+2025-05-24 15:00:06,443 - INFO - Saved tweet from @bima282828
+2025-05-24 15:00:06,500 - INFO - Saved tweet from @Delfina1901
+2025-05-24 15:00:06,556 - INFO - Saved tweet from @Anexartitianti
+2025-05-24 15:00:06,612 - INFO - Saved tweet from @cakradara20
+2025-05-24 15:00:06,668 - INFO - Saved tweet from @rickasun09
+2025-05-24 15:00:06,724 - INFO - Saved tweet from @YogaswaraWahyu
+2025-05-24 15:00:06,796 - INFO - Saved tweet from @magalitorre02
+2025-05-24 15:00:06,873 - INFO - Saved tweet from @MariaAlkaff_
+2025-05-24 15:00:06,941 - INFO - Saved tweet from @lutfan_mohamad
+2025-05-24 15:00:06,945 - INFO - No new tweets loaded after scroll (attempt 2/5)
+2025-05-24 15:00:10,955 - INFO - Saved tweet from @DewaYasmin
+2025-05-24 15:00:11,020 - INFO - Saved tweet from @Putralaut_
+2025-05-24 15:00:11,083 - INFO - Saved tweet from @bima282828
+2025-05-24 15:00:11,083 - INFO - Taking 30 second break after 50 requests
+2025-05-24 15:00:41,148 - INFO - Saved tweet from @Delfina1901
+2025-05-24 15:00:41,207 - INFO - Saved tweet from @Anexartitianti
+2025-05-24 15:00:41,266 - INFO - Saved tweet from @cakradara20
+2025-05-24 15:00:41,323 - INFO - Saved tweet from @rickasun09
+2025-05-24 15:00:41,384 - INFO - Saved tweet from @YogaswaraWahyu
+2025-05-24 15:00:41,442 - INFO - Saved tweet from @magalitorre02
+2025-05-24 15:00:41,502 - INFO - Saved tweet from @MariaAlkaff_
+2025-05-24 15:00:41,561 - INFO - Saved tweet from @lutfan_mohamad
+2025-05-24 15:00:41,564 - INFO - No new tweets loaded after scroll (attempt 3/5)
+2025-05-24 15:00:45,508 - INFO - Saved tweet from @DewaYasmin
+2025-05-24 15:00:45,564 - INFO - Saved tweet from @Putralaut_
+2025-05-24 15:00:45,623 - INFO - Saved tweet from @bima282828
+2025-05-24 15:00:45,688 - INFO - Saved tweet from @Delfina1901
+2025-05-24 15:00:45,746 - INFO - Saved tweet from @Anexartitianti
+2025-05-24 15:00:45,802 - INFO - Saved tweet from @cakradara20
+2025-05-24 15:00:45,899 - INFO - Saved tweet from @rickasun09
+2025-05-24 15:00:45,958 - INFO - Saved tweet from @YogaswaraWahyu
+2025-05-24 15:00:46,017 - INFO - Saved tweet from @magalitorre02
+2025-05-24 15:00:46,071 - INFO - Saved tweet from @MariaAlkaff_
+2025-05-24 15:00:46,128 - INFO - Saved tweet from @lutfan_mohamad
+2025-05-24 15:00:46,130 - INFO - No new tweets loaded after scroll (attempt 4/5)
+2025-05-24 15:00:49,258 - INFO - Saved tweet from @DewaYasmin
+2025-05-24 15:00:49,327 - INFO - Saved tweet from @Putralaut_
+2025-05-24 15:00:49,391 - INFO - Saved tweet from @bima282828
+2025-05-24 15:00:49,452 - INFO - Saved tweet from @Delfina1901
+2025-05-24 15:00:49,515 - INFO - Saved tweet from @Anexartitianti
+2025-05-24 15:00:49,576 - INFO - Saved tweet from @cakradara20
+2025-05-24 15:00:49,638 - INFO - Saved tweet from @rickasun09
+2025-05-24 15:00:49,700 - INFO - Saved tweet from @YogaswaraWahyu
+2025-05-24 15:00:49,761 - INFO - Saved tweet from @magalitorre02
+2025-05-24 15:00:49,821 - INFO - Saved tweet from @MariaAlkaff_
+2025-05-24 15:00:49,922 - INFO - Saved tweet from @lutfan_mohamad
+2025-05-24 15:00:49,926 - INFO - No new tweets loaded after scroll (attempt 5/5)
+2025-05-24 15:00:52,387 - INFO - Waiting 7.0 seconds before next keyword...
+2025-05-24 15:00:59,372 - INFO - Searching for: vaksin gratis
+2025-05-24 15:00:59,372 - INFO - ====== WebDriver manager ======
+2025-05-24 15:01:00,405 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-24 15:01:08,515 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-24 15:01:08,762 - INFO - Driver [C:\Users\arkan\.wdm\drivers\chromedriver\win64\137.0.7151.40\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-24 15:01:09,865 - INFO - WebDriver initialized successfully
+2025-05-24 15:01:09,865 - INFO - Attempting to login to Twitter
+2025-05-24 15:01:33,737 - INFO - Successfully logged in to Twitter
+2025-05-24 15:01:44,894 - INFO - Saved tweet from @AnakLolina2
+2025-05-24 15:01:44,967 - INFO - Saved tweet from @hatebymom
+2025-05-24 15:01:45,036 - INFO - Saved tweet from @v4nc1_b0zz
+2025-05-24 15:01:45,094 - INFO - Saved tweet from @wahyuprsy
+2025-05-24 15:01:45,156 - INFO - Saved tweet from @DarsAlexandra1
+2025-05-24 15:01:45,224 - INFO - Saved tweet from @lia060787
+2025-05-24 15:01:45,294 - INFO - Saved tweet from @Vikry72350632
+2025-05-24 15:01:45,364 - INFO - Saved tweet from @agent_pin
+2025-05-24 15:01:45,424 - INFO - Saved tweet from @Delfina1901
+2025-05-24 15:01:45,486 - INFO - Saved tweet from @hikokucing
+2025-05-24 15:01:45,550 - INFO - Saved tweet from @jastairvine
+2025-05-24 15:01:45,628 - INFO - Saved tweet from @arjunotter
+2025-05-24 15:01:45,809 - INFO - Saved tweet from @CALICOCALICATT
+2025-05-24 15:01:45,870 - INFO - Saved tweet from @HalodocID
+2025-05-24 15:01:50,734 - INFO - Saved tweet from @catbriena
+2025-05-24 15:01:50,797 - INFO - Saved tweet from @BaseBDG
+2025-05-24 15:01:50,862 - INFO - Saved tweet from @kochengfs
+2025-05-24 15:01:50,923 - INFO - Saved tweet from @sunflownes
+2025-05-24 15:01:51,064 - INFO - Saved tweet from @jiahahayy
+2025-05-24 15:01:51,124 - INFO - Saved tweet from @unicelounge
+2025-05-24 15:01:51,124 - INFO - Taking 30 second break after 50 requests
+2025-05-24 15:02:21,198 - INFO - Saved tweet from @kochengfs
+2025-05-24 15:02:21,198 - INFO - Autosave checkpoint - 1151 tweets collected so far
+2025-05-24 15:02:21,198 - INFO - Autosave completed
+2025-05-24 15:02:21,265 - INFO - Saved tweet from @vyantl
+2025-05-24 15:02:21,326 - INFO - Saved tweet from @ashhleyeu
+2025-05-24 15:02:24,756 - INFO - Saved tweet from @arjunotter
+2025-05-24 15:02:24,880 - INFO - Saved tweet from @mumudisinii
+2025-05-24 15:02:24,946 - INFO - Saved tweet from @Boediantar4
+2025-05-24 15:02:25,013 - INFO - Saved tweet from @kochengfs
+2025-05-24 15:02:25,075 - INFO - Saved tweet from @kochengfs
+2025-05-24 15:02:25,131 - INFO - Saved tweet from @kotajaktim
+2025-05-24 15:02:25,189 - INFO - Saved tweet from @namasayalaut
+2025-05-24 15:02:25,256 - INFO - Saved tweet from @soonshinee
+2025-05-24 15:02:25,315 - INFO - Saved tweet from @PartaiSocmed
+2025-05-24 15:02:25,384 - INFO - Saved tweet from @yynynxxx
+2025-05-24 15:02:25,445 - INFO - Saved tweet from @betelgeuve
+2025-05-24 15:02:25,502 - INFO - Saved tweet from @As_deui
+2025-05-24 15:02:29,806 - INFO - Saved tweet from @lemonorangemint
+2025-05-24 15:02:29,870 - INFO - Saved tweet from @vyantl
+2025-05-24 15:02:29,934 - INFO - Saved tweet from @alfatih212426
+2025-05-24 15:02:30,006 - INFO - Saved tweet from @ShinYeahGhost
+2025-05-24 15:02:30,069 - INFO - Saved tweet from @re_Sagha
+2025-05-24 15:02:30,125 - INFO - Saved tweet from @wind3flower
+2025-05-24 15:02:30,181 - INFO - Saved tweet from @ggiittaagatau
+2025-05-24 15:02:30,239 - INFO - Saved tweet from @praditdita
+2025-05-24 15:02:30,296 - INFO - Saved tweet from @kemmoochi
+2025-05-24 15:02:30,354 - INFO - Saved tweet from @watanabeenami
+2025-05-24 15:02:30,411 - INFO - Saved tweet from @PartaiSocmed
+2025-05-24 15:02:30,467 - INFO - Saved tweet from @DragonoHalim
+2025-05-24 15:02:30,528 - INFO - Saved tweet from @sifa_fauzia
+2025-05-24 15:02:35,267 - INFO - Saved tweet from @PartaiSocmed
+2025-05-24 15:02:35,334 - INFO - Saved tweet from @heyitseraa
+2025-05-24 15:02:35,407 - INFO - Saved tweet from @PartaiSocmed
+2025-05-24 15:02:35,477 - INFO - Saved tweet from @PngAdilnR4kyt
+2025-05-24 15:02:35,542 - INFO - Saved tweet from @sillysoull
+2025-05-24 15:02:35,602 - INFO - Saved tweet from @littledeatch
+2025-05-24 15:02:35,661 - INFO - Saved tweet from @alfatih212426
+2025-05-24 15:02:35,760 - INFO - Saved tweet from @detikcom
+2025-05-24 15:02:35,844 - INFO - Saved tweet from @RAKemal
+2025-05-24 15:02:35,900 - INFO - Saved tweet from @tteokkies8
+2025-05-24 15:02:35,956 - INFO - Saved tweet from @PartaiSocmed
+2025-05-24 15:02:36,014 - INFO - Saved tweet from @grok
+2025-05-24 15:02:36,090 - INFO - Saved tweet from @eldv1111n
+2025-05-24 15:02:36,148 - INFO - Saved tweet from @ptrbrmnty
+2025-05-24 15:02:41,169 - INFO - Saved tweet from @NamedReceh
+2025-05-24 15:02:41,231 - INFO - Saved tweet from @ImanuelLubies
+2025-05-24 15:02:41,292 - INFO - Saved tweet from @Pamungcykas
+2025-05-24 15:02:41,350 - INFO - Saved tweet from @cnbcindonesia
+2025-05-24 15:02:41,414 - INFO - Saved tweet from @eajerigen
+2025-05-24 15:02:41,485 - INFO - Saved tweet from @95zurichil
+2025-05-24 15:02:41,551 - INFO - Saved tweet from @_Rii__Nn
+2025-05-24 15:02:41,609 - INFO - Saved tweet from @rakafm_bandung
+2025-05-24 15:02:41,609 - INFO - Taking 30 second break after 50 requests
+2025-05-24 15:03:11,673 - INFO - Saved tweet from @Sgrdamai
+2025-05-24 15:03:11,734 - INFO - Saved tweet from @icblues
+2025-05-24 15:03:11,794 - INFO - Saved tweet from @dhanangpuruhita
+2025-05-24 15:03:11,850 - INFO - Saved tweet from @detikcom
+2025-05-24 15:03:15,411 - INFO - Saved tweet from @95zurichil
+2025-05-24 15:03:15,480 - INFO - Saved tweet from @_Rii__Nn
+2025-05-24 15:03:15,543 - INFO - Saved tweet from @rakafm_bandung
+2025-05-24 15:03:15,601 - INFO - Saved tweet from @Sgrdamai
+2025-05-24 15:03:15,658 - INFO - Saved tweet from @icblues
+2025-05-24 15:03:15,715 - INFO - Saved tweet from @dhanangpuruhita
+2025-05-24 15:03:15,771 - INFO - Saved tweet from @detikcom
+2025-05-24 15:03:15,830 - INFO - Saved tweet from @grok
+2025-05-24 15:03:15,891 - INFO - Saved tweet from @PartaiSocmed
+2025-05-24 15:03:15,948 - INFO - Saved tweet from @PartaiSocmed
+2025-05-24 15:03:16,006 - INFO - Saved tweet from @detikHealth
+2025-05-24 15:03:16,066 - INFO - Saved tweet from @PartaiSocmed
+2025-05-24 15:03:16,125 - INFO - Saved tweet from @PartaiSocmed
+2025-05-24 15:03:16,182 - INFO - Saved tweet from @PartaiSocmed
+2025-05-24 15:03:16,242 - INFO - Saved tweet from @PartaiSocmed
+2025-05-24 15:03:20,748 - INFO - Saved tweet from @Jeng_Lastri
+2025-05-24 15:03:20,809 - INFO - Saved tweet from @Ibupedia
+2025-05-24 15:03:20,870 - INFO - Saved tweet from @gugukcoklat
+2025-05-24 15:03:20,926 - INFO - Saved tweet from @Kota_Tangerang
+2025-05-24 15:03:20,980 - INFO - Saved tweet from @grok
+2025-05-24 15:03:24,194 - INFO - Saved tweet from @Jeng_Lastri
+2025-05-24 15:03:24,255 - INFO - Saved tweet from @Ibupedia
+2025-05-24 15:03:24,315 - INFO - Saved tweet from @gugukcoklat
+2025-05-24 15:03:24,372 - INFO - Saved tweet from @Kota_Tangerang
+2025-05-24 15:03:24,426 - INFO - Saved tweet from @grok
+2025-05-24 15:03:24,430 - INFO - No new tweets loaded after scroll (attempt 1/5)
+2025-05-24 15:03:28,276 - INFO - Saved tweet from @Jeng_Lastri
+2025-05-24 15:03:28,338 - INFO - Saved tweet from @Ibupedia
+2025-05-24 15:03:28,404 - INFO - Saved tweet from @gugukcoklat
+2025-05-24 15:03:28,459 - INFO - Saved tweet from @Kota_Tangerang
+2025-05-24 15:03:28,515 - INFO - Saved tweet from @grok
+2025-05-24 15:03:28,518 - INFO - No new tweets loaded after scroll (attempt 2/5)
+2025-05-24 15:03:32,693 - INFO - Saved tweet from @Jeng_Lastri
+2025-05-24 15:03:32,763 - INFO - Saved tweet from @Ibupedia
+2025-05-24 15:03:32,823 - INFO - Saved tweet from @gugukcoklat
+2025-05-24 15:03:32,879 - INFO - Saved tweet from @Kota_Tangerang
+2025-05-24 15:03:32,934 - INFO - Saved tweet from @grok
+2025-05-24 15:03:32,937 - INFO - No new tweets loaded after scroll (attempt 3/5)
+2025-05-24 15:03:36,684 - INFO - Saved tweet from @Jeng_Lastri
+2025-05-24 15:03:36,752 - INFO - Saved tweet from @Ibupedia
+2025-05-24 15:03:36,816 - INFO - Saved tweet from @gugukcoklat
+2025-05-24 15:03:36,913 - INFO - Saved tweet from @Kota_Tangerang
+2025-05-24 15:03:36,975 - INFO - Saved tweet from @grok
+2025-05-24 15:03:36,978 - INFO - No new tweets loaded after scroll (attempt 4/5)
+2025-05-24 15:03:41,748 - INFO - Saved tweet from @Jeng_Lastri
+2025-05-24 15:03:41,815 - INFO - Saved tweet from @Ibupedia
+2025-05-24 15:03:41,915 - INFO - Saved tweet from @gugukcoklat
+2025-05-24 15:03:41,970 - INFO - Saved tweet from @Kota_Tangerang
+2025-05-24 15:03:42,024 - INFO - Saved tweet from @grok
+2025-05-24 15:03:42,027 - INFO - No new tweets loaded after scroll (attempt 5/5)
+2025-05-24 15:03:44,493 - INFO - Waiting 9.6 seconds before next keyword...
+2025-05-24 15:03:54,057 - INFO - Searching for: vaksin aman
+2025-05-24 15:03:54,058 - INFO - ====== WebDriver manager ======
+2025-05-24 15:03:54,794 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-24 15:03:55,009 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-24 15:03:55,211 - INFO - Driver [C:\Users\arkan\.wdm\drivers\chromedriver\win64\137.0.7151.40\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-24 15:03:56,359 - INFO - WebDriver initialized successfully
+2025-05-24 15:03:56,359 - INFO - Attempting to login to Twitter
+2025-05-24 15:04:19,645 - INFO - Successfully logged in to Twitter
+2025-05-24 15:04:29,267 - INFO - Saved tweet from @ayamaselimadu
+2025-05-24 15:04:29,267 - INFO - Autosave checkpoint - 1250 tweets collected so far
+2025-05-24 15:04:29,268 - INFO - Autosave completed
+2025-05-24 15:04:29,268 - INFO - Taking 30 second break after 50 requests
+2025-05-24 15:04:59,338 - INFO - Saved tweet from @OrterMald
+2025-05-24 15:04:59,402 - INFO - Saved tweet from @Ganjar_Mahfud03
+2025-05-24 15:04:59,461 - INFO - Saved tweet from @alifg4n
+2025-05-24 15:04:59,520 - INFO - Saved tweet from @nenglaela93
+2025-05-24 15:04:59,581 - INFO - Saved tweet from @biofarmaID
+2025-05-24 15:04:59,636 - INFO - Saved tweet from @democrazymedia
+2025-05-24 15:04:59,691 - INFO - Saved tweet from @Catatan_ali7
+2025-05-24 15:04:59,747 - INFO - Saved tweet from @TedInvestigasi
+2025-05-24 15:05:03,563 - INFO - Saved tweet from @WagimanDeep212_
+2025-05-24 15:05:03,626 - INFO - Saved tweet from @adityaWnugrahaa
+2025-05-24 15:05:03,688 - INFO - Saved tweet from @Heavenlypuff
+2025-05-24 15:05:03,747 - INFO - Saved tweet from @marvpel
+2025-05-24 15:05:03,803 - INFO - Saved tweet from @rikaaPutri99
+2025-05-24 15:05:03,859 - INFO - Saved tweet from @SSENTAIBOYHERO
+2025-05-24 15:05:03,917 - INFO - Saved tweet from @ZakyFuad689604
+2025-05-24 15:05:03,972 - INFO - Saved tweet from @Elinasarimuti
+2025-05-24 15:05:04,029 - INFO - Saved tweet from @aerifchan
+2025-05-24 15:05:09,049 - INFO - Saved tweet from @IrfanHidayat6ac
+2025-05-24 15:05:09,121 - INFO - Saved tweet from @mayalespratw
+2025-05-24 15:05:09,180 - INFO - Saved tweet from @Zaharadianayu
+2025-05-24 15:05:09,240 - INFO - Saved tweet from @biofarmaID
+2025-05-24 15:05:09,295 - INFO - Saved tweet from @rosalindajoRara
+2025-05-24 15:05:09,360 - INFO - Saved tweet from @amareguzel
+2025-05-24 15:05:09,432 - INFO - Saved tweet from @TedInvestigasi
+2025-05-24 15:05:09,489 - INFO - Saved tweet from @AtikaTaufi44439
+2025-05-24 15:05:09,544 - INFO - Saved tweet from @TedInvestigasi
+2025-05-24 15:05:13,445 - INFO - Saved tweet from @faridraje
+2025-05-24 15:05:13,565 - INFO - Saved tweet from @arspraeparandi
+2025-05-24 15:05:13,625 - INFO - Saved tweet from @affhmm
+2025-05-24 15:05:13,685 - INFO - Saved tweet from @ATOEK_25
+2025-05-24 15:05:13,745 - INFO - Saved tweet from @AgungNugro70049
+2025-05-24 15:05:13,805 - INFO - Saved tweet from @kumparan
+2025-05-24 15:05:13,864 - INFO - Saved tweet from @Faraz_kepri
+2025-05-24 15:05:13,922 - INFO - Saved tweet from @arspraeparandi
+2025-05-24 15:05:13,982 - INFO - Saved tweet from @9891ri
+2025-05-24 15:05:14,045 - INFO - Saved tweet from @9891ri
+2025-05-24 15:05:14,110 - INFO - Saved tweet from @Budionotaslim3
+2025-05-24 15:05:14,168 - INFO - Saved tweet from @ranggasetyo
+2025-05-24 15:05:14,231 - INFO - Saved tweet from @jangjiansing
+2025-05-24 15:05:14,294 - INFO - Saved tweet from @sofyar_irfs2
+2025-05-24 15:05:14,355 - INFO - Saved tweet from @Ari3Ghozi
+2025-05-24 15:05:14,420 - INFO - Saved tweet from @WAHYU_UNIFORM
+2025-05-24 15:05:14,483 - INFO - Saved tweet from @BoesthamiA
+2025-05-24 15:05:17,971 - INFO - Saved tweet from @jangjiansing
+2025-05-24 15:05:18,050 - INFO - Saved tweet from @sofyar_irfs2
+2025-05-24 15:05:18,120 - INFO - Saved tweet from @Ari3Ghozi
+2025-05-24 15:05:18,186 - INFO - Saved tweet from @WAHYU_UNIFORM
+2025-05-24 15:05:18,242 - INFO - Saved tweet from @BoesthamiA
+2025-05-24 15:05:18,298 - INFO - Saved tweet from @wlaha_sarimbit
+2025-05-24 15:05:18,354 - INFO - Saved tweet from @BinWaqqash70821
+2025-05-24 15:05:18,354 - INFO - Taking 30 second break after 50 requests
+2025-05-24 15:05:48,363 - INFO - No new tweets loaded after scroll (attempt 1/5)
+2025-05-24 15:05:52,868 - INFO - Saved tweet from @jangjiansing
+2025-05-24 15:05:52,930 - INFO - Saved tweet from @sofyar_irfs2
+2025-05-24 15:05:52,991 - INFO - Saved tweet from @Ari3Ghozi
+2025-05-24 15:05:53,048 - INFO - Saved tweet from @WAHYU_UNIFORM
+2025-05-24 15:05:53,104 - INFO - Saved tweet from @BoesthamiA
+2025-05-24 15:05:53,159 - INFO - Saved tweet from @wlaha_sarimbit
+2025-05-24 15:05:53,267 - INFO - Saved tweet from @BinWaqqash70821
+2025-05-24 15:05:53,270 - INFO - No new tweets loaded after scroll (attempt 2/5)
+2025-05-24 15:05:58,185 - INFO - Saved tweet from @jangjiansing
+2025-05-24 15:05:58,247 - INFO - Saved tweet from @sofyar_irfs2
+2025-05-24 15:05:58,308 - INFO - Saved tweet from @Ari3Ghozi
+2025-05-24 15:05:58,365 - INFO - Saved tweet from @WAHYU_UNIFORM
+2025-05-24 15:05:58,422 - INFO - Saved tweet from @BoesthamiA
+2025-05-24 15:05:58,477 - INFO - Saved tweet from @wlaha_sarimbit
+2025-05-24 15:05:58,532 - INFO - Saved tweet from @BinWaqqash70821
+2025-05-24 15:05:58,535 - INFO - No new tweets loaded after scroll (attempt 3/5)
+2025-05-24 15:06:02,482 - INFO - Saved tweet from @jangjiansing
+2025-05-24 15:06:02,543 - INFO - Saved tweet from @sofyar_irfs2
+2025-05-24 15:06:02,605 - INFO - Saved tweet from @Ari3Ghozi
+2025-05-24 15:06:02,664 - INFO - Saved tweet from @WAHYU_UNIFORM
+2025-05-24 15:06:02,719 - INFO - Saved tweet from @BoesthamiA
+2025-05-24 15:06:02,775 - INFO - Saved tweet from @wlaha_sarimbit
+2025-05-24 15:06:02,831 - INFO - Saved tweet from @BinWaqqash70821
+2025-05-24 15:06:02,835 - INFO - No new tweets loaded after scroll (attempt 4/5)
+2025-05-24 15:06:06,281 - INFO - Saved tweet from @jangjiansing
+2025-05-24 15:06:06,359 - INFO - Saved tweet from @sofyar_irfs2
+2025-05-24 15:06:06,424 - INFO - Saved tweet from @Ari3Ghozi
+2025-05-24 15:06:06,480 - INFO - Saved tweet from @WAHYU_UNIFORM
+2025-05-24 15:06:06,534 - INFO - Saved tweet from @BoesthamiA
+2025-05-24 15:06:06,590 - INFO - Saved tweet from @wlaha_sarimbit
+2025-05-24 15:06:06,683 - INFO - Saved tweet from @BinWaqqash70821
+2025-05-24 15:06:06,685 - INFO - No new tweets loaded after scroll (attempt 5/5)
+2025-05-24 15:06:09,231 - INFO - Waiting 5.1 seconds before next keyword...
+2025-05-24 15:06:14,379 - INFO - Searching for: vaksin halal
+2025-05-24 15:06:14,380 - INFO - ====== WebDriver manager ======
+2025-05-24 15:06:15,070 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-24 15:06:15,288 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-24 15:06:15,460 - INFO - Driver [C:\Users\arkan\.wdm\drivers\chromedriver\win64\137.0.7151.40\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-24 15:06:16,585 - INFO - WebDriver initialized successfully
+2025-05-24 15:06:16,585 - INFO - Attempting to login to Twitter
+2025-05-24 15:06:37,937 - INFO - Successfully logged in to Twitter
+2025-05-24 15:06:48,997 - INFO - Saved tweet from @__anomali__
+2025-05-24 15:06:48,997 - INFO - Autosave checkpoint - 1329 tweets collected so far
+2025-05-24 15:06:48,998 - INFO - Autosave completed
+2025-05-24 15:06:49,070 - INFO - Saved tweet from @Unair_Official
+2025-05-24 15:06:49,131 - INFO - Saved tweet from @biofarmaID
+2025-05-24 15:06:49,194 - INFO - Saved tweet from @tianraditya
+2025-05-24 15:06:49,250 - INFO - Saved tweet from @ukm_my
+2025-05-24 15:06:49,313 - INFO - Saved tweet from @Eukaristea
+2025-05-24 15:06:49,377 - INFO - Saved tweet from @Winterieou
+2025-05-24 15:06:49,451 - INFO - Saved tweet from @infodemik
+2025-05-24 15:06:53,641 - INFO - Saved tweet from @kumparanMOM
+2025-05-24 15:06:53,710 - INFO - Saved tweet from @infodemik
+2025-05-24 15:06:53,776 - INFO - Saved tweet from @dlgksk14
+2025-05-24 15:06:53,833 - INFO - Saved tweet from @liputan6dotcom
+2025-05-24 15:06:53,894 - INFO - Saved tweet from @starjogja
+2025-05-24 15:06:53,960 - INFO - Saved tweet from @UMonline
+2025-05-24 15:06:54,019 - INFO - Saved tweet from @dr_koko28
+2025-05-24 15:06:54,084 - INFO - Saved tweet from @jawapos
+2025-05-24 15:06:54,144 - INFO - Saved tweet from @Prayunitaumi
+2025-05-24 15:06:54,211 - INFO - Saved tweet from @sifa_fauzia
+2025-05-24 15:06:54,273 - INFO - Saved tweet from @pyoriteaaa
+2025-05-24 15:06:54,350 - INFO - Saved tweet from @shazwan_sazali
+2025-05-24 15:06:54,427 - INFO - Saved tweet from @pharmaniaga_bhd
+2025-05-24 15:06:54,515 - INFO - Saved tweet from @okezonenews
+2025-05-24 15:06:54,515 - INFO - Taking 30 second break after 50 requests
+2025-05-24 15:07:24,600 - INFO - Saved tweet from @republikaonline
+2025-05-24 15:07:24,677 - INFO - Saved tweet from @VIVAcoid
+2025-05-24 15:07:29,580 - INFO - Saved tweet from @PartaiSocmed
+2025-05-24 15:07:29,657 - INFO - Saved tweet from @fadlannuuwaar
+2025-05-24 15:07:29,721 - INFO - Saved tweet from @hafizha_anisa
+2025-05-24 15:07:29,780 - INFO - Saved tweet from @BloombergTZ
+2025-05-24 15:07:29,837 - INFO - Saved tweet from @jpnncom
+2025-05-24 15:07:29,896 - INFO - Saved tweet from @idx_channel
+2025-05-24 15:07:29,954 - INFO - Saved tweet from @hafizha_anisa
+2025-05-24 15:07:30,013 - INFO - Saved tweet from @BloombergTZ
+2025-05-24 15:07:30,072 - INFO - Saved tweet from @ame3r_hakim
+2025-05-24 15:07:30,130 - INFO - Saved tweet from @inganggita
+2025-05-24 15:07:30,192 - INFO - Saved tweet from @ladymissazira
+2025-05-24 15:07:30,249 - INFO - Saved tweet from @_Banyoe
+2025-05-24 15:07:30,309 - INFO - Saved tweet from @Anonymouslem_X
+2025-05-24 15:07:30,371 - INFO - Saved tweet from @namasayalaut
+2025-05-24 15:07:30,427 - INFO - Saved tweet from @irasjafii
+2025-05-24 15:07:30,485 - INFO - Saved tweet from @P4M_33
+2025-05-24 15:07:35,329 - INFO - Saved tweet from @inorii_yuzuriha
+2025-05-24 15:07:35,396 - INFO - Saved tweet from @blcksoya
+2025-05-24 15:07:35,462 - INFO - Saved tweet from @biofarmaID
+2025-05-24 15:07:35,522 - INFO - Saved tweet from @RealSunBros
+2025-05-24 15:07:35,580 - INFO - Saved tweet from @sifa_fauzia
+2025-05-24 15:07:35,645 - INFO - Saved tweet from @bharianmy
+2025-05-24 15:07:35,715 - INFO - Saved tweet from @mas_prasetiyo
+2025-05-24 15:07:35,773 - INFO - Saved tweet from @densatjo
+2025-05-24 15:07:35,832 - INFO - Saved tweet from @FaizalOktaW
+2025-05-24 15:07:35,891 - INFO - Saved tweet from @LBingoenk
+2025-05-24 15:07:35,952 - INFO - Saved tweet from @reni_marthalena
+2025-05-24 15:07:36,011 - INFO - Saved tweet from @Cryptocius
+2025-05-24 15:07:36,071 - INFO - Saved tweet from @Jamal06806913
+2025-05-24 15:07:36,132 - INFO - Saved tweet from @riri_rhi
+2025-05-24 15:07:36,193 - INFO - Saved tweet from @DreamBoumKiss
+2025-05-24 15:07:36,253 - INFO - Saved tweet from @daddyyuki
+2025-05-24 15:07:36,312 - INFO - Saved tweet from @miegowrenk
+2025-05-24 15:07:36,370 - INFO - Saved tweet from @CoolJomblo
+2025-05-24 15:07:36,439 - INFO - Saved tweet from @fvcksynkills
+2025-05-24 15:07:39,832 - INFO - Saved tweet from @riri_rhi
+2025-05-24 15:07:39,895 - INFO - Saved tweet from @antaranews
+2025-05-24 15:07:39,956 - INFO - Saved tweet from @maximv_satriaus
+2025-05-24 15:07:40,013 - INFO - Saved tweet from @MMXXIII330670
+2025-05-24 15:07:40,071 - INFO - Saved tweet from @anonapostate
+2025-05-24 15:07:40,129 - INFO - Saved tweet from @GessyHGanie
+2025-05-24 15:07:40,186 - INFO - Saved tweet from @overcontrolneed
+2025-05-24 15:07:40,242 - INFO - Saved tweet from @RdznRsmn
+2025-05-24 15:07:40,299 - INFO - Saved tweet from @AriesTruss
+2025-05-24 15:07:44,707 - INFO - Saved tweet from @riri_rhi
+2025-05-24 15:07:44,776 - INFO - Saved tweet from @antaranews
+2025-05-24 15:07:44,835 - INFO - Saved tweet from @maximv_satriaus
+2025-05-24 15:07:44,892 - INFO - Saved tweet from @MMXXIII330670
+2025-05-24 15:07:44,892 - INFO - Taking 30 second break after 50 requests
+2025-05-24 15:08:14,962 - INFO - Saved tweet from @anonapostate
+2025-05-24 15:08:15,027 - INFO - Saved tweet from @GessyHGanie
+2025-05-24 15:08:15,088 - INFO - Saved tweet from @overcontrolneed
+2025-05-24 15:08:15,146 - INFO - Saved tweet from @RdznRsmn
+2025-05-24 15:08:15,202 - INFO - Saved tweet from @AriesTruss
+2025-05-24 15:08:15,204 - INFO - No new tweets loaded after scroll (attempt 1/5)
+2025-05-24 15:08:18,975 - INFO - Saved tweet from @riri_rhi
+2025-05-24 15:08:19,039 - INFO - Saved tweet from @antaranews
+2025-05-24 15:08:19,100 - INFO - Saved tweet from @maximv_satriaus
+2025-05-24 15:08:19,156 - INFO - Saved tweet from @MMXXIII330670
+2025-05-24 15:08:19,212 - INFO - Saved tweet from @anonapostate
+2025-05-24 15:08:19,269 - INFO - Saved tweet from @GessyHGanie
+2025-05-24 15:08:19,326 - INFO - Saved tweet from @overcontrolneed
+2025-05-24 15:08:19,421 - INFO - Saved tweet from @RdznRsmn
+2025-05-24 15:08:19,476 - INFO - Saved tweet from @AriesTruss
+2025-05-24 15:08:19,479 - INFO - No new tweets loaded after scroll (attempt 2/5)
+2025-05-24 15:08:23,410 - INFO - Saved tweet from @riri_rhi
+2025-05-24 15:08:23,476 - INFO - Saved tweet from @antaranews
+2025-05-24 15:08:23,535 - INFO - Saved tweet from @maximv_satriaus
+2025-05-24 15:08:23,593 - INFO - Saved tweet from @MMXXIII330670
+2025-05-24 15:08:23,650 - INFO - Saved tweet from @anonapostate
+2025-05-24 15:08:23,708 - INFO - Saved tweet from @GessyHGanie
+2025-05-24 15:08:23,764 - INFO - Saved tweet from @overcontrolneed
+2025-05-24 15:08:23,821 - INFO - Saved tweet from @RdznRsmn
+2025-05-24 15:08:23,881 - INFO - Saved tweet from @AriesTruss
+2025-05-24 15:08:23,884 - INFO - No new tweets loaded after scroll (attempt 3/5)
+2025-05-24 15:08:28,479 - INFO - Saved tweet from @riri_rhi
+2025-05-24 15:08:28,537 - INFO - Saved tweet from @antaranews
+2025-05-24 15:08:28,638 - INFO - Saved tweet from @maximv_satriaus
+2025-05-24 15:08:28,696 - INFO - Saved tweet from @MMXXIII330670
+2025-05-24 15:08:28,754 - INFO - Saved tweet from @anonapostate
+2025-05-24 15:08:28,812 - INFO - Saved tweet from @GessyHGanie
+2025-05-24 15:08:28,869 - INFO - Saved tweet from @overcontrolneed
+2025-05-24 15:08:28,926 - INFO - Saved tweet from @RdznRsmn
+2025-05-24 15:08:28,981 - INFO - Saved tweet from @AriesTruss
+2025-05-24 15:08:28,984 - INFO - No new tweets loaded after scroll (attempt 4/5)
+2025-05-24 15:08:33,584 - INFO - Saved tweet from @riri_rhi
+2025-05-24 15:08:33,647 - INFO - Saved tweet from @antaranews
+2025-05-24 15:08:33,709 - INFO - Saved tweet from @maximv_satriaus
+2025-05-24 15:08:33,765 - INFO - Saved tweet from @MMXXIII330670
+2025-05-24 15:08:33,822 - INFO - Saved tweet from @anonapostate
+2025-05-24 15:08:33,886 - INFO - Saved tweet from @GessyHGanie
+2025-05-24 15:08:34,000 - INFO - Saved tweet from @overcontrolneed
+2025-05-24 15:08:34,061 - INFO - Saved tweet from @RdznRsmn
+2025-05-24 15:08:34,120 - INFO - Saved tweet from @AriesTruss
+2025-05-24 15:08:34,123 - INFO - No new tweets loaded after scroll (attempt 5/5)
+2025-05-24 15:08:36,594 - INFO - Waiting 9.9 seconds before next keyword...
+2025-05-24 15:08:46,516 - INFO - Searching for: vaksin untuk semua
+2025-05-24 15:08:46,516 - INFO - ====== WebDriver manager ======
+2025-05-24 15:08:47,212 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-24 15:08:47,480 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-24 15:08:47,723 - INFO - Driver [C:\Users\arkan\.wdm\drivers\chromedriver\win64\137.0.7151.40\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-24 15:08:48,884 - INFO - WebDriver initialized successfully
+2025-05-24 15:08:48,884 - INFO - Attempting to login to Twitter
+2025-05-24 15:09:16,776 - INFO - Successfully logged in to Twitter
+2025-05-24 15:09:26,627 - INFO - Saved tweet from @SSENTAIBOYHERO
+2025-05-24 15:09:26,628 - INFO - Autosave checkpoint - 1442 tweets collected so far
+2025-05-24 15:09:26,628 - INFO - Autosave completed
+2025-05-24 15:09:26,692 - INFO - Saved tweet from @TedInvestigasi
+2025-05-24 15:09:26,754 - INFO - Saved tweet from @ydnan0973
+2025-05-24 15:09:26,814 - INFO - Saved tweet from @Entytaz
+2025-05-24 15:09:26,872 - INFO - Saved tweet from @MamangReborn
+2025-05-24 15:09:26,929 - INFO - Saved tweet from @omnyaponakan
+2025-05-24 15:09:26,986 - INFO - Saved tweet from @song_gonbae
+2025-05-24 15:09:31,035 - INFO - Saved tweet from @SSENTAIBOYHERO
+2025-05-24 15:09:31,112 - INFO - Saved tweet from @TedInvestigasi
+2025-05-24 15:09:31,113 - INFO - Taking 30 second break after 50 requests
+2025-05-24 15:10:01,182 - INFO - Saved tweet from @ydnan0973
+2025-05-24 15:10:01,258 - INFO - Saved tweet from @Entytaz
+2025-05-24 15:10:01,323 - INFO - Saved tweet from @MamangReborn
+2025-05-24 15:10:01,377 - INFO - Saved tweet from @omnyaponakan
+2025-05-24 15:10:01,432 - INFO - Saved tweet from @song_gonbae
+2025-05-24 15:10:01,435 - INFO - No new tweets loaded after scroll (attempt 1/5)
+2025-05-24 15:10:05,415 - INFO - Saved tweet from @SSENTAIBOYHERO
+2025-05-24 15:10:05,479 - INFO - Saved tweet from @TedInvestigasi
+2025-05-24 15:10:05,541 - INFO - Saved tweet from @ydnan0973
+2025-05-24 15:10:05,596 - INFO - Saved tweet from @Entytaz
+2025-05-24 15:10:05,650 - INFO - Saved tweet from @MamangReborn
+2025-05-24 15:10:05,705 - INFO - Saved tweet from @omnyaponakan
+2025-05-24 15:10:05,759 - INFO - Saved tweet from @song_gonbae
+2025-05-24 15:10:05,762 - INFO - No new tweets loaded after scroll (attempt 2/5)
+2025-05-24 15:10:09,148 - INFO - Saved tweet from @SSENTAIBOYHERO
+2025-05-24 15:10:09,261 - INFO - Saved tweet from @TedInvestigasi
+2025-05-24 15:10:09,318 - INFO - Saved tweet from @ydnan0973
+2025-05-24 15:10:09,373 - INFO - Saved tweet from @Entytaz
+2025-05-24 15:10:09,428 - INFO - Saved tweet from @MamangReborn
+2025-05-24 15:10:09,482 - INFO - Saved tweet from @omnyaponakan
+2025-05-24 15:10:09,537 - INFO - Saved tweet from @song_gonbae
+2025-05-24 15:10:09,539 - INFO - No new tweets loaded after scroll (attempt 3/5)
+2025-05-24 15:10:14,232 - INFO - Saved tweet from @SSENTAIBOYHERO
+2025-05-24 15:10:14,292 - INFO - Saved tweet from @TedInvestigasi
+2025-05-24 15:10:14,351 - INFO - Saved tweet from @ydnan0973
+2025-05-24 15:10:14,408 - INFO - Saved tweet from @Entytaz
+2025-05-24 15:10:14,463 - INFO - Saved tweet from @MamangReborn
+2025-05-24 15:10:14,517 - INFO - Saved tweet from @omnyaponakan
+2025-05-24 15:10:14,571 - INFO - Saved tweet from @song_gonbae
+2025-05-24 15:10:14,574 - INFO - No new tweets loaded after scroll (attempt 4/5)
+2025-05-24 15:10:18,563 - INFO - Saved tweet from @SSENTAIBOYHERO
+2025-05-24 15:10:18,625 - INFO - Saved tweet from @TedInvestigasi
+2025-05-24 15:10:18,717 - INFO - Saved tweet from @ydnan0973
+2025-05-24 15:10:18,772 - INFO - Saved tweet from @Entytaz
+2025-05-24 15:10:18,827 - INFO - Saved tweet from @MamangReborn
+2025-05-24 15:10:18,881 - INFO - Saved tweet from @omnyaponakan
+2025-05-24 15:10:18,936 - INFO - Saved tweet from @song_gonbae
+2025-05-24 15:10:18,939 - INFO - No new tweets loaded after scroll (attempt 5/5)
+2025-05-24 15:10:21,432 - INFO - Waiting 6.0 seconds before next keyword...
+2025-05-24 15:10:27,435 - INFO - Searching for: vaksin indonesia
+2025-05-24 15:10:27,436 - INFO - ====== WebDriver manager ======
+2025-05-24 15:10:28,122 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-24 15:10:28,393 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-24 15:10:28,647 - INFO - Driver [C:\Users\arkan\.wdm\drivers\chromedriver\win64\137.0.7151.40\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-24 15:10:29,736 - INFO - WebDriver initialized successfully
+2025-05-24 15:10:29,738 - INFO - Attempting to login to Twitter
+2025-05-24 15:10:51,585 - INFO - Successfully logged in to Twitter
+2025-05-24 15:11:01,687 - INFO - Saved tweet from @StopTBIndonesia
+2025-05-24 15:11:01,753 - INFO - Saved tweet from @GasMedsos
+2025-05-24 15:11:01,815 - INFO - Saved tweet from @StopTBIndonesia
+2025-05-24 15:11:01,883 - INFO - Saved tweet from @namasayalaut
+2025-05-24 15:11:01,939 - INFO - Saved tweet from @KATADATAcoid
+2025-05-24 15:11:01,997 - INFO - Saved tweet from @AirinDatangLagi
+2025-05-24 15:11:02,055 - INFO - Saved tweet from @tempodotco
+2025-05-24 15:11:05,296 - INFO - Saved tweet from @bangherwin
+2025-05-24 15:11:05,382 - INFO - Saved tweet from @NenkMonica
+2025-05-24 15:11:05,481 - INFO - Saved tweet from @Jumianto_RK
+2025-05-24 15:11:05,574 - INFO - Saved tweet from @Metro_TV
+2025-05-24 15:11:05,647 - INFO - Saved tweet from @PartaiSocmed
+2025-05-24 15:11:05,720 - INFO - Saved tweet from @NenkMonica
+2025-05-24 15:11:05,796 - INFO - Saved tweet from @shintaeffendi
+2025-05-24 15:11:10,153 - INFO - Saved tweet from @tvOneNews
+2025-05-24 15:11:10,216 - INFO - Saved tweet from @UNICEFIndonesia
+2025-05-24 15:11:10,373 - INFO - Saved tweet from @patillele4364
+2025-05-24 15:11:10,373 - INFO - Taking 30 second break after 50 requests
+2025-05-24 15:11:40,439 - INFO - Saved tweet from @tvOneNews
+2025-05-24 15:11:40,439 - INFO - Autosave checkpoint - 1501 tweets collected so far
+2025-05-24 15:11:40,439 - INFO - Autosave completed
+2025-05-24 15:11:40,502 - INFO - Saved tweet from @amareguzel
+2025-05-24 15:11:40,567 - INFO - Saved tweet from @Andria75777
+2025-05-24 15:11:40,637 - INFO - Saved tweet from @PngAdilnR4kyt
+2025-05-24 15:11:45,501 - INFO - Saved tweet from @SINDOnews
+2025-05-24 15:11:45,602 - INFO - Saved tweet from @officialinews_
+2025-05-24 15:11:45,686 - INFO - Saved tweet from @geloraco
+2025-05-24 15:11:45,751 - INFO - Saved tweet from @Metro_TV
+2025-05-24 15:11:45,819 - INFO - Saved tweet from @kipi_indonesia
+2025-05-24 15:11:45,883 - INFO - Saved tweet from @Andria75777
+2025-05-24 15:11:45,951 - INFO - Saved tweet from @kadrunibli17616
+2025-05-24 15:11:49,307 - INFO - Saved tweet from @OposisiCerdas
+2025-05-24 15:11:49,376 - INFO - Saved tweet from @CNNIndonesia
+2025-05-24 15:11:49,438 - INFO - Saved tweet from @tempodotco
+2025-05-24 15:11:49,504 - INFO - Saved tweet from @Sundakiwari1
+2025-05-24 15:11:49,568 - INFO - Saved tweet from @astroharis
+2025-05-24 15:11:49,651 - INFO - Saved tweet from @kipi_indonesia
+2025-05-24 15:11:49,735 - INFO - Saved tweet from @AtikaTaufi44439
+2025-05-24 15:11:49,816 - INFO - Saved tweet from @tempodotco
+2025-05-24 15:11:49,880 - INFO - Saved tweet from @entahtaktahu007
+2025-05-24 15:11:49,946 - INFO - Saved tweet from @amareguzel
+2025-05-24 15:11:53,619 - INFO - Saved tweet from @biofarmaID
+2025-05-24 15:11:53,678 - INFO - Saved tweet from @muhaust
+2025-05-24 15:11:53,742 - INFO - Saved tweet from @arspraeparandi
+2025-05-24 15:11:53,809 - INFO - Saved tweet from @sexsye
+2025-05-24 15:11:53,866 - INFO - Saved tweet from @bafarooo
+2025-05-24 15:11:53,927 - INFO - Saved tweet from @okezonenews
+2025-05-24 15:11:53,984 - INFO - Saved tweet from @SSENTAIBOYHERO
+2025-05-24 15:11:54,046 - INFO - Saved tweet from @nambahsahabat
+2025-05-24 15:11:54,104 - INFO - Saved tweet from @PartaiSocmed
+2025-05-24 15:11:54,164 - INFO - Saved tweet from @geloraco
+2025-05-24 15:11:54,225 - INFO - Saved tweet from @ConversationIDN
+2025-05-24 15:11:54,288 - INFO - Saved tweet from @KemenkesRI
+2025-05-24 15:11:54,353 - INFO - Saved tweet from @6ur3ckv4n8345
+2025-05-24 15:11:57,699 - INFO - Saved tweet from @MYusufN8
+2025-05-24 15:11:57,758 - INFO - Saved tweet from @vctrkmng
+2025-05-24 15:11:57,823 - INFO - Saved tweet from @PartaiSocmed
+2025-05-24 15:11:57,885 - INFO - Saved tweet from @Metro_TV
+2025-05-24 15:11:57,946 - INFO - Saved tweet from @PartaiSocmed
+2025-05-24 15:11:58,063 - INFO - Saved tweet from @PartaiSocmed
+2025-05-24 15:11:58,121 - INFO - Saved tweet from @kumparan
+2025-05-24 15:11:58,180 - INFO - Saved tweet from @PartaiSocmed
+2025-05-24 15:11:58,239 - INFO - Saved tweet from @officialinews_
+2025-05-24 15:11:58,301 - INFO - Saved tweet from @PartaiSocmed
+2025-05-24 15:11:58,361 - INFO - Saved tweet from @detikcom
+2025-05-24 15:11:58,421 - INFO - Saved tweet from @e100ss
+2025-05-24 15:11:58,483 - INFO - Saved tweet from @detikcom
+2025-05-24 15:12:02,533 - INFO - Saved tweet from @tribunnews
+2025-05-24 15:12:02,594 - INFO - Saved tweet from @detikcom
+2025-05-24 15:12:02,653 - INFO - Saved tweet from @detikHealth
+2025-05-24 15:12:02,653 - INFO - Taking 30 second break after 50 requests
+2025-05-24 15:12:32,721 - INFO - Saved tweet from @PartaiSocmed
+2025-05-24 15:12:32,781 - INFO - Saved tweet from @PartaiSocmed
+2025-05-24 15:12:32,844 - INFO - Saved tweet from @PartaiSocmed
+2025-05-24 15:12:32,905 - INFO - Saved tweet from @tempodotco
+2025-05-24 15:12:32,968 - INFO - Saved tweet from @AbiebSyah087021
+2025-05-24 15:12:33,032 - INFO - Saved tweet from @JendralKepitin9
+2025-05-24 15:12:33,090 - INFO - Saved tweet from @marufins
+2025-05-24 15:12:33,153 - INFO - Saved tweet from @LaporSehat
+2025-05-24 15:12:33,213 - INFO - Saved tweet from @SutarnoKrama
+2025-05-24 15:12:33,321 - INFO - Saved tweet from @Marimar_Aauw
+2025-05-24 15:12:33,383 - INFO - Saved tweet from @SuhardiSuh66239
+2025-05-24 15:12:33,446 - INFO - Saved tweet from @yo2thok
+2025-05-24 15:12:33,505 - INFO - Saved tweet from @TedInvestigasi
+2025-05-24 15:12:38,253 - INFO - Saved tweet from @marufins
+2025-05-24 15:12:38,314 - INFO - Saved tweet from @LaporSehat
+2025-05-24 15:12:38,373 - INFO - Saved tweet from @SutarnoKrama
+2025-05-24 15:12:38,435 - INFO - Saved tweet from @Marimar_Aauw
+2025-05-24 15:12:38,498 - INFO - Saved tweet from @SuhardiSuh66239
+2025-05-24 15:12:38,562 - INFO - Saved tweet from @yo2thok
+2025-05-24 15:12:38,622 - INFO - Saved tweet from @TedInvestigasi
+2025-05-24 15:12:38,683 - INFO - Saved tweet from @MiraninonLita
+2025-05-24 15:12:38,741 - INFO - Saved tweet from @dhanangpuruhita
+2025-05-24 15:12:38,804 - INFO - Saved tweet from @PartaiSocmed
+2025-05-24 15:12:38,863 - INFO - Saved tweet from @KompasTV
+2025-05-24 15:12:38,925 - INFO - Saved tweet from @PartaiSocmed
+2025-05-24 15:12:38,990 - INFO - Saved tweet from @KompasTV
+2025-05-24 15:12:39,050 - INFO - Saved tweet from @detikcom
+2025-05-24 15:12:43,556 - INFO - Saved tweet from @detikcom
+2025-05-24 15:12:43,621 - INFO - Saved tweet from @SINDOnews
+2025-05-24 15:12:43,689 - INFO - Saved tweet from @soloposdotcom
+2025-05-24 15:12:43,758 - INFO - Saved tweet from @KompasTV
+2025-05-24 15:12:43,822 - INFO - Saved tweet from @PartaiSocmed
+2025-05-24 15:12:43,897 - INFO - Saved tweet from @arspraeparandi
+2025-05-24 15:12:43,985 - INFO - Saved tweet from @PartaiSocmed
+2025-05-24 15:12:44,062 - INFO - Saved tweet from @SumandoGaek
+2025-05-24 15:12:44,126 - INFO - Saved tweet from @GNFI
+2025-05-24 15:12:44,189 - INFO - Saved tweet from @kompascom
+2025-05-24 15:12:44,252 - INFO - Saved tweet from @PartaiSocmed
+2025-05-24 15:12:44,320 - INFO - Saved tweet from @soloposdotcom
+2025-05-24 15:12:48,993 - INFO - Saved tweet from @GNFI
+2025-05-24 15:12:49,062 - INFO - Saved tweet from @kompascom
+2025-05-24 15:12:49,121 - INFO - Saved tweet from @PartaiSocmed
+2025-05-24 15:12:49,181 - INFO - Saved tweet from @soloposdotcom
+2025-05-24 15:12:49,243 - INFO - Saved tweet from @PartaiSocmed
+2025-05-24 15:12:49,301 - INFO - Saved tweet from @TechinAsia_ID
+2025-05-24 15:12:49,363 - INFO - Saved tweet from @alandakariza
+2025-05-24 15:12:49,423 - INFO - Saved tweet from @karimnas_
+2025-05-24 15:12:49,485 - INFO - Saved tweet from @RadioElshinta
+2025-05-24 15:12:49,544 - INFO - Saved tweet from @hasbiyal_furqon
+2025-05-24 15:12:49,606 - INFO - Saved tweet from @_riverheaven
+2025-05-24 15:12:49,606 - INFO - Taking 30 second break after 50 requests
+2025-05-24 15:13:19,672 - INFO - Saved tweet from @e100ss
+2025-05-24 15:13:19,731 - INFO - Saved tweet from @juliusibrani
+2025-05-24 15:13:23,271 - INFO - Saved tweet from @karimnas_
+2025-05-24 15:13:23,334 - INFO - Saved tweet from @RadioElshinta
+2025-05-24 15:13:23,398 - INFO - Saved tweet from @hasbiyal_furqon
+2025-05-24 15:13:23,458 - INFO - Saved tweet from @_riverheaven
+2025-05-24 15:13:23,516 - INFO - Saved tweet from @e100ss
+2025-05-24 15:13:23,575 - INFO - Saved tweet from @juliusibrani
+2025-05-24 15:13:23,636 - INFO - Saved tweet from @Arnovi_
+2025-05-24 15:13:23,695 - INFO - Saved tweet from @akuratco
+2025-05-24 15:13:23,753 - INFO - Saved tweet from @RadioElshinta
+2025-05-24 15:13:23,811 - INFO - Saved tweet from @detikHealth
+2025-05-24 15:13:28,784 - INFO - Saved tweet from @juliusibrani
+2025-05-24 15:13:28,842 - INFO - Saved tweet from @Arnovi_
+2025-05-24 15:13:28,901 - INFO - Saved tweet from @akuratco
+2025-05-24 15:13:28,960 - INFO - Saved tweet from @RadioElshinta
+2025-05-24 15:13:29,018 - INFO - Saved tweet from @detikHealth
+2025-05-24 15:13:29,086 - INFO - Saved tweet from @whendarkness_
+2025-05-24 15:13:29,150 - INFO - Saved tweet from @amelsiapasih
+2025-05-24 15:13:29,210 - INFO - Saved tweet from @ranggasetyo
+2025-05-24 15:13:29,268 - INFO - Saved tweet from @arspraeparandi
+2025-05-24 15:13:32,734 - INFO - Saved tweet from @RadioElshinta
+2025-05-24 15:13:32,792 - INFO - Saved tweet from @detikHealth
+2025-05-24 15:13:32,852 - INFO - Saved tweet from @whendarkness_
+2025-05-24 15:13:32,915 - INFO - Saved tweet from @amelsiapasih
+2025-05-24 15:13:32,973 - INFO - Saved tweet from @ranggasetyo
+2025-05-24 15:13:33,032 - INFO - Saved tweet from @arspraeparandi
+2025-05-24 15:13:33,089 - INFO - Saved tweet from @detikcom
+2025-05-24 15:13:33,147 - INFO - Saved tweet from @martharosana
+2025-05-24 15:13:33,206 - INFO - Saved tweet from @syafii_zuhhad
+2025-05-24 15:13:33,264 - INFO - Saved tweet from @agent_pin
+2025-05-24 15:13:37,310 - INFO - Saved tweet from @ranggasetyo
+2025-05-24 15:13:37,372 - INFO - Saved tweet from @arspraeparandi
+2025-05-24 15:13:37,434 - INFO - Saved tweet from @detikcom
+2025-05-24 15:13:37,494 - INFO - Saved tweet from @martharosana
+2025-05-24 15:13:37,551 - INFO - Saved tweet from @syafii_zuhhad
+2025-05-24 15:13:37,609 - INFO - Saved tweet from @agent_pin
+2025-05-24 15:13:37,669 - INFO - Saved tweet from @detikcom
+2025-05-24 15:13:37,728 - INFO - Saved tweet from @Budionotaslim3
+2025-05-24 15:13:41,249 - INFO - Saved tweet from @detikcom
+2025-05-24 15:13:41,249 - INFO - Autosave checkpoint - 1640 tweets collected so far
+2025-05-24 15:13:41,250 - INFO - Autosave completed
+2025-05-24 15:13:41,311 - INFO - Saved tweet from @martharosana
+2025-05-24 15:13:41,370 - INFO - Saved tweet from @syafii_zuhhad
+2025-05-24 15:13:41,431 - INFO - Saved tweet from @agent_pin
+2025-05-24 15:13:41,490 - INFO - Saved tweet from @detikcom
+2025-05-24 15:13:41,550 - INFO - Saved tweet from @Budionotaslim3
+2025-05-24 15:13:41,553 - INFO - No new tweets loaded after scroll (attempt 1/5)
+2025-05-24 15:13:46,349 - INFO - Saved tweet from @detikcom
+2025-05-24 15:13:46,407 - INFO - Saved tweet from @martharosana
+2025-05-24 15:13:46,471 - INFO - Saved tweet from @syafii_zuhhad
+2025-05-24 15:13:46,528 - INFO - Saved tweet from @agent_pin
+2025-05-24 15:13:46,584 - INFO - Saved tweet from @detikcom
+2025-05-24 15:13:46,584 - INFO - Taking 30 second break after 50 requests
+2025-05-24 15:14:16,649 - INFO - Saved tweet from @Budionotaslim3
+2025-05-24 15:14:16,652 - INFO - No new tweets loaded after scroll (attempt 2/5)
+2025-05-24 15:14:19,763 - INFO - Saved tweet from @detikcom
+2025-05-24 15:14:19,821 - INFO - Saved tweet from @martharosana
+2025-05-24 15:14:19,878 - INFO - Saved tweet from @syafii_zuhhad
+2025-05-24 15:14:19,937 - INFO - Saved tweet from @agent_pin
+2025-05-24 15:14:19,995 - INFO - Saved tweet from @detikcom
+2025-05-24 15:14:20,053 - INFO - Saved tweet from @Budionotaslim3
+2025-05-24 15:14:20,056 - INFO - No new tweets loaded after scroll (attempt 3/5)
+2025-05-24 15:14:23,707 - INFO - Saved tweet from @detikcom
+2025-05-24 15:14:23,765 - INFO - Saved tweet from @martharosana
+2025-05-24 15:14:23,827 - INFO - Saved tweet from @syafii_zuhhad
+2025-05-24 15:14:23,883 - INFO - Saved tweet from @agent_pin
+2025-05-24 15:14:23,944 - INFO - Saved tweet from @detikcom
+2025-05-24 15:14:23,999 - INFO - Saved tweet from @Budionotaslim3
+2025-05-24 15:14:24,002 - INFO - No new tweets loaded after scroll (attempt 4/5)
+2025-05-24 15:14:27,475 - INFO - Saved tweet from @detikcom
+2025-05-24 15:14:27,533 - INFO - Saved tweet from @martharosana
+2025-05-24 15:14:27,590 - INFO - Saved tweet from @syafii_zuhhad
+2025-05-24 15:14:27,649 - INFO - Saved tweet from @agent_pin
+2025-05-24 15:14:27,707 - INFO - Saved tweet from @detikcom
+2025-05-24 15:14:27,764 - INFO - Saved tweet from @Budionotaslim3
+2025-05-24 15:14:27,768 - INFO - No new tweets loaded after scroll (attempt 5/5)
+2025-05-24 15:14:30,193 - INFO - Waiting 8.9 seconds before next keyword...
+2025-05-24 15:14:39,140 - INFO - Searching for: tolak vaksin
+2025-05-24 15:14:39,141 - INFO - ====== WebDriver manager ======
+2025-05-24 15:14:39,828 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-24 15:14:40,085 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-24 15:14:40,270 - INFO - Driver [C:\Users\arkan\.wdm\drivers\chromedriver\win64\137.0.7151.40\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-24 15:14:41,345 - INFO - WebDriver initialized successfully
+2025-05-24 15:14:41,345 - INFO - Attempting to login to Twitter
+2025-05-24 15:15:03,802 - INFO - Successfully logged in to Twitter
+2025-05-24 15:15:13,228 - INFO - Saved tweet from @RD_4WR1212
+2025-05-24 15:15:13,289 - INFO - Saved tweet from @SumandoGaek
+2025-05-24 15:15:13,347 - INFO - Saved tweet from @MediaVoi
+2025-05-24 15:15:13,408 - INFO - Saved tweet from @SuhardiSuh66239
+2025-05-24 15:15:13,466 - INFO - Saved tweet from @TedInvestigasi
+2025-05-24 15:15:13,530 - INFO - Saved tweet from @AmirulA1253
+2025-05-24 15:15:13,588 - INFO - Saved tweet from @AmirulA1253
+2025-05-24 15:15:13,652 - INFO - Saved tweet from @SumandoGaek
+2025-05-24 15:15:17,034 - INFO - Saved tweet from @Muslim_AntiPKI9
+2025-05-24 15:15:17,094 - INFO - Saved tweet from @_cenk90E
+2025-05-24 15:15:17,162 - INFO - Saved tweet from @blushpinkpeonyy
+2025-05-24 15:15:17,229 - INFO - Saved tweet from @RealSunBros
+2025-05-24 15:15:17,294 - INFO - Saved tweet from @piyopikavet
+2025-05-24 15:15:17,360 - INFO - Saved tweet from @OposisiCerdas
+2025-05-24 15:15:17,424 - INFO - Saved tweet from @SSENTAIBOYHERO
+2025-05-24 15:15:17,484 - INFO - Saved tweet from @HardiWinata14
+2025-05-24 15:15:17,561 - INFO - Saved tweet from @JendralKepitin9
+2025-05-24 15:15:17,636 - INFO - Saved tweet from @MariaAlkaff_
+2025-05-24 15:15:17,699 - INFO - Saved tweet from @affhmm
+2025-05-24 15:15:17,762 - INFO - Saved tweet from @MiraninonLita
+2025-05-24 15:15:21,020 - INFO - Saved tweet from @MiraninonLita
+2025-05-24 15:15:21,078 - INFO - Saved tweet from @AkasiaUsman
+2025-05-24 15:15:21,139 - INFO - Saved tweet from @MiraninonLita
+2025-05-24 15:15:21,206 - INFO - Saved tweet from @MiraninonLita
+2025-05-24 15:15:21,266 - INFO - Saved tweet from @MiraninonLita
+2025-05-24 15:15:21,403 - INFO - Saved tweet from @as_siglie
+2025-05-24 15:15:26,353 - INFO - Saved tweet from @MiraninonLita
+2025-05-24 15:15:26,412 - INFO - Saved tweet from @MiraninonLita
+2025-05-24 15:15:26,468 - INFO - Saved tweet from @MiraninonLita
+2025-05-24 15:15:26,526 - INFO - Saved tweet from @as_siglie
+2025-05-24 15:15:26,529 - INFO - No new tweets loaded after scroll (attempt 1/5)
+2025-05-24 15:15:31,349 - INFO - Saved tweet from @MiraninonLita
+2025-05-24 15:15:31,349 - INFO - Taking 30 second break after 50 requests
+2025-05-24 15:16:01,418 - INFO - Saved tweet from @MiraninonLita
+2025-05-24 15:16:01,418 - INFO - Autosave checkpoint - 1701 tweets collected so far
+2025-05-24 15:16:01,418 - INFO - Autosave completed
+2025-05-24 15:16:01,480 - INFO - Saved tweet from @MiraninonLita
+2025-05-24 15:16:01,540 - INFO - Saved tweet from @as_siglie
+2025-05-24 15:16:01,543 - INFO - No new tweets loaded after scroll (attempt 2/5)
+2025-05-24 15:16:06,015 - INFO - Saved tweet from @MiraninonLita
+2025-05-24 15:16:06,072 - INFO - Saved tweet from @MiraninonLita
+2025-05-24 15:16:06,131 - INFO - Saved tweet from @MiraninonLita
+2025-05-24 15:16:06,186 - INFO - Saved tweet from @as_siglie
+2025-05-24 15:16:06,189 - INFO - No new tweets loaded after scroll (attempt 3/5)
+2025-05-24 15:16:09,740 - INFO - Saved tweet from @MiraninonLita
+2025-05-24 15:16:09,798 - INFO - Saved tweet from @MiraninonLita
+2025-05-24 15:16:09,855 - INFO - Saved tweet from @MiraninonLita
+2025-05-24 15:16:09,910 - INFO - Saved tweet from @as_siglie
+2025-05-24 15:16:09,914 - INFO - No new tweets loaded after scroll (attempt 4/5)
+2025-05-24 15:16:13,166 - INFO - Saved tweet from @MiraninonLita
+2025-05-24 15:16:13,231 - INFO - Saved tweet from @MiraninonLita
+2025-05-24 15:16:13,290 - INFO - Saved tweet from @MiraninonLita
+2025-05-24 15:16:13,348 - INFO - Saved tweet from @as_siglie
+2025-05-24 15:16:13,351 - INFO - No new tweets loaded after scroll (attempt 5/5)
+2025-05-24 15:16:15,824 - INFO - Waiting 9.5 seconds before next keyword...
+2025-05-24 15:16:25,340 - INFO - Searching for: saya tidak vaksin
+2025-05-24 15:16:25,341 - INFO - ====== WebDriver manager ======
+2025-05-24 15:16:26,027 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-24 15:16:26,194 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-24 15:16:26,319 - INFO - Driver [C:\Users\arkan\.wdm\drivers\chromedriver\win64\137.0.7151.40\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-24 15:16:27,384 - INFO - WebDriver initialized successfully
+2025-05-24 15:16:27,385 - INFO - Attempting to login to Twitter
+2025-05-24 15:16:48,670 - INFO - Successfully logged in to Twitter
+2025-05-24 15:16:59,202 - INFO - Saved tweet from @Sultankwkwkw
+2025-05-24 15:16:59,264 - INFO - Saved tweet from @SSENTAIBOYHERO
+2025-05-24 15:16:59,325 - INFO - Saved tweet from @AkasiaUsman
+2025-05-24 15:16:59,385 - INFO - Saved tweet from @Aminphobby
+2025-05-24 15:16:59,444 - INFO - Saved tweet from @AriesTruss
+2025-05-24 15:16:59,503 - INFO - Saved tweet from @mryzkidwiap
+2025-05-24 15:16:59,566 - INFO - Saved tweet from @novitasariyahya
+2025-05-24 15:16:59,630 - INFO - Saved tweet from @junlearnscrypto
+2025-05-24 15:16:59,693 - INFO - Saved tweet from @amareguzel
+2025-05-24 15:16:59,754 - INFO - Saved tweet from @Panoet__
+2025-05-24 15:16:59,816 - INFO - Saved tweet from @grok
+2025-05-24 15:16:59,882 - INFO - Saved tweet from @Srik4ndiMuslim2
+2025-05-24 15:17:04,510 - INFO - Saved tweet from @junlearnscrypto
+2025-05-24 15:17:04,573 - INFO - Saved tweet from @amareguzel
+2025-05-24 15:17:04,690 - INFO - Saved tweet from @Panoet__
+2025-05-24 15:17:04,749 - INFO - Saved tweet from @grok
+2025-05-24 15:17:04,810 - INFO - Saved tweet from @Srik4ndiMuslim2
+2025-05-24 15:17:04,814 - INFO - No new tweets loaded after scroll (attempt 1/5)
+2025-05-24 15:17:09,573 - INFO - Saved tweet from @junlearnscrypto
+2025-05-24 15:17:09,675 - INFO - Saved tweet from @amareguzel
+2025-05-24 15:17:09,735 - INFO - Saved tweet from @Panoet__
+2025-05-24 15:17:09,794 - INFO - Saved tweet from @grok
+2025-05-24 15:17:09,859 - INFO - Saved tweet from @Srik4ndiMuslim2
+2025-05-24 15:17:09,862 - INFO - No new tweets loaded after scroll (attempt 2/5)
+2025-05-24 15:17:13,548 - INFO - Saved tweet from @junlearnscrypto
+2025-05-24 15:17:13,609 - INFO - Saved tweet from @amareguzel
+2025-05-24 15:17:13,668 - INFO - Saved tweet from @Panoet__
+2025-05-24 15:17:13,727 - INFO - Saved tweet from @grok
+2025-05-24 15:17:13,789 - INFO - Saved tweet from @Srik4ndiMuslim2
+2025-05-24 15:17:13,792 - INFO - No new tweets loaded after scroll (attempt 3/5)
+2025-05-24 15:17:18,726 - INFO - Saved tweet from @junlearnscrypto
+2025-05-24 15:17:18,786 - INFO - Saved tweet from @amareguzel
+2025-05-24 15:17:18,845 - INFO - Saved tweet from @Panoet__
+2025-05-24 15:17:18,903 - INFO - Saved tweet from @grok
+2025-05-24 15:17:18,964 - INFO - Saved tweet from @Srik4ndiMuslim2
+2025-05-24 15:17:18,967 - INFO - No new tweets loaded after scroll (attempt 4/5)
+2025-05-24 15:17:23,938 - INFO - Saved tweet from @junlearnscrypto
+2025-05-24 15:17:24,005 - INFO - Saved tweet from @amareguzel
+2025-05-24 15:17:24,069 - INFO - Saved tweet from @Panoet__
+2025-05-24 15:17:24,070 - INFO - Taking 30 second break after 50 requests
+2025-05-24 15:17:54,187 - INFO - Saved tweet from @grok
+2025-05-24 15:17:54,251 - INFO - Saved tweet from @Srik4ndiMuslim2
+2025-05-24 15:17:54,254 - INFO - No new tweets loaded after scroll (attempt 5/5)
+2025-05-24 15:17:57,204 - INFO - Waiting 8.7 seconds before next keyword...
+2025-05-24 15:18:05,916 - INFO - Searching for: vaksin haram
+2025-05-24 15:18:05,917 - INFO - ====== WebDriver manager ======
+2025-05-24 15:18:06,600 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-24 15:18:06,734 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-24 15:18:06,893 - INFO - Driver [C:\Users\arkan\.wdm\drivers\chromedriver\win64\137.0.7151.40\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-24 15:18:07,999 - INFO - WebDriver initialized successfully
+2025-05-24 15:18:08,000 - INFO - Attempting to login to Twitter
+2025-05-24 15:18:38,737 - INFO - Successfully logged in to Twitter
+2025-05-24 15:18:49,029 - INFO - Saved tweet from @Boediantar4
+2025-05-24 15:18:49,030 - INFO - Autosave checkpoint - 1753 tweets collected so far
+2025-05-24 15:18:49,030 - INFO - Autosave completed
+2025-05-24 15:18:49,104 - INFO - Saved tweet from @Widyarenee
+2025-05-24 15:18:49,169 - INFO - Saved tweet from @TedInvestigasi
+2025-05-24 15:18:49,236 - INFO - Saved tweet from @tempodotco
+2025-05-24 15:18:49,303 - INFO - Saved tweet from @gentsemane
+2025-05-24 15:18:49,373 - INFO - Saved tweet from @Rswt20n
+2025-05-24 15:18:49,439 - INFO - Saved tweet from @turqlily
+2025-05-24 15:18:49,574 - INFO - Saved tweet from @Starfucker34221
+2025-05-24 15:18:53,872 - INFO - Saved tweet from @Widyarenee
+2025-05-24 15:18:53,928 - INFO - Saved tweet from @TedInvestigasi
+2025-05-24 15:18:53,987 - INFO - Saved tweet from @tempodotco
+2025-05-24 15:18:54,047 - INFO - Saved tweet from @gentsemane
+2025-05-24 15:18:54,109 - INFO - Saved tweet from @Rswt20n
+2025-05-24 15:18:54,166 - INFO - Saved tweet from @turqlily
+2025-05-24 15:18:54,222 - INFO - Saved tweet from @Starfucker34221
+2025-05-24 15:18:54,225 - INFO - No new tweets loaded after scroll (attempt 1/5)
+2025-05-24 15:18:58,277 - INFO - Saved tweet from @Widyarenee
+2025-05-24 15:18:58,341 - INFO - Saved tweet from @TedInvestigasi
+2025-05-24 15:18:58,400 - INFO - Saved tweet from @tempodotco
+2025-05-24 15:18:58,457 - INFO - Saved tweet from @gentsemane
+2025-05-24 15:18:58,517 - INFO - Saved tweet from @Rswt20n
+2025-05-24 15:18:58,575 - INFO - Saved tweet from @turqlily
+2025-05-24 15:18:58,650 - INFO - Saved tweet from @Starfucker34221
+2025-05-24 15:19:02,765 - INFO - Saved tweet from @Widyarenee
+2025-05-24 15:19:02,821 - INFO - Saved tweet from @TedInvestigasi
+2025-05-24 15:19:02,878 - INFO - Saved tweet from @tempodotco
+2025-05-24 15:19:02,935 - INFO - Saved tweet from @gentsemane
+2025-05-24 15:19:02,995 - INFO - Saved tweet from @Rswt20n
+2025-05-24 15:19:03,056 - INFO - Saved tweet from @turqlily
+2025-05-24 15:19:03,113 - INFO - Saved tweet from @Starfucker34221
+2025-05-24 15:19:03,119 - INFO - No new tweets loaded after scroll (attempt 1/5)
+2025-05-24 15:19:07,097 - INFO - Saved tweet from @Widyarenee
+2025-05-24 15:19:07,157 - INFO - Saved tweet from @TedInvestigasi
+2025-05-24 15:19:07,213 - INFO - Saved tweet from @tempodotco
+2025-05-24 15:19:07,270 - INFO - Saved tweet from @gentsemane
+2025-05-24 15:19:07,330 - INFO - Saved tweet from @Rswt20n
+2025-05-24 15:19:07,386 - INFO - Saved tweet from @turqlily
+2025-05-24 15:19:07,445 - INFO - Saved tweet from @Starfucker34221
+2025-05-24 15:19:07,448 - INFO - No new tweets loaded after scroll (attempt 2/5)
+2025-05-24 15:19:11,327 - INFO - Saved tweet from @Widyarenee
+2025-05-24 15:19:11,395 - INFO - Saved tweet from @TedInvestigasi
+2025-05-24 15:19:11,463 - INFO - Saved tweet from @tempodotco
+2025-05-24 15:19:11,524 - INFO - Saved tweet from @gentsemane
+2025-05-24 15:19:11,584 - INFO - Saved tweet from @Rswt20n
+2025-05-24 15:19:11,641 - INFO - Saved tweet from @turqlily
+2025-05-24 15:19:11,700 - INFO - Saved tweet from @Starfucker34221
+2025-05-24 15:19:11,703 - INFO - No new tweets loaded after scroll (attempt 3/5)
+2025-05-24 15:19:15,603 - INFO - Saved tweet from @Widyarenee
+2025-05-24 15:19:15,662 - INFO - Saved tweet from @TedInvestigasi
+2025-05-24 15:19:15,719 - INFO - Saved tweet from @tempodotco
+2025-05-24 15:19:15,777 - INFO - Saved tweet from @gentsemane
+2025-05-24 15:19:15,835 - INFO - Saved tweet from @Rswt20n
+2025-05-24 15:19:15,836 - INFO - Taking 30 second break after 50 requests
+2025-05-24 15:19:45,898 - INFO - Saved tweet from @turqlily
+2025-05-24 15:19:45,957 - INFO - Saved tweet from @Starfucker34221
+2025-05-24 15:19:45,960 - INFO - No new tweets loaded after scroll (attempt 4/5)
+2025-05-24 15:19:50,131 - INFO - Saved tweet from @Widyarenee
+2025-05-24 15:19:50,188 - INFO - Saved tweet from @TedInvestigasi
+2025-05-24 15:19:50,244 - INFO - Saved tweet from @tempodotco
+2025-05-24 15:19:50,300 - INFO - Saved tweet from @gentsemane
+2025-05-24 15:19:50,360 - INFO - Saved tweet from @Rswt20n
+2025-05-24 15:19:50,415 - INFO - Saved tweet from @turqlily
+2025-05-24 15:19:50,473 - INFO - Saved tweet from @Starfucker34221
+2025-05-24 15:19:50,475 - INFO - No new tweets loaded after scroll (attempt 5/5)
+2025-05-24 15:19:52,912 - INFO - Waiting 6.1 seconds before next keyword...
+2025-05-24 15:19:59,028 - INFO - Searching for: vaksin bikin mati
+2025-05-24 15:19:59,029 - INFO - ====== WebDriver manager ======
+2025-05-24 15:19:59,715 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-24 15:19:59,901 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-24 15:20:00,158 - INFO - Driver [C:\Users\arkan\.wdm\drivers\chromedriver\win64\137.0.7151.40\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-24 15:20:01,241 - INFO - WebDriver initialized successfully
+2025-05-24 15:20:01,241 - INFO - Attempting to login to Twitter
+2025-05-24 15:20:23,028 - INFO - Successfully logged in to Twitter
+2025-05-24 15:20:33,915 - INFO - Saved tweet from @paxxinajiz
+2025-05-24 15:20:33,976 - INFO - Saved tweet from @rzlra
+2025-05-24 15:20:34,040 - INFO - Saved tweet from @bulusekai
+2025-05-24 15:20:34,103 - INFO - Saved tweet from @junlearnscrypto
+2025-05-24 15:20:34,166 - INFO - Saved tweet from @arkenja
+2025-05-24 15:20:34,231 - INFO - Saved tweet from @Cosmicmilktea
+2025-05-24 15:20:34,299 - INFO - Saved tweet from @FantastixLinger
+2025-05-24 15:20:34,365 - INFO - Saved tweet from @Jose46903974
+2025-05-24 15:20:34,430 - INFO - Saved tweet from @roy1alien
+2025-05-24 15:20:34,493 - INFO - Saved tweet from @valiisaa
+2025-05-24 15:20:34,558 - INFO - Saved tweet from @madokafc1
+2025-05-24 15:20:34,623 - INFO - Saved tweet from @bobsby
+2025-05-24 15:20:34,688 - INFO - Saved tweet from @jonjonfh
+2025-05-24 15:20:34,756 - INFO - Saved tweet from @akubukanako
+2025-05-24 15:20:34,825 - INFO - Saved tweet from @doelkamdi_46
+2025-05-24 15:20:34,907 - INFO - Saved tweet from @seliditmy
+2025-05-24 15:20:34,985 - INFO - Saved tweet from @MasChuuya
+2025-05-24 15:20:35,068 - INFO - Saved tweet from @luprkive
+2025-05-24 15:20:35,137 - INFO - Saved tweet from @larutancaptiga
+2025-05-24 15:20:35,207 - INFO - Saved tweet from @JasukeLovers
+2025-05-24 15:20:35,281 - INFO - Saved tweet from @regulusaja
+2025-05-24 15:20:35,356 - INFO - Saved tweet from @iphone7decoco
+2025-05-24 15:20:35,434 - INFO - Saved tweet from @anak_chicken23
+2025-05-24 15:20:35,517 - INFO - Saved tweet from @zamire
+2025-05-24 15:20:39,462 - INFO - Saved tweet from @regulusaja
+2025-05-24 15:20:39,523 - INFO - Saved tweet from @iphone7decoco
+2025-05-24 15:20:39,582 - INFO - Saved tweet from @anak_chicken23
+2025-05-24 15:20:39,645 - INFO - Saved tweet from @zamire
+2025-05-24 15:20:39,710 - INFO - Saved tweet from @Hendy2117
+2025-05-24 15:20:39,861 - INFO - Saved tweet from @HFSGold
+2025-05-24 15:20:39,949 - INFO - Saved tweet from @belsberryblosom
+2025-05-24 15:20:40,019 - INFO - Saved tweet from @s_arifin
+2025-05-24 15:20:40,084 - INFO - Saved tweet from @djamtjoek
+2025-05-24 15:20:40,146 - INFO - Saved tweet from @FinalClosed
+2025-05-24 15:20:40,207 - INFO - Saved tweet from @kembarkln
+2025-05-24 15:20:44,379 - INFO - Saved tweet from @iphone7decoco
+2025-05-24 15:20:44,439 - INFO - Saved tweet from @anak_chicken23
+2025-05-24 15:20:44,500 - INFO - Saved tweet from @zamire
+2025-05-24 15:20:44,558 - INFO - Saved tweet from @Hendy2117
+2025-05-24 15:20:44,616 - INFO - Saved tweet from @HFSGold
+2025-05-24 15:20:44,675 - INFO - Saved tweet from @belsberryblosom
+2025-05-24 15:20:44,675 - INFO - Taking 30 second break after 50 requests
+2025-05-24 15:21:14,745 - INFO - Saved tweet from @s_arifin
+2025-05-24 15:21:14,746 - INFO - Autosave checkpoint - 1851 tweets collected so far
+2025-05-24 15:21:14,746 - INFO - Autosave completed
+2025-05-24 15:21:14,809 - INFO - Saved tweet from @djamtjoek
+2025-05-24 15:21:14,869 - INFO - Saved tweet from @FinalClosed
+2025-05-24 15:21:14,933 - INFO - Saved tweet from @kembarkln
+2025-05-24 15:21:14,936 - INFO - No new tweets loaded after scroll (attempt 1/5)
+2025-05-24 15:21:19,461 - INFO - Saved tweet from @iphone7decoco
+2025-05-24 15:21:19,519 - INFO - Saved tweet from @anak_chicken23
+2025-05-24 15:21:19,577 - INFO - Saved tweet from @zamire
+2025-05-24 15:21:19,633 - INFO - Saved tweet from @Hendy2117
+2025-05-24 15:21:19,690 - INFO - Saved tweet from @HFSGold
+2025-05-24 15:21:19,749 - INFO - Saved tweet from @belsberryblosom
+2025-05-24 15:21:19,808 - INFO - Saved tweet from @s_arifin
+2025-05-24 15:21:19,865 - INFO - Saved tweet from @djamtjoek
+2025-05-24 15:21:19,959 - INFO - Saved tweet from @FinalClosed
+2025-05-24 15:21:20,016 - INFO - Saved tweet from @kembarkln
+2025-05-24 15:21:20,019 - INFO - No new tweets loaded after scroll (attempt 2/5)
+2025-05-24 15:21:23,169 - INFO - Saved tweet from @iphone7decoco
+2025-05-24 15:21:23,229 - INFO - Saved tweet from @anak_chicken23
+2025-05-24 15:21:23,290 - INFO - Saved tweet from @zamire
+2025-05-24 15:21:23,349 - INFO - Saved tweet from @Hendy2117
+2025-05-24 15:21:23,407 - INFO - Saved tweet from @HFSGold
+2025-05-24 15:21:23,463 - INFO - Saved tweet from @belsberryblosom
+2025-05-24 15:21:23,521 - INFO - Saved tweet from @s_arifin
+2025-05-24 15:21:23,578 - INFO - Saved tweet from @djamtjoek
+2025-05-24 15:21:23,637 - INFO - Saved tweet from @FinalClosed
+2025-05-24 15:21:23,693 - INFO - Saved tweet from @kembarkln
+2025-05-24 15:21:23,696 - INFO - No new tweets loaded after scroll (attempt 3/5)
+2025-05-24 15:21:27,176 - INFO - Saved tweet from @iphone7decoco
+2025-05-24 15:21:27,251 - INFO - Saved tweet from @anak_chicken23
+2025-05-24 15:21:27,315 - INFO - Saved tweet from @zamire
+2025-05-24 15:21:27,372 - INFO - Saved tweet from @Hendy2117
+2025-05-24 15:21:27,430 - INFO - Saved tweet from @HFSGold
+2025-05-24 15:21:27,488 - INFO - Saved tweet from @belsberryblosom
+2025-05-24 15:21:27,546 - INFO - Saved tweet from @s_arifin
+2025-05-24 15:21:27,604 - INFO - Saved tweet from @djamtjoek
+2025-05-24 15:21:27,662 - INFO - Saved tweet from @FinalClosed
+2025-05-24 15:21:27,721 - INFO - Saved tweet from @kembarkln
+2025-05-24 15:21:27,724 - INFO - No new tweets loaded after scroll (attempt 4/5)
+2025-05-24 15:21:31,342 - INFO - Saved tweet from @iphone7decoco
+2025-05-24 15:21:31,400 - INFO - Saved tweet from @anak_chicken23
+2025-05-24 15:21:31,458 - INFO - Saved tweet from @zamire
+2025-05-24 15:21:31,515 - INFO - Saved tweet from @Hendy2117
+2025-05-24 15:21:31,572 - INFO - Saved tweet from @HFSGold
+2025-05-24 15:21:31,628 - INFO - Saved tweet from @belsberryblosom
+2025-05-24 15:21:31,688 - INFO - Saved tweet from @s_arifin
+2025-05-24 15:21:31,746 - INFO - Saved tweet from @djamtjoek
+2025-05-24 15:21:31,843 - INFO - Saved tweet from @FinalClosed
+2025-05-24 15:21:31,899 - INFO - Saved tweet from @kembarkln
+2025-05-24 15:21:31,903 - INFO - No new tweets loaded after scroll (attempt 5/5)
+2025-05-24 15:21:34,349 - INFO - Waiting 5.5 seconds before next keyword...
+2025-05-24 15:21:39,877 - INFO - Searching for: vaksin berbahaya
+2025-05-24 15:21:39,878 - INFO - ====== WebDriver manager ======
+2025-05-24 15:21:40,568 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-24 15:21:47,806 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-24 15:21:49,456 - INFO - Driver [C:\Users\arkan\.wdm\drivers\chromedriver\win64\137.0.7151.40\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-24 15:21:50,597 - INFO - WebDriver initialized successfully
+2025-05-24 15:21:50,597 - INFO - Attempting to login to Twitter
+2025-05-24 15:22:35,338 - INFO - Successfully logged in to Twitter
+2025-05-24 15:22:45,017 - INFO - Saved tweet from @Catatan_ali7
+2025-05-24 15:22:45,084 - INFO - Saved tweet from @_fauzanx4
+2025-05-24 15:22:45,149 - INFO - Saved tweet from @AndikaNgojek
+2025-05-24 15:22:45,214 - INFO - Saved tweet from @oposanvoice
+2025-05-24 15:22:45,284 - INFO - Saved tweet from @9891ri
+2025-05-24 15:22:45,356 - INFO - Saved tweet from @oposanvoice
+2025-05-24 15:22:45,357 - INFO - Taking 30 second break after 50 requests
+2025-05-24 15:23:15,364 - INFO - No new tweets loaded after scroll (attempt 1/5)
+2025-05-24 15:23:19,952 - INFO - Saved tweet from @Catatan_ali7
+2025-05-24 15:23:19,952 - INFO - Autosave checkpoint - 1901 tweets collected so far
+2025-05-24 15:23:19,953 - INFO - Autosave completed
+2025-05-24 15:23:20,028 - INFO - Saved tweet from @_fauzanx4
+2025-05-24 15:23:20,095 - INFO - Saved tweet from @AndikaNgojek
+2025-05-24 15:23:20,162 - INFO - Saved tweet from @oposanvoice
+2025-05-24 15:23:20,231 - INFO - Saved tweet from @9891ri
+2025-05-24 15:23:20,309 - INFO - Saved tweet from @oposanvoice
+2025-05-24 15:23:20,313 - INFO - No new tweets loaded after scroll (attempt 2/5)
+2025-05-24 15:23:23,630 - INFO - Saved tweet from @Catatan_ali7
+2025-05-24 15:23:23,706 - INFO - Saved tweet from @_fauzanx4
+2025-05-24 15:23:23,781 - INFO - Saved tweet from @AndikaNgojek
+2025-05-24 15:23:23,856 - INFO - Saved tweet from @oposanvoice
+2025-05-24 15:23:23,932 - INFO - Saved tweet from @9891ri
+2025-05-24 15:23:24,055 - INFO - Saved tweet from @oposanvoice
+2025-05-24 15:23:24,059 - INFO - No new tweets loaded after scroll (attempt 3/5)
+2025-05-24 15:23:27,701 - INFO - Saved tweet from @Catatan_ali7
+2025-05-24 15:23:27,768 - INFO - Saved tweet from @_fauzanx4
+2025-05-24 15:23:27,836 - INFO - Saved tweet from @AndikaNgojek
+2025-05-24 15:23:27,906 - INFO - Saved tweet from @oposanvoice
+2025-05-24 15:23:27,980 - INFO - Saved tweet from @9891ri
+2025-05-24 15:23:28,051 - INFO - Saved tweet from @oposanvoice
+2025-05-24 15:23:28,056 - INFO - No new tweets loaded after scroll (attempt 4/5)
+2025-05-24 15:23:32,376 - INFO - Saved tweet from @Catatan_ali7
+2025-05-24 15:23:32,445 - INFO - Saved tweet from @_fauzanx4
+2025-05-24 15:23:32,515 - INFO - Saved tweet from @AndikaNgojek
+2025-05-24 15:23:32,587 - INFO - Saved tweet from @oposanvoice
+2025-05-24 15:23:32,658 - INFO - Saved tweet from @9891ri
+2025-05-24 15:23:32,725 - INFO - Saved tweet from @oposanvoice
+2025-05-24 15:23:32,729 - INFO - No new tweets loaded after scroll (attempt 5/5)
+2025-05-24 15:23:35,228 - INFO - Waiting 8.7 seconds before next keyword...
+2025-05-24 15:23:43,961 - INFO - Searching for: vaksin merusak
+2025-05-24 15:23:43,962 - INFO - ====== WebDriver manager ======
+2025-05-24 15:23:44,690 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-24 15:23:44,878 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-24 15:23:45,042 - INFO - Driver [C:\Users\arkan\.wdm\drivers\chromedriver\win64\137.0.7151.40\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-24 15:23:46,136 - INFO - WebDriver initialized successfully
+2025-05-24 15:23:46,137 - INFO - Attempting to login to Twitter
+2025-05-24 15:24:09,203 - INFO - Successfully logged in to Twitter
+2025-05-24 15:24:19,167 - INFO - Saved tweet from @daddyyuki
+2025-05-24 15:24:19,230 - INFO - Saved tweet from @hanan052020
+2025-05-24 15:24:19,287 - INFO - Saved tweet from @TedInvestigasi
+2025-05-24 15:24:19,345 - INFO - Saved tweet from @__anomali__
+2025-05-24 15:24:19,400 - INFO - Saved tweet from @RSMayapada
+2025-05-24 15:24:19,458 - INFO - Saved tweet from @bedugtengahawan
+2025-05-24 15:24:19,516 - INFO - Saved tweet from @Theroadinpursue
+2025-05-24 15:24:19,585 - INFO - Saved tweet from @TedInvestigasi
+2025-05-24 15:24:19,658 - INFO - Saved tweet from @oposanvoice
+2025-05-24 15:24:19,744 - INFO - Saved tweet from @FarmersEquator
+2025-05-24 15:24:24,442 - INFO - Saved tweet from @RSMayapada
+2025-05-24 15:24:24,501 - INFO - Saved tweet from @bedugtengahawan
+2025-05-24 15:24:24,557 - INFO - Saved tweet from @Theroadinpursue
+2025-05-24 15:24:24,703 - INFO - Saved tweet from @TedInvestigasi
+2025-05-24 15:24:24,764 - INFO - Saved tweet from @oposanvoice
+2025-05-24 15:24:24,838 - INFO - Saved tweet from @FarmersEquator
+2025-05-24 15:24:24,841 - INFO - No new tweets loaded after scroll (attempt 1/5)
+2025-05-24 15:24:29,897 - INFO - Saved tweet from @RSMayapada
+2025-05-24 15:24:29,954 - INFO - Saved tweet from @bedugtengahawan
+2025-05-24 15:24:30,012 - INFO - Saved tweet from @Theroadinpursue
+2025-05-24 15:24:30,066 - INFO - Saved tweet from @TedInvestigasi
+2025-05-24 15:24:30,119 - INFO - Saved tweet from @oposanvoice
+2025-05-24 15:24:30,174 - INFO - Saved tweet from @FarmersEquator
+2025-05-24 15:24:30,177 - INFO - No new tweets loaded after scroll (attempt 2/5)
+2025-05-24 15:24:34,048 - INFO - Saved tweet from @RSMayapada
+2025-05-24 15:24:34,113 - INFO - Saved tweet from @bedugtengahawan
+2025-05-24 15:24:34,169 - INFO - Saved tweet from @Theroadinpursue
+2025-05-24 15:24:34,228 - INFO - Saved tweet from @TedInvestigasi
+2025-05-24 15:24:34,228 - INFO - Taking 30 second break after 50 requests
+2025-05-24 15:25:04,286 - INFO - Saved tweet from @oposanvoice
+2025-05-24 15:25:04,340 - INFO - Saved tweet from @FarmersEquator
+2025-05-24 15:25:04,343 - INFO - No new tweets loaded after scroll (attempt 3/5)
+2025-05-24 15:25:07,493 - INFO - Saved tweet from @RSMayapada
+2025-05-24 15:25:07,563 - INFO - Saved tweet from @bedugtengahawan
+2025-05-24 15:25:07,629 - INFO - Saved tweet from @Theroadinpursue
+2025-05-24 15:25:07,685 - INFO - Saved tweet from @TedInvestigasi
+2025-05-24 15:25:07,737 - INFO - Saved tweet from @oposanvoice
+2025-05-24 15:25:07,790 - INFO - Saved tweet from @FarmersEquator
+2025-05-24 15:25:07,794 - INFO - No new tweets loaded after scroll (attempt 4/5)
+2025-05-24 15:25:11,836 - INFO - Saved tweet from @RSMayapada
+2025-05-24 15:25:11,922 - INFO - Saved tweet from @bedugtengahawan
+2025-05-24 15:25:11,976 - INFO - Saved tweet from @Theroadinpursue
+2025-05-24 15:25:12,029 - INFO - Saved tweet from @TedInvestigasi
+2025-05-24 15:25:12,088 - INFO - Saved tweet from @oposanvoice
+2025-05-24 15:25:12,143 - INFO - Saved tweet from @FarmersEquator
+2025-05-24 15:25:12,146 - INFO - No new tweets loaded after scroll (attempt 5/5)
+2025-05-24 15:25:14,574 - INFO - Waiting 7.6 seconds before next keyword...
+2025-05-24 15:25:22,220 - INFO - Searching for: vaksin tidak aman
+2025-05-24 15:25:22,220 - INFO - ====== WebDriver manager ======
+2025-05-24 15:25:23,104 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-24 15:25:23,277 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-24 15:25:23,422 - INFO - Driver [C:\Users\arkan\.wdm\drivers\chromedriver\win64\137.0.7151.40\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-24 15:25:24,570 - INFO - WebDriver initialized successfully
+2025-05-24 15:25:24,571 - INFO - Attempting to login to Twitter
+2025-05-24 15:25:48,251 - INFO - Successfully logged in to Twitter
+2025-05-24 15:25:59,703 - INFO - Saved tweet from @TedInvestigasi
+2025-05-24 15:25:59,703 - INFO - Autosave checkpoint - 1965 tweets collected so far
+2025-05-24 15:25:59,703 - INFO - Autosave completed
+2025-05-24 15:25:59,786 - INFO - Saved tweet from @blue_berets7
+2025-05-24 15:25:59,865 - INFO - Saved tweet from @TedInvestigasi
+2025-05-24 15:25:59,932 - INFO - Saved tweet from @TedInvestigasi
+2025-05-24 15:26:00,023 - INFO - Saved tweet from @pureblood_4ever
+2025-05-24 15:26:00,116 - INFO - Saved tweet from @Metro_TV
+2025-05-24 15:26:05,065 - INFO - Saved tweet from @suaramerdeka
+2025-05-24 15:26:05,202 - INFO - Saved tweet from @munvess
+2025-05-24 15:26:05,272 - INFO - Saved tweet from @TedInvestigasi
+2025-05-24 15:26:05,329 - INFO - Saved tweet from @TedInvestigasi
+2025-05-24 15:26:05,389 - INFO - Saved tweet from @NHenryp29864
+2025-05-24 15:26:05,450 - INFO - Saved tweet from @gusjunun
+2025-05-24 15:26:05,513 - INFO - Saved tweet from @amareguzel
+2025-05-24 15:26:05,578 - INFO - Saved tweet from @Dita_Sari_
+2025-05-24 15:26:09,726 - INFO - Saved tweet from @gusjunun
+2025-05-24 15:26:09,845 - INFO - Saved tweet from @amareguzel
+2025-05-24 15:26:09,910 - INFO - Saved tweet from @Dita_Sari_
+2025-05-24 15:26:09,913 - INFO - No new tweets loaded after scroll (attempt 1/5)
+2025-05-24 15:26:14,277 - INFO - Saved tweet from @gusjunun
+2025-05-24 15:26:14,334 - INFO - Saved tweet from @amareguzel
+2025-05-24 15:26:14,388 - INFO - Saved tweet from @Dita_Sari_
+2025-05-24 15:26:14,391 - INFO - No new tweets loaded after scroll (attempt 2/5)
+2025-05-24 15:26:18,060 - INFO - Saved tweet from @gusjunun
+2025-05-24 15:26:18,119 - INFO - Saved tweet from @amareguzel
+2025-05-24 15:26:18,176 - INFO - Saved tweet from @Dita_Sari_
+2025-05-24 15:26:18,179 - INFO - No new tweets loaded after scroll (attempt 3/5)
+2025-05-24 15:26:22,758 - INFO - Saved tweet from @gusjunun
+2025-05-24 15:26:22,847 - INFO - Saved tweet from @amareguzel
+2025-05-24 15:26:22,909 - INFO - Saved tweet from @Dita_Sari_
+2025-05-24 15:26:22,912 - INFO - No new tweets loaded after scroll (attempt 4/5)
+2025-05-24 15:26:26,919 - INFO - Saved tweet from @gusjunun
+2025-05-24 15:26:26,980 - INFO - Saved tweet from @amareguzel
+2025-05-24 15:26:27,037 - INFO - Saved tweet from @Dita_Sari_
+2025-05-24 15:26:27,039 - INFO - No new tweets loaded after scroll (attempt 5/5)
+2025-05-24 15:26:29,351 - INFO - Waiting 5.4 seconds before next keyword...
+2025-05-24 15:26:34,710 - INFO - Searching for: vaksin membunuh
+2025-05-24 15:26:34,710 - INFO - ====== WebDriver manager ======
+2025-05-24 15:26:35,674 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-24 15:26:35,976 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-24 15:26:36,216 - INFO - Driver [C:\Users\arkan\.wdm\drivers\chromedriver\win64\137.0.7151.40\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-24 15:26:37,348 - INFO - WebDriver initialized successfully
+2025-05-24 15:26:37,348 - INFO - Attempting to login to Twitter
+2025-05-24 15:27:01,158 - INFO - Successfully logged in to Twitter
+2025-05-24 15:27:11,279 - INFO - Saved tweet from @AriesTruss
+2025-05-24 15:27:11,361 - INFO - Saved tweet from @AriesTruss
+2025-05-24 15:27:11,457 - INFO - Saved tweet from @IrwanK_egen
+2025-05-24 15:27:11,538 - INFO - Saved tweet from @gustavssondhela
+2025-05-24 15:27:11,612 - INFO - Saved tweet from @Ganjar_Mahfud03
+2025-05-24 15:27:11,686 - INFO - Saved tweet from @RizalCania14819
+2025-05-24 15:27:11,762 - INFO - Saved tweet from @_Banyoe
+2025-05-24 15:27:11,763 - INFO - Taking 30 second break after 50 requests
+2025-05-24 15:27:45,583 - INFO - Saved tweet from @daddyyuki
+2025-05-24 15:27:45,640 - INFO - Saved tweet from @_Banyoe
+2025-05-24 15:27:45,698 - INFO - Saved tweet from @jawapos
+2025-05-24 15:27:45,759 - INFO - Saved tweet from @beritartm
+2025-05-24 15:27:45,865 - INFO - Saved tweet from @SumandoGaek
+2025-05-24 15:27:45,931 - INFO - Saved tweet from @JackMoon_MikeAK
+2025-05-24 15:27:49,026 - INFO - Saved tweet from @daddyyuki
+2025-05-24 15:27:49,084 - INFO - Saved tweet from @_Banyoe
+2025-05-24 15:27:49,139 - INFO - Saved tweet from @jawapos
+2025-05-24 15:27:49,201 - INFO - Saved tweet from @beritartm
+2025-05-24 15:27:49,257 - INFO - Saved tweet from @SumandoGaek
+2025-05-24 15:27:49,314 - INFO - Saved tweet from @JackMoon_MikeAK
+2025-05-24 15:27:49,317 - INFO - No new tweets loaded after scroll (attempt 1/5)
+2025-05-24 15:27:54,219 - INFO - Saved tweet from @daddyyuki
+2025-05-24 15:27:54,281 - INFO - Saved tweet from @_Banyoe
+2025-05-24 15:27:54,338 - INFO - Saved tweet from @jawapos
+2025-05-24 15:27:54,399 - INFO - Saved tweet from @beritartm
+2025-05-24 15:27:54,459 - INFO - Saved tweet from @SumandoGaek
+2025-05-24 15:27:54,520 - INFO - Saved tweet from @JackMoon_MikeAK
+2025-05-24 15:27:54,523 - INFO - No new tweets loaded after scroll (attempt 2/5)
+2025-05-24 15:27:58,187 - INFO - Saved tweet from @daddyyuki
+2025-05-24 15:27:58,245 - INFO - Saved tweet from @_Banyoe
+2025-05-24 15:27:58,303 - INFO - Saved tweet from @jawapos
+2025-05-24 15:27:58,362 - INFO - Saved tweet from @beritartm
+2025-05-24 15:27:58,420 - INFO - Saved tweet from @SumandoGaek
+2025-05-24 15:27:58,529 - INFO - Saved tweet from @JackMoon_MikeAK
+2025-05-24 15:27:58,534 - INFO - No new tweets loaded after scroll (attempt 3/5)
+2025-05-24 15:28:01,714 - INFO - Saved tweet from @daddyyuki
+2025-05-24 15:28:01,714 - INFO - Autosave checkpoint - 2025 tweets collected so far
+2025-05-24 15:28:01,714 - INFO - Autosave completed
+2025-05-24 15:28:01,774 - INFO - Saved tweet from @_Banyoe
+2025-05-24 15:28:01,836 - INFO - Saved tweet from @jawapos
+2025-05-24 15:28:01,896 - INFO - Saved tweet from @beritartm
+2025-05-24 15:28:01,953 - INFO - Saved tweet from @SumandoGaek
+2025-05-24 15:28:02,011 - INFO - Saved tweet from @JackMoon_MikeAK
+2025-05-24 15:28:02,014 - INFO - No new tweets loaded after scroll (attempt 4/5)
+2025-05-24 15:28:06,222 - INFO - Saved tweet from @daddyyuki
+2025-05-24 15:28:06,277 - INFO - Saved tweet from @_Banyoe
+2025-05-24 15:28:06,335 - INFO - Saved tweet from @jawapos
+2025-05-24 15:28:06,395 - INFO - Saved tweet from @beritartm
+2025-05-24 15:28:06,454 - INFO - Saved tweet from @SumandoGaek
+2025-05-24 15:28:06,514 - INFO - Saved tweet from @JackMoon_MikeAK
+2025-05-24 15:28:06,517 - INFO - No new tweets loaded after scroll (attempt 5/5)
+2025-05-24 15:28:08,954 - INFO - Waiting 5.9 seconds before next keyword...
+2025-05-24 15:28:14,827 - INFO - Searching for: vaksin tidak halal
+2025-05-24 15:28:14,828 - INFO - ====== WebDriver manager ======
+2025-05-24 15:28:15,503 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-24 15:28:15,692 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-24 15:28:15,884 - INFO - Driver [C:\Users\arkan\.wdm\drivers\chromedriver\win64\137.0.7151.40\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-24 15:28:16,991 - INFO - WebDriver initialized successfully
+2025-05-24 15:28:16,991 - INFO - Attempting to login to Twitter
+2025-05-24 15:28:39,732 - INFO - Successfully logged in to Twitter
+2025-05-24 15:28:49,722 - INFO - Found 0 tweets with alternative selector
+2025-05-24 15:28:49,727 - INFO - No new tweets loaded after scroll (attempt 1/5)
+2025-05-24 15:28:54,532 - INFO - Found 0 tweets with alternative selector
+2025-05-24 15:28:54,536 - INFO - No new tweets loaded after scroll (attempt 2/5)
+2025-05-24 15:28:58,162 - INFO - Found 0 tweets with alternative selector
+2025-05-24 15:28:58,165 - INFO - No new tweets loaded after scroll (attempt 3/5)
+2025-05-24 15:29:02,697 - INFO - Found 0 tweets with alternative selector
+2025-05-24 15:29:02,704 - INFO - No new tweets loaded after scroll (attempt 4/5)
+2025-05-24 15:29:06,987 - INFO - Found 0 tweets with alternative selector
+2025-05-24 15:29:06,991 - INFO - No new tweets loaded after scroll (attempt 5/5)
+2025-05-24 15:29:09,367 - WARNING - Failed to scrape keyword: vaksin tidak halal
+2025-05-24 15:29:09,367 - INFO - Waiting 5.2 seconds before next keyword...
+2025-05-24 15:29:14,524 - INFO - Searching for: vaksin konspirasi
+2025-05-24 15:29:14,524 - INFO - ====== WebDriver manager ======
+2025-05-24 15:29:15,224 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-24 15:29:15,429 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-24 15:29:15,590 - INFO - Driver [C:\Users\arkan\.wdm\drivers\chromedriver\win64\137.0.7151.40\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-24 15:29:16,661 - INFO - WebDriver initialized successfully
+2025-05-24 15:29:16,662 - INFO - Attempting to login to Twitter
+2025-05-24 15:29:40,525 - INFO - Successfully logged in to Twitter
+2025-05-24 15:29:58,298 - INFO - Found 0 tweets with alternative selector
+2025-05-24 15:29:58,304 - INFO - No new tweets loaded after scroll (attempt 1/5)
+2025-05-24 15:30:02,123 - INFO - Found 0 tweets with alternative selector
+2025-05-24 15:30:02,126 - INFO - No new tweets loaded after scroll (attempt 2/5)
+2025-05-24 15:30:05,171 - INFO - Found 0 tweets with alternative selector
+2025-05-24 15:30:05,176 - INFO - No new tweets loaded after scroll (attempt 3/5)
+2025-05-24 15:30:08,499 - INFO - Found 0 tweets with alternative selector
+2025-05-24 15:30:08,503 - INFO - No new tweets loaded after scroll (attempt 4/5)
+2025-05-24 15:30:11,625 - INFO - Found 0 tweets with alternative selector
+2025-05-24 15:30:15,057 - INFO - Saved tweet from @livngn
+2025-05-24 15:30:15,057 - INFO - Autosave checkpoint - 2037 tweets collected so far
+2025-05-24 15:30:15,057 - INFO - Autosave completed
+2025-05-24 15:30:15,129 - INFO - Saved tweet from @TurnBackHoax
+2025-05-24 15:30:15,205 - INFO - Saved tweet from @AriesTruss
+2025-05-24 15:30:15,274 - INFO - Saved tweet from @RealSunBros
+2025-05-24 15:30:15,337 - INFO - Saved tweet from @SumandoGaek
+2025-05-24 15:30:15,399 - INFO - Saved tweet from @mieyshafa
+2025-05-24 15:30:18,824 - INFO - Saved tweet from @RealSunBros
+2025-05-24 15:30:18,938 - INFO - Saved tweet from @miyaszhm
+2025-05-24 15:30:18,999 - INFO - Saved tweet from @iniaslinndr
+2025-05-24 15:30:19,063 - INFO - Saved tweet from @RealSunBros
+2025-05-24 15:30:19,124 - INFO - Saved tweet from @dedickhead666
+2025-05-24 15:30:19,187 - INFO - Saved tweet from @Arbiarso_W
+2025-05-24 15:30:19,257 - INFO - Saved tweet from @davenitions
+2025-05-24 15:30:19,321 - INFO - Saved tweet from @NodusPurkinje
+2025-05-24 15:30:19,321 - INFO - Taking 30 second break after 50 requests
+2025-05-24 15:30:49,388 - INFO - Saved tweet from @Seek_truth963
+2025-05-24 15:30:49,447 - INFO - Saved tweet from @drive520y
+2025-05-24 15:30:49,507 - INFO - Saved tweet from @kecebongkali_40
+2025-05-24 15:30:49,568 - INFO - Saved tweet from @ilhampurnama887
+2025-05-24 15:30:54,100 - INFO - Saved tweet from @Saimsib
+2025-05-24 15:30:54,163 - INFO - Saved tweet from @KemenperinRI
+2025-05-24 15:30:54,229 - INFO - Saved tweet from @iiosomnia
+2025-05-24 15:30:54,299 - INFO - Saved tweet from @0jenry1
+2025-05-24 15:30:54,374 - INFO - Saved tweet from @MiraninonLita
+2025-05-24 15:30:54,448 - INFO - Saved tweet from @lutfan_mohamad
+2025-05-24 15:30:54,517 - INFO - Saved tweet from @gungbaster
+2025-05-24 15:30:57,828 - INFO - Saved tweet from @0jenry1
+2025-05-24 15:30:57,889 - INFO - Saved tweet from @MiraninonLita
+2025-05-24 15:30:57,946 - INFO - Saved tweet from @lutfan_mohamad
+2025-05-24 15:30:58,005 - INFO - Saved tweet from @gungbaster
+2025-05-24 15:30:58,008 - INFO - No new tweets loaded after scroll (attempt 1/5)
+2025-05-24 15:31:01,483 - INFO - Saved tweet from @0jenry1
+2025-05-24 15:31:01,541 - INFO - Saved tweet from @MiraninonLita
+2025-05-24 15:31:01,599 - INFO - Saved tweet from @lutfan_mohamad
+2025-05-24 15:31:01,655 - INFO - Saved tweet from @gungbaster
+2025-05-24 15:31:01,658 - INFO - No new tweets loaded after scroll (attempt 2/5)
+2025-05-24 15:31:05,272 - INFO - Saved tweet from @0jenry1
+2025-05-24 15:31:05,369 - INFO - Saved tweet from @MiraninonLita
+2025-05-24 15:31:05,428 - INFO - Saved tweet from @lutfan_mohamad
+2025-05-24 15:31:05,486 - INFO - Saved tweet from @gungbaster
+2025-05-24 15:31:05,489 - INFO - No new tweets loaded after scroll (attempt 3/5)
+2025-05-24 15:31:10,473 - INFO - Saved tweet from @0jenry1
+2025-05-24 15:31:10,569 - INFO - Saved tweet from @MiraninonLita
+2025-05-24 15:31:10,651 - INFO - Saved tweet from @lutfan_mohamad
+2025-05-24 15:31:10,736 - INFO - Saved tweet from @gungbaster
+2025-05-24 15:31:10,742 - INFO - No new tweets loaded after scroll (attempt 4/5)
+2025-05-24 15:31:14,961 - INFO - Saved tweet from @0jenry1
+2025-05-24 15:31:15,018 - INFO - Saved tweet from @MiraninonLita
+2025-05-24 15:31:15,074 - INFO - Saved tweet from @lutfan_mohamad
+2025-05-24 15:31:15,132 - INFO - Saved tweet from @gungbaster
+2025-05-24 15:31:15,135 - INFO - No new tweets loaded after scroll (attempt 5/5)
+2025-05-24 15:31:17,646 - INFO - Waiting 7.2 seconds before next keyword...
+2025-05-24 15:31:24,863 - INFO - Searching for: haram vaksin
+2025-05-24 15:31:24,864 - INFO - ====== WebDriver manager ======
+2025-05-24 15:31:25,549 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-24 15:31:25,831 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-24 15:31:26,008 - INFO - Driver [C:\Users\arkan\.wdm\drivers\chromedriver\win64\137.0.7151.40\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-24 15:31:27,095 - INFO - WebDriver initialized successfully
+2025-05-24 15:31:27,095 - INFO - Attempting to login to Twitter
+2025-05-24 15:31:51,008 - INFO - Successfully logged in to Twitter
+2025-05-24 15:32:00,817 - INFO - Saved tweet from @Starfucker34221
+2025-05-24 15:32:00,820 - INFO - No new tweets loaded after scroll (attempt 1/5)
+2025-05-24 15:32:03,994 - INFO - Saved tweet from @Starfucker34221
+2025-05-24 15:32:03,997 - INFO - No new tweets loaded after scroll (attempt 2/5)
+2025-05-24 15:32:08,479 - INFO - Saved tweet from @Starfucker34221
+2025-05-24 15:32:08,482 - INFO - No new tweets loaded after scroll (attempt 3/5)
+2025-05-24 15:32:11,735 - INFO - Saved tweet from @Starfucker34221
+2025-05-24 15:32:11,738 - INFO - No new tweets loaded after scroll (attempt 4/5)
+2025-05-24 15:32:15,764 - INFO - Saved tweet from @Starfucker34221
+2025-05-24 15:32:15,764 - INFO - Autosave checkpoint - 2086 tweets collected so far
+2025-05-24 15:32:15,765 - INFO - Autosave completed
+2025-05-24 15:32:15,767 - INFO - No new tweets loaded after scroll (attempt 5/5)
+2025-05-24 15:32:18,114 - INFO - Waiting 7.5 seconds before next keyword...
+2025-05-24 15:32:25,607 - INFO - Searching for: vaksin haram
+2025-05-24 15:32:25,607 - INFO - ====== WebDriver manager ======
+2025-05-24 15:32:26,291 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-24 15:32:26,497 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-24 15:32:26,686 - INFO - Driver [C:\Users\arkan\.wdm\drivers\chromedriver\win64\137.0.7151.40\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-24 15:32:27,783 - INFO - WebDriver initialized successfully
+2025-05-24 15:32:27,784 - INFO - Attempting to login to Twitter
+2025-05-24 15:32:51,061 - INFO - Successfully logged in to Twitter
+2025-05-24 15:33:01,347 - INFO - Saved tweet from @Starfucker34221
+2025-05-24 15:33:01,351 - INFO - No new tweets loaded after scroll (attempt 1/5)
+2025-05-24 15:33:04,766 - INFO - Saved tweet from @Starfucker34221
+2025-05-24 15:33:04,769 - INFO - No new tweets loaded after scroll (attempt 2/5)
+2025-05-24 15:33:09,312 - INFO - Saved tweet from @Starfucker34221
+2025-05-24 15:33:09,315 - INFO - No new tweets loaded after scroll (attempt 3/5)
+2025-05-24 15:33:14,131 - INFO - Saved tweet from @Starfucker34221
+2025-05-24 15:33:14,134 - INFO - No new tweets loaded after scroll (attempt 4/5)
+2025-05-24 15:33:17,388 - INFO - Saved tweet from @Starfucker34221
+2025-05-24 15:33:17,391 - INFO - No new tweets loaded after scroll (attempt 5/5)
+2025-05-24 15:33:19,626 - INFO - Waiting 8.6 seconds before next keyword...
+2025-05-24 15:33:25,863 - WARNING - Shutdown combo detected. Type 'STOP' to confirm.
+2025-05-24 15:33:28,201 - INFO - Searching for: vaksin babi
+2025-05-24 15:33:28,202 - INFO - ====== WebDriver manager ======
+2025-05-24 15:33:28,861 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-24 15:33:29,029 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-24 15:33:29,198 - INFO - Driver [C:\Users\arkan\.wdm\drivers\chromedriver\win64\137.0.7151.40\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-24 15:33:30,350 - INFO - WebDriver initialized successfully
+2025-05-24 15:33:30,351 - INFO - Attempting to login to Twitter
+2025-05-24 15:33:41,419 - INFO - Shutdown confirmed. Saving data and exiting...
+2025-05-24 15:33:42,900 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2025-05-24 15:33:42,900 - ERROR - Login failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-05-24 15:33:42,901 - ERROR - Cannot proceed without login
+2025-05-24 15:33:47,000 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002ED10C2C7C0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/d51c7f40c8ec35002440e48c0ffbc420
+2025-05-24 15:33:51,119 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002ED10C2C9E0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/d51c7f40c8ec35002440e48c0ffbc420
+2025-05-24 15:33:55,188 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002ED10C2CC00>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/d51c7f40c8ec35002440e48c0ffbc420
+2025-05-24 15:33:59,295 - WARNING - Failed to scrape keyword: vaksin babi
+2025-05-24 15:33:59,295 - INFO - Waiting 8.6 seconds before next keyword...
+2025-05-24 15:34:01,878 - INFO - Keyboard interrupt received. Shutting down...
+2025-05-24 15:34:01,879 - INFO - Final count: 2091 tweets saved to d:\ProjectDatMin\scraper\data\tweets_20250524_142948.csv

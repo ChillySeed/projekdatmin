@@ -1,0 +1,12 @@
+2025-05-24 14:29:10,916 - INFO - Logging initialized at: d:\ProjectDatMin\scraper\logs\scraper_log_20250524_142910.log
+2025-05-24 14:29:10,919 - INFO - CSV file created at: d:\ProjectDatMin\scraper\data\tweets_20250524_142910.csv
+2025-05-24 14:29:10,919 - INFO - Starting scraping process
+2025-05-24 14:29:10,920 - INFO - Searching for: vaksin
+2025-05-24 14:29:10,920 - INFO - ====== WebDriver manager ======
+2025-05-24 14:29:11,613 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-24 14:29:11,823 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-24 14:29:12,175 - INFO - Driver [C:\Users\arkan\.wdm\drivers\chromedriver\win64\137.0.7151.40\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-24 14:29:13,256 - INFO - WebDriver initialized successfully
+2025-05-24 14:29:13,256 - INFO - Attempting to login to Twitter
+2025-05-24 14:29:25,036 - ERROR - Login failed: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2025-05-24 14:29:25,037 - ERROR - Cannot proceed without login

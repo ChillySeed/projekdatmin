@@ -1,0 +1,132 @@
+2025-05-26 08:13:57,830 - INFO - Logging initialized at: d:\ProjectDatMin\scraper\logs\scraper_log_20250526_081357.log
+2025-05-26 08:13:57,831 - INFO - CSV file created at: d:\ProjectDatMin\scraper\data\tweets_20250526_081357.csv
+2025-05-26 08:13:57,831 - INFO - Starting scraping process
+2025-05-26 08:13:57,832 - INFO - Searching for: vaksin
+2025-05-26 08:13:57,832 - INFO - ====== WebDriver manager ======
+2025-05-26 08:13:58,646 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-26 08:13:58,779 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-26 08:13:58,875 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-26 08:13:59,128 - INFO - WebDriver version 137.0.7151.40 selected
+2025-05-26 08:13:59,133 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/137.0.7151.40/win32/chromedriver-win32.zip
+2025-05-26 08:13:59,134 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/137.0.7151.40/win32/chromedriver-win32.zip
+2025-05-26 08:13:59,472 - INFO - Driver downloading response is 200
+2025-05-26 08:14:02,399 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-26 08:14:02,888 - INFO - Driver has been saved in cache [C:\Users\arkan\.wdm\drivers\chromedriver\win64\137.0.7151.40]
+2025-05-26 08:14:04,959 - INFO - WebDriver initialized successfully
+2025-05-26 08:14:04,959 - INFO - Attempting to login to Twitter
+2025-05-26 08:14:26,475 - INFO - Successfully logged in to Twitter
+2025-05-26 08:14:36,021 - INFO - Saved tweet from @PngAdilnR4kyt
+2025-05-26 08:14:36,080 - INFO - Saved tweet from @NyaiNeneng
+2025-05-26 08:14:36,141 - INFO - Saved tweet from @pentolkuriya
+2025-05-26 08:14:36,202 - INFO - Saved tweet from @arinsyahr
+2025-05-26 08:14:36,263 - INFO - Saved tweet from @SumandoGaek
+2025-05-26 08:14:36,324 - INFO - Saved tweet from @pureblood_4ever
+2025-05-26 08:14:36,384 - INFO - Saved tweet from @PartaiSocmed
+2025-05-26 08:14:36,447 - INFO - Saved tweet from @poin_opini
+2025-05-26 08:14:40,163 - INFO - Saved tweet from @blue_berets7
+2025-05-26 08:14:40,239 - INFO - Saved tweet from @gusjunun
+2025-05-26 08:14:40,320 - INFO - Saved tweet from @TedInvestigasi
+2025-05-26 08:14:40,393 - INFO - Saved tweet from @blue_berets7
+2025-05-26 08:14:40,470 - INFO - Saved tweet from @MariaAlkaff_
+2025-05-26 08:14:40,545 - INFO - Saved tweet from @valiisaa
+2025-05-26 08:14:40,617 - INFO - Saved tweet from @xquitavee
+2025-05-26 08:14:44,357 - INFO - Saved tweet from @StopTBIndonesia
+2025-05-26 08:14:44,418 - INFO - Saved tweet from @iwanalidarmawan
+2025-05-26 08:14:44,479 - INFO - Saved tweet from @_______la_ye
+2025-05-26 08:14:44,537 - INFO - Saved tweet from @godspeeedss
+2025-05-26 08:14:44,599 - INFO - Saved tweet from @MariaAlkaff_
+2025-05-26 08:14:44,660 - INFO - Saved tweet from @Pulse_twt
+2025-05-26 08:14:44,720 - INFO - Saved tweet from @unicelounge
+2025-05-26 08:14:44,781 - INFO - Saved tweet from @AirinDatangLagi
+2025-05-26 08:14:47,891 - INFO - Saved tweet from @sexy_killer404
+2025-05-26 08:14:47,952 - INFO - Saved tweet from @dyanaputrin
+2025-05-26 08:14:48,011 - INFO - Saved tweet from @BaseBDG
+2025-05-26 08:14:48,075 - INFO - Saved tweet from @asumsico
+2025-05-26 08:14:48,134 - INFO - Saved tweet from @Ganjar_Mahfud03
+2025-05-26 08:14:48,194 - INFO - Saved tweet from @mufbins
+2025-05-26 08:14:48,251 - INFO - Saved tweet from @unicelounge
+2025-05-26 08:14:48,314 - INFO - Saved tweet from @otaakudang
+2025-05-26 08:14:48,383 - INFO - Saved tweet from @TedInvestigasi
+2025-05-26 08:14:51,614 - INFO - Saved tweet from @adi062002
+2025-05-26 08:14:51,681 - INFO - Saved tweet from @Azulaaaaaaaz
+2025-05-26 08:14:51,748 - INFO - Saved tweet from @FPKSDPRRI
+2025-05-26 08:14:51,816 - INFO - Saved tweet from @sidhanty
+2025-05-26 08:14:51,880 - INFO - Saved tweet from @MariaAlkaff_
+2025-05-26 08:14:51,945 - INFO - Saved tweet from @havenlywaytodie
+2025-05-26 08:14:52,012 - INFO - Saved tweet from @unicelounge
+2025-05-26 08:14:52,084 - INFO - Saved tweet from @santo52194
+2025-05-26 08:14:52,159 - INFO - Saved tweet from @geloraco
+2025-05-26 08:14:52,227 - INFO - Saved tweet from @unicelounge
+2025-05-26 08:14:52,294 - INFO - Saved tweet from @hanan052020
+2025-05-26 08:14:57,324 - INFO - Saved tweet from @wonglanang05
+2025-05-26 08:14:57,391 - INFO - Saved tweet from @imyourbbyss
+2025-05-26 08:14:57,458 - INFO - Saved tweet from @Boediantar4
+2025-05-26 08:14:57,526 - INFO - Saved tweet from @LockandLockJaw
+2025-05-26 08:14:57,595 - INFO - Saved tweet from @unicelounge
+2025-05-26 08:14:57,666 - INFO - Saved tweet from @nenglaela93
+2025-05-26 08:14:57,737 - INFO - Saved tweet from @Dani97aza
+2025-05-26 08:14:57,807 - INFO - Saved tweet from @WagimanDeep212_
+2025-05-26 08:14:57,881 - INFO - Saved tweet from @la_lalijah
+2025-05-26 08:14:57,950 - INFO - Saved tweet from @esadhx
+2025-05-26 08:14:58,019 - INFO - Saved tweet from @iTwitRealShit
+2025-05-26 08:14:58,088 - INFO - Saved tweet from @paxxinajiz
+2025-05-26 08:14:58,156 - INFO - Saved tweet from @goza_chan23
+2025-05-26 08:14:58,228 - INFO - Saved tweet from @faizkrisnadi
+2025-05-26 08:15:02,550 - INFO - Saved tweet from @truthspace_
+2025-05-26 08:15:02,617 - INFO - Saved tweet from @afsohee
+2025-05-26 08:15:02,687 - INFO - Saved tweet from @johnbukanjohan
+2025-05-26 08:15:02,758 - INFO - Saved tweet from @itsmedod_
+2025-05-26 08:15:02,828 - INFO - Saved tweet from @eminanivaIis
+2025-05-26 08:15:02,898 - INFO - Saved tweet from @blublblubblublu
+2025-05-26 08:15:02,965 - INFO - Saved tweet from @TedInvestigasi
+2025-05-26 08:15:03,116 - INFO - Saved tweet from @MasFurqon15
+2025-05-26 08:15:03,183 - INFO - Saved tweet from @PartaiSocmed
+2025-05-26 08:15:03,251 - INFO - Saved tweet from @shelvedbyme
+2025-05-26 08:15:03,321 - INFO - Saved tweet from @gloriathequin
+2025-05-26 08:15:03,391 - INFO - Saved tweet from @PartaiSocmed
+2025-05-26 08:15:03,460 - INFO - Saved tweet from @alisyarief
+2025-05-26 08:15:03,560 - INFO - Saved tweet from @OrterMald
+2025-05-26 08:15:06,760 - INFO - Saved tweet from @Manusiamer39266
+2025-05-26 08:15:06,820 - INFO - Saved tweet from @yukopangestu
+2025-05-26 08:15:06,879 - INFO - Saved tweet from @puputrossi
+2025-05-26 08:15:06,936 - INFO - Saved tweet from @FawaaZen
+2025-05-26 08:15:06,995 - INFO - Saved tweet from @firdaadilla
+2025-05-26 08:15:07,054 - INFO - Saved tweet from @bogeldoaibu
+2025-05-26 08:15:07,114 - INFO - Saved tweet from @Zlkh2021
+2025-05-26 08:15:07,172 - INFO - Saved tweet from @abyts_
+2025-05-26 08:15:07,233 - INFO - Saved tweet from @agnesiamgdln
+2025-05-26 08:15:07,293 - INFO - Saved tweet from @qarimma
+2025-05-26 08:15:07,351 - INFO - Saved tweet from @geloraco
+2025-05-26 08:15:07,409 - INFO - Saved tweet from @greyffindrr
+2025-05-26 08:15:11,391 - INFO - Saved tweet from @ArjayaDirja
+2025-05-26 08:15:11,451 - INFO - Saved tweet from @lvbnaFaz
+2025-05-26 08:15:11,510 - INFO - Saved tweet from @lustdemonx
+2025-05-26 08:15:11,568 - INFO - Saved tweet from @PartaiSocmed
+2025-05-26 08:15:11,638 - INFO - Saved tweet from @praditdita
+2025-05-26 08:15:11,707 - INFO - Saved tweet from @redfabreee
+2025-05-26 08:15:11,865 - INFO - Saved tweet from @hatebymom
+2025-05-26 08:15:11,929 - INFO - Saved tweet from @TedInvestigasi
+2025-05-26 08:15:12,008 - INFO - Saved tweet from @rangga_ga555
+2025-05-26 08:15:12,076 - INFO - Saved tweet from @malakaf46
+2025-05-26 08:15:12,137 - INFO - Saved tweet from @errrrynsyh
+2025-05-26 08:15:12,199 - INFO - Saved tweet from @MamangBadut
+2025-05-26 08:15:12,261 - INFO - Saved tweet from @efyandro
+2025-05-26 08:15:12,325 - INFO - Saved tweet from @M3di4Upd4t3
+2025-05-26 08:15:12,387 - INFO - Saved tweet from @MiraninonLita
+2025-05-26 08:15:16,628 - INFO - Saved tweet from @Vivittts
+2025-05-26 08:15:16,688 - INFO - Saved tweet from @mirrramenn
+2025-05-26 08:15:16,689 - INFO - Taking 30 second break after 100 requests
+2025-05-26 08:15:18,346 - WARNING - Shutdown combo detected. Type 'STOP' to confirm.
+2025-05-26 08:15:21,747 - INFO - Shutdown confirmed. Saving data and exiting...
+2025-05-26 08:15:50,785 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001EF85AE2850>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/d9da2282735e2e26770c4e323661a78c/execute/sync
+2025-05-26 08:15:54,886 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001EF85CB0CD0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/d9da2282735e2e26770c4e323661a78c/execute/sync
+2025-05-26 08:15:58,977 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001EF85B61BA0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/d9da2282735e2e26770c4e323661a78c/execute/sync
+2025-05-26 08:16:03,072 - ERROR - Error during scraping: HTTPConnectionPool(host='localhost', port=57948): Max retries exceeded with url: /session/d9da2282735e2e26770c4e323661a78c/execute/sync (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001EF85B62780>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-05-26 08:16:07,157 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001EF85BB5C70>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/d9da2282735e2e26770c4e323661a78c
+2025-05-26 08:16:11,237 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001EF85B57DF0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/d9da2282735e2e26770c4e323661a78c
+2025-05-26 08:16:15,329 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001EF85EA4050>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/d9da2282735e2e26770c4e323661a78c
+2025-05-26 08:16:17,380 - INFO - Keyboard interrupt received. Shutting down...
+2025-05-26 08:16:21,465 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001EF85EA45A0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/d9da2282735e2e26770c4e323661a78c
+2025-05-26 08:16:25,580 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001EF85EA47C0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/d9da2282735e2e26770c4e323661a78c
+2025-05-26 08:16:29,680 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001EF85EA49E0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/d9da2282735e2e26770c4e323661a78c
+2025-05-26 08:16:33,789 - INFO - Final count: 100 tweets saved to d:\ProjectDatMin\scraper\data\tweets_20250526_081357.csv

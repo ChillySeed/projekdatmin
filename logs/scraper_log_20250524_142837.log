@@ -1,0 +1,38 @@
+2025-05-24 14:28:37,514 - INFO - Logging initialized at: d:\ProjectDatMin\scraper\logs\scraper_log_20250524_142837.log
+2025-05-24 14:28:37,515 - INFO - CSV file created at: d:\ProjectDatMin\scraper\data\tweets_20250524_142837.csv
+2025-05-24 14:28:37,516 - INFO - Starting scraping process
+2025-05-24 14:28:37,517 - INFO - Searching for: vaksin
+2025-05-24 14:28:37,517 - INFO - ====== WebDriver manager ======
+2025-05-24 14:28:38,341 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-24 14:28:38,546 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-24 14:28:38,716 - INFO - Driver [C:\Users\arkan\.wdm\drivers\chromedriver\win64\137.0.7151.40\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-24 14:28:39,781 - INFO - WebDriver initialized successfully
+2025-05-24 14:28:39,781 - INFO - Attempting to login to Twitter
+2025-05-24 14:28:43,045 - ERROR - Login failed: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=137.0.7151.41)
+Stacktrace:
+	GetHandleVerifier [0x0x806423+63459]
+	GetHandleVerifier [0x0x806464+63524]
+	(No symbol) [0x0x631083]
+	(No symbol) [0x0x60ff59]
+	(No symbol) [0x0x6a4f7e]
+	(No symbol) [0x0x6bf6a9]
+	(No symbol) [0x0x69e316]
+	(No symbol) [0x0x66d640]
+	(No symbol) [0x0x66e4b4]
+	GetHandleVerifier [0x0xa67f63+2560803]
+	GetHandleVerifier [0x0xa633a2+2541410]
+	GetHandleVerifier [0x0x82c60a+219594]
+	GetHandleVerifier [0x0x81d2b8+157304]
+	GetHandleVerifier [0x0x82389d+183389]
+	GetHandleVerifier [0x0x80e388+96072]
+	GetHandleVerifier [0x0x80e530+96496]
+	GetHandleVerifier [0x0x7f925a+9754]
+	BaseThreadInitThunk [0x0x7667fcc9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x77ae82ae+286]
+	RtlGetAppContainerNamedObjectPath [0x0x77ae827e+238]
+
+2025-05-24 14:28:43,046 - ERROR - Cannot proceed without login
+2025-05-24 14:28:45,175 - WARNING - Failed to scrape keyword: vaksin
+2025-05-24 14:28:45,175 - INFO - Waiting 9.0 seconds before next keyword...

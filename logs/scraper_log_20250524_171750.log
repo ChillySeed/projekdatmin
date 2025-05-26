@@ -1,0 +1,11 @@
+2025-05-24 17:17:50,714 - INFO - Logging initialized at: d:\ProjectDatMin\scraper\logs\scraper_log_20250524_171750.log
+2025-05-24 17:17:50,715 - INFO - CSV file created at: d:\ProjectDatMin\scraper\data\tweets_20250524_171750.csv
+2025-05-24 17:17:50,715 - INFO - Starting scraping process
+2025-05-24 17:17:50,716 - INFO - Searching for: vaksin
+2025-05-24 17:17:50,716 - INFO - ====== WebDriver manager ======
+2025-05-24 17:17:51,408 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-24 17:17:52,021 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-24 17:17:52,302 - INFO - Driver [C:\Users\arkan\.wdm\drivers\chromedriver\win64\137.0.7151.40\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-24 17:17:53,405 - INFO - WebDriver initialized successfully
+2025-05-24 17:17:53,406 - INFO - Attempting to login to Twitter
+2025-05-24 17:18:04,633 - INFO - Detected unusual login activity check

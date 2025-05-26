@@ -1,0 +1,63 @@
+2025-05-24 17:06:34,474 - INFO - Logging initialized at: d:\ProjectDatMin\scraper\logs\scraper_log_20250524_170634.log
+2025-05-24 17:06:34,475 - INFO - CSV file created at: d:\ProjectDatMin\scraper\data\tweets_20250524_170634.csv
+2025-05-24 17:06:34,475 - INFO - Starting scraping process
+2025-05-24 17:06:34,475 - INFO - Searching for: vaksin
+2025-05-24 17:06:34,475 - INFO - ====== WebDriver manager ======
+2025-05-24 17:06:35,232 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-24 17:06:35,892 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-24 17:06:36,174 - INFO - Driver [C:\Users\arkan\.wdm\drivers\chromedriver\win64\137.0.7151.40\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-24 17:06:37,401 - INFO - WebDriver initialized successfully
+2025-05-24 17:06:37,401 - INFO - Attempting to login to Twitter
+2025-05-24 17:06:48,789 - INFO - Detected unusual login activity check
+2025-05-24 17:16:35,068 - WARNING - Shutdown combo detected. Type 'STOP' to confirm.
+2025-05-24 17:16:36,689 - ERROR - Login failed: Message: 
+Stacktrace:
+	GetHandleVerifier [0x0xa06423+63459]
+	GetHandleVerifier [0x0xa06464+63524]
+	(No symbol) [0x0x831083]
+	(No symbol) [0x0x87980e]
+	(No symbol) [0x0x879bab]
+	(No symbol) [0x0x8c25a2]
+	(No symbol) [0x0x89e564]
+	(No symbol) [0x0x8bfd9a]
+	(No symbol) [0x0x89e316]
+	(No symbol) [0x0x86d640]
+	(No symbol) [0x0x86e4b4]
+	GetHandleVerifier [0x0xc67f63+2560803]
+	GetHandleVerifier [0x0xc633a2+2541410]
+	GetHandleVerifier [0x0xa2c60a+219594]
+	GetHandleVerifier [0x0xa1d2b8+157304]
+	GetHandleVerifier [0x0xa2389d+183389]
+	GetHandleVerifier [0x0xa0e388+96072]
+	GetHandleVerifier [0x0xa0e530+96496]
+	GetHandleVerifier [0x0x9f925a+9754]
+	BaseThreadInitThunk [0x0x7667fcc9+25]
+	RtlGetAppContainerNamedObjectPath [0x0x77ae82ae+286]
+	RtlGetAppContainerNamedObjectPath [0x0x77ae827e+238]
+
+2025-05-24 17:16:36,690 - ERROR - Cannot proceed without login
+2025-05-24 17:16:39,084 - WARNING - Failed to scrape keyword: vaksin
+2025-05-24 17:16:39,084 - INFO - Waiting 5.7 seconds before next keyword...
+2025-05-24 17:16:44,760 - INFO - Searching for: vaksin covid
+2025-05-24 17:16:44,761 - INFO - ====== WebDriver manager ======
+2025-05-24 17:16:45,436 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-24 17:16:45,720 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-24 17:16:46,368 - INFO - Driver [C:\Users\arkan\.wdm\drivers\chromedriver\win64\137.0.7151.40\chromedriver-win32/chromedriver.exe] found in cache
+2025-05-24 17:16:47,454 - INFO - WebDriver initialized successfully
+2025-05-24 17:16:47,454 - INFO - Attempting to login to Twitter
+2025-05-24 17:16:54,520 - INFO - Shutdown aborted.
+2025-05-24 17:16:58,149 - WARNING - Shutdown combo detected. Type 'STOP' to confirm.
+2025-05-24 17:16:58,669 - INFO - Detected unusual login activity check
+2025-05-24 17:17:02,864 - INFO - Shutdown aborted.
+2025-05-24 17:17:06,984 - WARNING - Shutdown combo detected. Type 'STOP' to confirm.
+2025-05-24 17:17:11,696 - INFO - Shutdown confirmed. Saving data and exiting...
+2025-05-24 17:17:11,992 - WARNING - Connection pool is full, discarding connection: localhost. Connection pool size: 1
+2025-05-24 17:17:11,993 - ERROR - Login failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-05-24 17:17:11,993 - ERROR - Cannot proceed without login
+2025-05-24 17:17:16,064 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002951F08A650>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/5298b3f2a7ef2ae25dde1f72b1aa9f8d
+2025-05-24 17:17:20,170 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002951F0896E0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/5298b3f2a7ef2ae25dde1f72b1aa9f8d
+2025-05-24 17:17:24,284 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002951F0E9370>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it')': /session/5298b3f2a7ef2ae25dde1f72b1aa9f8d
+2025-05-24 17:17:28,378 - WARNING - Failed to scrape keyword: vaksin covid
+2025-05-24 17:17:28,379 - INFO - Waiting 5.7 seconds before next keyword...
+2025-05-24 17:17:34,034 - INFO - Scraping completed. Total tweets collected: 0
+2025-05-24 17:17:34,034 - INFO - Final count: 0 tweets saved to d:\ProjectDatMin\scraper\data\tweets_20250524_170634.csv
